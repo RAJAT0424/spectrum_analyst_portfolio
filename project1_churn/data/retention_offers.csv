@@ -1,0 +1,4001 @@
+customer_id,offer_date,test_group,churned_within_90d,offer_cost_monthly
+C103739,2025-06-17,Mobile Line Free 1yr,False,14
+C102108,2025-07-05,Control,False,0
+C101800,2025-11-02,Control,True,0
+C106302,2025-11-08,Mobile Line Free 1yr,False,14
+C102064,2025-07-09,Mobile Line Free 1yr,False,14
+C113533,2025-04-28,Mobile Line Free 1yr,False,14
+C115514,2025-08-22,Discount $10x12mo,False,10
+C107532,2025-03-11,Mobile Line Free 1yr,False,14
+C111626,2025-04-10,Control,False,0
+C111947,2025-06-30,Free Speed Upgrade,False,6
+C106879,2025-09-25,Mobile Line Free 1yr,True,14
+C101294,2025-06-19,Control,True,0
+C114214,2025-03-01,Discount $10x12mo,False,10
+C109300,2025-09-20,Mobile Line Free 1yr,False,14
+C109804,2025-08-03,Free Speed Upgrade,True,6
+C108094,2025-02-19,Control,False,0
+C114362,2025-09-09,Free Speed Upgrade,True,6
+C110835,2025-10-25,Discount $10x12mo,False,10
+C106121,2025-08-30,Mobile Line Free 1yr,False,14
+C113202,2025-07-08,Control,False,0
+C112057,2025-02-27,Free Speed Upgrade,False,6
+C107287,2025-07-04,Free Speed Upgrade,False,6
+C108406,2025-01-22,Mobile Line Free 1yr,False,14
+C102497,2025-09-19,Control,False,0
+C101927,2024-12-12,Discount $10x12mo,False,10
+C117899,2025-02-09,Control,False,0
+C100530,2025-10-10,Discount $10x12mo,False,10
+C113041,2025-01-27,Free Speed Upgrade,False,6
+C115467,2025-03-25,Control,False,0
+C114643,2025-08-08,Free Speed Upgrade,True,6
+C100176,2025-09-23,Control,False,0
+C105897,2025-03-19,Control,False,0
+C113432,2024-12-29,Discount $10x12mo,False,10
+C111397,2025-04-19,Control,False,0
+C102073,2025-01-06,Free Speed Upgrade,True,6
+C117445,2025-05-29,Discount $10x12mo,True,10
+C105768,2025-09-11,Mobile Line Free 1yr,False,14
+C119412,2025-06-23,Control,True,0
+C105823,2025-02-19,Control,False,0
+C113676,2025-07-26,Mobile Line Free 1yr,True,14
+C111372,2025-03-27,Control,False,0
+C106284,2024-12-27,Discount $10x12mo,False,10
+C111071,2025-03-19,Free Speed Upgrade,False,6
+C106969,2025-09-06,Control,False,0
+C115887,2025-04-07,Control,False,0
+C116954,2024-12-14,Mobile Line Free 1yr,False,14
+C110185,2025-09-09,Discount $10x12mo,False,10
+C105105,2025-06-12,Free Speed Upgrade,True,6
+C108225,2025-04-20,Control,False,0
+C119881,2025-09-16,Control,False,0
+C112356,2025-07-26,Discount $10x12mo,True,10
+C113724,2025-11-21,Mobile Line Free 1yr,False,14
+C113215,2025-01-11,Discount $10x12mo,True,10
+C114877,2025-06-06,Mobile Line Free 1yr,False,14
+C101033,2025-02-25,Discount $10x12mo,False,10
+C118554,2025-05-15,Discount $10x12mo,False,10
+C102862,2025-02-03,Mobile Line Free 1yr,False,14
+C111172,2025-11-06,Discount $10x12mo,True,10
+C106091,2025-04-29,Mobile Line Free 1yr,False,14
+C104289,2025-11-19,Mobile Line Free 1yr,False,14
+C105526,2025-01-27,Control,False,0
+C113638,2025-08-18,Control,False,0
+C109711,2025-02-20,Mobile Line Free 1yr,True,14
+C119809,2025-01-15,Free Speed Upgrade,False,6
+C116515,2025-08-15,Mobile Line Free 1yr,False,14
+C112055,2025-08-27,Free Speed Upgrade,False,6
+C102651,2025-11-20,Mobile Line Free 1yr,True,14
+C111497,2024-12-24,Mobile Line Free 1yr,False,14
+C113055,2025-08-21,Discount $10x12mo,False,10
+C115668,2025-06-23,Control,True,0
+C111049,2025-09-09,Discount $10x12mo,False,10
+C115697,2025-08-04,Discount $10x12mo,False,10
+C104163,2024-12-23,Free Speed Upgrade,False,6
+C111316,2025-09-08,Free Speed Upgrade,False,6
+C106663,2025-04-20,Discount $10x12mo,False,10
+C114296,2025-09-13,Free Speed Upgrade,False,6
+C118330,2025-06-17,Free Speed Upgrade,False,6
+C113420,2025-11-01,Control,False,0
+C110756,2025-01-17,Discount $10x12mo,True,10
+C111219,2024-12-14,Control,False,0
+C107516,2025-06-14,Mobile Line Free 1yr,False,14
+C107639,2025-11-06,Free Speed Upgrade,True,6
+C101313,2025-03-28,Control,False,0
+C109333,2025-10-09,Free Speed Upgrade,False,6
+C103637,2025-06-23,Control,False,0
+C113401,2025-11-17,Mobile Line Free 1yr,False,14
+C116185,2025-11-09,Discount $10x12mo,False,10
+C112737,2025-08-08,Free Speed Upgrade,False,6
+C115045,2025-04-24,Mobile Line Free 1yr,False,14
+C110878,2025-11-19,Control,False,0
+C101731,2025-02-07,Control,False,0
+C116024,2025-11-21,Control,False,0
+C103905,2025-07-21,Mobile Line Free 1yr,False,14
+C118440,2025-03-21,Control,False,0
+C113343,2025-06-27,Control,False,0
+C112614,2025-01-19,Control,False,0
+C117388,2025-07-18,Free Speed Upgrade,False,6
+C119849,2025-10-02,Free Speed Upgrade,False,6
+C108998,2025-10-10,Control,False,0
+C116098,2024-12-08,Mobile Line Free 1yr,False,14
+C116094,2025-04-06,Discount $10x12mo,False,10
+C119649,2025-10-13,Free Speed Upgrade,False,6
+C101169,2025-03-26,Mobile Line Free 1yr,True,14
+C117825,2025-03-02,Control,False,0
+C115952,2025-10-16,Free Speed Upgrade,True,6
+C111304,2025-10-31,Mobile Line Free 1yr,False,14
+C110524,2025-07-29,Mobile Line Free 1yr,False,14
+C108353,2025-02-12,Free Speed Upgrade,False,6
+C114010,2025-11-14,Control,False,0
+C114224,2025-10-07,Discount $10x12mo,True,10
+C112536,2025-10-10,Mobile Line Free 1yr,False,14
+C112942,2025-07-30,Mobile Line Free 1yr,False,14
+C108367,2025-06-20,Free Speed Upgrade,False,6
+C109936,2025-04-14,Discount $10x12mo,False,10
+C101409,2025-07-01,Mobile Line Free 1yr,False,14
+C106695,2025-10-19,Free Speed Upgrade,False,6
+C117281,2025-07-25,Mobile Line Free 1yr,False,14
+C112867,2025-03-23,Mobile Line Free 1yr,False,14
+C103211,2025-08-08,Control,False,0
+C106211,2025-06-28,Mobile Line Free 1yr,False,14
+C102616,2025-07-17,Discount $10x12mo,False,10
+C109841,2025-05-22,Free Speed Upgrade,False,6
+C118165,2025-06-21,Discount $10x12mo,False,10
+C107327,2025-06-13,Mobile Line Free 1yr,False,14
+C113011,2025-01-01,Control,False,0
+C109249,2025-05-02,Free Speed Upgrade,False,6
+C105544,2025-01-01,Mobile Line Free 1yr,False,14
+C117795,2025-05-06,Mobile Line Free 1yr,False,14
+C102538,2024-12-02,Mobile Line Free 1yr,False,14
+C114823,2025-04-03,Free Speed Upgrade,False,6
+C106472,2025-02-23,Free Speed Upgrade,False,6
+C117526,2025-03-12,Control,False,0
+C115109,2025-04-14,Free Speed Upgrade,True,6
+C111665,2025-06-24,Mobile Line Free 1yr,False,14
+C116648,2025-10-05,Mobile Line Free 1yr,False,14
+C119899,2025-07-03,Free Speed Upgrade,False,6
+C102106,2025-06-14,Discount $10x12mo,False,10
+C117111,2025-06-04,Control,False,0
+C108275,2025-10-28,Control,False,0
+C110471,2024-12-18,Free Speed Upgrade,True,6
+C107321,2025-09-25,Mobile Line Free 1yr,False,14
+C109881,2025-06-22,Mobile Line Free 1yr,False,14
+C118539,2025-10-02,Mobile Line Free 1yr,False,14
+C115641,2025-07-27,Free Speed Upgrade,False,6
+C107791,2025-09-29,Discount $10x12mo,False,10
+C106351,2025-07-29,Free Speed Upgrade,True,6
+C105742,2025-11-24,Mobile Line Free 1yr,True,14
+C104275,2024-12-16,Free Speed Upgrade,True,6
+C107465,2025-05-05,Discount $10x12mo,False,10
+C114193,2024-12-20,Control,False,0
+C118571,2025-02-28,Control,False,0
+C114508,2025-02-01,Mobile Line Free 1yr,False,14
+C116303,2025-06-15,Control,False,0
+C103092,2025-07-29,Free Speed Upgrade,False,6
+C107202,2025-08-30,Mobile Line Free 1yr,False,14
+C110657,2025-03-21,Free Speed Upgrade,False,6
+C105365,2025-07-29,Free Speed Upgrade,False,6
+C100327,2025-05-04,Discount $10x12mo,True,10
+C111198,2025-11-10,Free Speed Upgrade,False,6
+C100697,2025-07-09,Control,False,0
+C119860,2025-08-02,Discount $10x12mo,True,10
+C105134,2025-06-14,Control,False,0
+C119964,2025-03-30,Free Speed Upgrade,False,6
+C102304,2025-09-03,Free Speed Upgrade,True,6
+C102015,2025-06-07,Free Speed Upgrade,False,6
+C102352,2025-11-13,Mobile Line Free 1yr,True,14
+C117713,2025-01-13,Mobile Line Free 1yr,False,14
+C111104,2025-07-06,Control,True,0
+C103648,2025-01-23,Free Speed Upgrade,False,6
+C113782,2024-12-22,Control,False,0
+C100647,2025-07-09,Mobile Line Free 1yr,False,14
+C119374,2025-01-28,Free Speed Upgrade,False,6
+C104040,2024-12-14,Discount $10x12mo,False,10
+C110837,2025-03-25,Mobile Line Free 1yr,False,14
+C113516,2025-11-27,Mobile Line Free 1yr,False,14
+C106245,2025-05-04,Control,False,0
+C103787,2025-07-14,Mobile Line Free 1yr,False,14
+C112604,2025-01-17,Free Speed Upgrade,False,6
+C107463,2025-10-22,Discount $10x12mo,False,10
+C105056,2025-08-24,Discount $10x12mo,False,10
+C110224,2025-07-01,Control,True,0
+C107369,2024-12-22,Free Speed Upgrade,False,6
+C116577,2025-01-02,Control,False,0
+C109609,2025-06-28,Free Speed Upgrade,False,6
+C108394,2025-05-14,Control,True,0
+C103773,2025-11-05,Control,False,0
+C102589,2025-05-04,Control,False,0
+C101532,2025-02-27,Free Speed Upgrade,False,6
+C103491,2025-01-04,Free Speed Upgrade,False,6
+C115574,2025-09-28,Control,True,0
+C102835,2025-02-08,Mobile Line Free 1yr,False,14
+C107566,2025-09-16,Free Speed Upgrade,False,6
+C105405,2025-10-15,Discount $10x12mo,False,10
+C107669,2025-05-15,Mobile Line Free 1yr,False,14
+C112858,2025-01-17,Free Speed Upgrade,False,6
+C105587,2025-01-27,Free Speed Upgrade,False,6
+C103141,2025-01-10,Discount $10x12mo,False,10
+C100810,2025-07-23,Control,False,0
+C101981,2025-02-26,Free Speed Upgrade,False,6
+C113499,2025-04-07,Free Speed Upgrade,False,6
+C104437,2025-03-30,Free Speed Upgrade,False,6
+C104036,2024-12-02,Mobile Line Free 1yr,False,14
+C101177,2025-04-21,Free Speed Upgrade,False,6
+C115051,2025-04-26,Discount $10x12mo,False,10
+C116425,2025-05-22,Discount $10x12mo,False,10
+C101915,2025-03-16,Free Speed Upgrade,False,6
+C107836,2025-02-26,Control,False,0
+C102982,2025-04-06,Control,False,0
+C113130,2025-04-27,Discount $10x12mo,False,10
+C102675,2025-06-16,Discount $10x12mo,False,10
+C117097,2025-09-28,Discount $10x12mo,True,10
+C107795,2024-12-29,Mobile Line Free 1yr,False,14
+C117431,2025-05-14,Mobile Line Free 1yr,False,14
+C115129,2025-10-20,Mobile Line Free 1yr,False,14
+C112209,2025-02-20,Control,False,0
+C103396,2025-10-16,Free Speed Upgrade,False,6
+C115868,2025-09-07,Discount $10x12mo,False,10
+C103793,2025-08-27,Control,True,0
+C104612,2025-03-15,Control,False,0
+C109000,2025-11-12,Discount $10x12mo,False,10
+C105950,2025-01-10,Control,False,0
+C110862,2025-08-12,Control,True,0
+C119296,2025-06-29,Discount $10x12mo,False,10
+C118896,2025-04-05,Mobile Line Free 1yr,False,14
+C119141,2025-06-26,Free Speed Upgrade,False,6
+C114306,2025-06-19,Control,False,0
+C116111,2025-03-17,Free Speed Upgrade,False,6
+C119738,2024-12-19,Mobile Line Free 1yr,False,14
+C108964,2025-09-20,Mobile Line Free 1yr,False,14
+C101297,2025-01-27,Free Speed Upgrade,False,6
+C105309,2025-07-06,Mobile Line Free 1yr,False,14
+C102981,2025-01-25,Mobile Line Free 1yr,False,14
+C105479,2025-05-17,Discount $10x12mo,False,10
+C115619,2025-06-01,Mobile Line Free 1yr,False,14
+C107149,2025-09-07,Mobile Line Free 1yr,True,14
+C108372,2025-10-05,Mobile Line Free 1yr,False,14
+C106771,2025-10-06,Control,False,0
+C102734,2025-09-17,Mobile Line Free 1yr,False,14
+C108157,2024-12-20,Mobile Line Free 1yr,True,14
+C117316,2024-12-08,Mobile Line Free 1yr,True,14
+C109976,2025-07-27,Mobile Line Free 1yr,False,14
+C100646,2025-07-23,Free Speed Upgrade,True,6
+C119260,2025-06-19,Free Speed Upgrade,False,6
+C102309,2025-04-24,Discount $10x12mo,False,10
+C103857,2024-12-08,Free Speed Upgrade,False,6
+C102062,2025-08-04,Control,False,0
+C111154,2025-06-25,Discount $10x12mo,False,10
+C109087,2025-09-25,Mobile Line Free 1yr,False,14
+C100950,2025-11-28,Mobile Line Free 1yr,False,14
+C100139,2025-03-14,Free Speed Upgrade,True,6
+C102758,2025-01-15,Discount $10x12mo,False,10
+C104190,2025-11-07,Free Speed Upgrade,True,6
+C108395,2025-05-17,Mobile Line Free 1yr,False,14
+C108360,2025-08-17,Discount $10x12mo,False,10
+C100651,2025-04-24,Mobile Line Free 1yr,True,14
+C116167,2025-09-14,Free Speed Upgrade,False,6
+C103718,2025-11-16,Mobile Line Free 1yr,False,14
+C111296,2025-04-22,Discount $10x12mo,True,10
+C106942,2025-04-26,Free Speed Upgrade,False,6
+C103782,2025-03-04,Control,False,0
+C114561,2025-05-07,Discount $10x12mo,False,10
+C117892,2025-04-17,Discount $10x12mo,True,10
+C113734,2025-09-28,Free Speed Upgrade,True,6
+C119886,2025-08-23,Discount $10x12mo,True,10
+C117067,2025-07-01,Free Speed Upgrade,True,6
+C106719,2025-06-15,Control,False,0
+C105902,2025-06-21,Control,True,0
+C106988,2025-01-03,Free Speed Upgrade,False,6
+C116236,2024-12-30,Mobile Line Free 1yr,False,14
+C109625,2025-03-03,Control,False,0
+C116564,2025-01-06,Free Speed Upgrade,True,6
+C113054,2025-10-17,Mobile Line Free 1yr,False,14
+C106913,2025-07-01,Discount $10x12mo,False,10
+C116951,2025-07-28,Mobile Line Free 1yr,False,14
+C104979,2025-11-02,Discount $10x12mo,False,10
+C116722,2025-11-07,Discount $10x12mo,False,10
+C101776,2025-01-22,Free Speed Upgrade,False,6
+C112301,2025-03-30,Free Speed Upgrade,False,6
+C105700,2025-09-09,Control,False,0
+C116744,2025-06-13,Free Speed Upgrade,True,6
+C119684,2024-12-09,Mobile Line Free 1yr,False,14
+C113856,2025-09-16,Mobile Line Free 1yr,False,14
+C106418,2025-08-25,Discount $10x12mo,True,10
+C116117,2025-05-05,Control,False,0
+C117181,2024-12-13,Control,False,0
+C114472,2025-07-30,Free Speed Upgrade,False,6
+C118908,2025-05-01,Discount $10x12mo,False,10
+C114848,2025-07-08,Free Speed Upgrade,False,6
+C110196,2025-07-14,Discount $10x12mo,False,10
+C114037,2025-04-19,Discount $10x12mo,False,10
+C100458,2025-11-11,Control,True,0
+C111377,2024-12-05,Mobile Line Free 1yr,False,14
+C106666,2025-04-16,Control,True,0
+C117606,2025-04-09,Free Speed Upgrade,True,6
+C111718,2024-12-08,Control,True,0
+C105351,2025-02-21,Free Speed Upgrade,False,6
+C118762,2025-01-07,Mobile Line Free 1yr,True,14
+C111275,2025-05-24,Free Speed Upgrade,False,6
+C110350,2025-07-05,Mobile Line Free 1yr,False,14
+C101387,2024-12-18,Free Speed Upgrade,False,6
+C113509,2025-11-12,Control,False,0
+C109905,2025-11-26,Free Speed Upgrade,False,6
+C112666,2025-05-02,Mobile Line Free 1yr,False,14
+C112842,2025-07-04,Control,False,0
+C105080,2025-02-02,Control,False,0
+C108635,2025-10-17,Free Speed Upgrade,True,6
+C117707,2025-07-10,Discount $10x12mo,False,10
+C104181,2025-08-24,Mobile Line Free 1yr,False,14
+C102151,2025-07-23,Discount $10x12mo,True,10
+C118496,2025-11-08,Mobile Line Free 1yr,False,14
+C108318,2025-01-26,Discount $10x12mo,True,10
+C104503,2025-03-17,Control,False,0
+C111137,2025-02-22,Free Speed Upgrade,False,6
+C119023,2025-06-30,Discount $10x12mo,False,10
+C100474,2025-07-06,Control,False,0
+C114655,2025-10-13,Control,False,0
+C116578,2025-04-23,Free Speed Upgrade,False,6
+C100301,2025-01-17,Control,False,0
+C109798,2025-04-30,Control,False,0
+C117904,2025-06-07,Free Speed Upgrade,False,6
+C117377,2025-09-01,Discount $10x12mo,False,10
+C114297,2025-11-24,Control,False,0
+C113384,2025-06-07,Discount $10x12mo,False,10
+C109077,2025-02-15,Discount $10x12mo,False,10
+C100780,2025-05-28,Mobile Line Free 1yr,True,14
+C100837,2025-04-22,Mobile Line Free 1yr,False,14
+C102618,2024-12-08,Mobile Line Free 1yr,False,14
+C116393,2025-01-22,Mobile Line Free 1yr,True,14
+C106511,2025-11-16,Mobile Line Free 1yr,True,14
+C115142,2025-02-11,Free Speed Upgrade,False,6
+C116874,2025-08-19,Free Speed Upgrade,False,6
+C107123,2025-04-03,Mobile Line Free 1yr,False,14
+C107563,2025-10-14,Discount $10x12mo,False,10
+C112433,2025-05-17,Free Speed Upgrade,False,6
+C114084,2025-11-22,Control,True,0
+C110417,2024-12-24,Free Speed Upgrade,False,6
+C118306,2025-05-06,Discount $10x12mo,True,10
+C100688,2025-09-19,Mobile Line Free 1yr,False,14
+C112705,2025-05-29,Discount $10x12mo,False,10
+C119625,2025-06-30,Control,False,0
+C118645,2025-10-14,Control,False,0
+C106982,2025-09-08,Free Speed Upgrade,False,6
+C103256,2025-06-16,Control,True,0
+C101353,2024-12-28,Free Speed Upgrade,False,6
+C112373,2024-12-18,Free Speed Upgrade,False,6
+C104750,2025-03-29,Free Speed Upgrade,False,6
+C106927,2025-10-10,Control,False,0
+C118979,2025-10-02,Discount $10x12mo,False,10
+C115136,2025-03-10,Mobile Line Free 1yr,False,14
+C102256,2025-05-25,Discount $10x12mo,True,10
+C111973,2025-01-14,Mobile Line Free 1yr,False,14
+C112251,2025-10-25,Discount $10x12mo,True,10
+C110070,2025-08-10,Free Speed Upgrade,False,6
+C118163,2025-06-20,Mobile Line Free 1yr,False,14
+C118132,2025-01-16,Mobile Line Free 1yr,False,14
+C110695,2025-05-10,Discount $10x12mo,False,10
+C101504,2025-05-20,Mobile Line Free 1yr,False,14
+C116036,2025-07-29,Mobile Line Free 1yr,False,14
+C119454,2025-07-21,Control,False,0
+C104353,2025-06-27,Control,False,0
+C112784,2025-11-26,Control,True,0
+C100710,2025-09-12,Discount $10x12mo,False,10
+C102836,2024-12-15,Discount $10x12mo,True,10
+C107018,2025-03-16,Free Speed Upgrade,False,6
+C115676,2025-10-30,Discount $10x12mo,False,10
+C104579,2025-11-15,Control,False,0
+C115679,2025-05-28,Discount $10x12mo,False,10
+C116089,2024-12-03,Free Speed Upgrade,True,6
+C112116,2025-01-30,Control,False,0
+C111380,2025-05-11,Discount $10x12mo,True,10
+C101960,2025-11-08,Control,False,0
+C119836,2025-08-27,Discount $10x12mo,False,10
+C103001,2025-04-05,Free Speed Upgrade,True,6
+C104668,2025-05-28,Control,False,0
+C105081,2025-05-27,Control,False,0
+C109305,2025-04-07,Discount $10x12mo,False,10
+C106126,2025-06-16,Control,False,0
+C112787,2025-06-03,Mobile Line Free 1yr,False,14
+C102895,2025-06-10,Free Speed Upgrade,False,6
+C117486,2025-10-31,Free Speed Upgrade,False,6
+C111476,2025-01-17,Control,False,0
+C107137,2025-10-26,Free Speed Upgrade,False,6
+C105404,2025-03-21,Free Speed Upgrade,False,6
+C109920,2025-05-22,Free Speed Upgrade,False,6
+C101268,2025-04-22,Mobile Line Free 1yr,False,14
+C105039,2025-08-14,Control,False,0
+C119769,2025-08-02,Discount $10x12mo,False,10
+C100198,2025-05-02,Mobile Line Free 1yr,True,14
+C113791,2025-03-21,Free Speed Upgrade,False,6
+C101181,2025-01-21,Discount $10x12mo,False,10
+C104475,2025-10-21,Free Speed Upgrade,False,6
+C114816,2025-08-23,Free Speed Upgrade,False,6
+C112603,2025-07-05,Discount $10x12mo,False,10
+C107057,2025-11-05,Control,False,0
+C108375,2025-04-15,Free Speed Upgrade,False,6
+C115313,2025-02-10,Free Speed Upgrade,False,6
+C114908,2025-06-30,Discount $10x12mo,False,10
+C109872,2025-11-29,Mobile Line Free 1yr,True,14
+C102494,2025-08-27,Mobile Line Free 1yr,False,14
+C119214,2024-12-09,Mobile Line Free 1yr,False,14
+C108511,2025-04-24,Mobile Line Free 1yr,False,14
+C112641,2025-06-14,Mobile Line Free 1yr,False,14
+C117683,2025-06-26,Control,False,0
+C118765,2025-09-20,Mobile Line Free 1yr,False,14
+C105078,2025-04-04,Discount $10x12mo,False,10
+C107111,2024-12-04,Control,False,0
+C109490,2025-06-10,Mobile Line Free 1yr,False,14
+C117917,2025-05-01,Discount $10x12mo,False,10
+C106021,2025-01-06,Control,False,0
+C117684,2025-05-22,Free Speed Upgrade,False,6
+C100189,2025-07-31,Mobile Line Free 1yr,False,14
+C108957,2025-07-05,Discount $10x12mo,False,10
+C112467,2025-10-23,Free Speed Upgrade,False,6
+C101459,2025-03-15,Free Speed Upgrade,False,6
+C110684,2025-10-11,Discount $10x12mo,False,10
+C103152,2025-08-02,Free Speed Upgrade,False,6
+C113457,2025-06-09,Control,False,0
+C115774,2025-08-29,Control,False,0
+C117428,2025-09-13,Discount $10x12mo,False,10
+C116211,2025-03-12,Control,False,0
+C108077,2025-07-01,Mobile Line Free 1yr,False,14
+C103457,2025-06-23,Free Speed Upgrade,False,6
+C101229,2025-09-26,Discount $10x12mo,False,10
+C108554,2025-08-23,Control,False,0
+C118292,2025-04-17,Free Speed Upgrade,False,6
+C103089,2025-05-09,Discount $10x12mo,True,10
+C105358,2025-08-25,Mobile Line Free 1yr,False,14
+C105230,2025-01-15,Mobile Line Free 1yr,False,14
+C115597,2025-02-11,Control,False,0
+C101616,2025-09-20,Free Speed Upgrade,False,6
+C108474,2025-06-27,Discount $10x12mo,False,10
+C111978,2025-11-21,Discount $10x12mo,False,10
+C105578,2025-08-10,Free Speed Upgrade,True,6
+C115934,2025-10-20,Control,False,0
+C111701,2025-08-15,Free Speed Upgrade,False,6
+C100607,2025-07-08,Mobile Line Free 1yr,True,14
+C101439,2025-07-24,Mobile Line Free 1yr,False,14
+C103756,2025-11-21,Control,False,0
+C103482,2024-12-04,Free Speed Upgrade,True,6
+C113954,2025-05-02,Discount $10x12mo,False,10
+C101850,2025-03-07,Control,True,0
+C103395,2025-11-08,Control,False,0
+C106457,2025-06-29,Control,False,0
+C106275,2025-03-15,Mobile Line Free 1yr,False,14
+C112411,2024-12-21,Control,False,0
+C110042,2025-03-24,Control,False,0
+C109291,2025-01-07,Control,False,0
+C111284,2025-08-16,Free Speed Upgrade,False,6
+C105769,2025-03-03,Mobile Line Free 1yr,False,14
+C108849,2025-09-02,Free Speed Upgrade,False,6
+C105688,2025-07-03,Control,False,0
+C113689,2025-08-04,Discount $10x12mo,False,10
+C116646,2025-09-04,Discount $10x12mo,False,10
+C112644,2025-11-16,Free Speed Upgrade,False,6
+C104567,2025-05-21,Mobile Line Free 1yr,False,14
+C106398,2025-02-01,Discount $10x12mo,False,10
+C119585,2025-03-02,Discount $10x12mo,True,10
+C113627,2025-04-04,Discount $10x12mo,False,10
+C117693,2025-01-04,Discount $10x12mo,False,10
+C116737,2025-09-08,Discount $10x12mo,False,10
+C108576,2025-10-28,Discount $10x12mo,False,10
+C110191,2025-02-09,Mobile Line Free 1yr,False,14
+C118247,2025-02-21,Control,True,0
+C105757,2025-07-10,Discount $10x12mo,False,10
+C104684,2025-06-06,Free Speed Upgrade,False,6
+C107825,2024-12-17,Control,False,0
+C114364,2025-01-22,Discount $10x12mo,False,10
+C109773,2025-10-16,Free Speed Upgrade,False,6
+C116804,2025-08-17,Free Speed Upgrade,True,6
+C111053,2025-09-04,Discount $10x12mo,False,10
+C119691,2025-09-11,Discount $10x12mo,False,10
+C111874,2024-12-22,Free Speed Upgrade,False,6
+C108111,2025-07-03,Discount $10x12mo,False,10
+C109208,2025-01-13,Mobile Line Free 1yr,False,14
+C106564,2025-03-30,Discount $10x12mo,True,10
+C109264,2025-01-26,Free Speed Upgrade,True,6
+C104829,2025-10-28,Free Speed Upgrade,False,6
+C112385,2025-05-09,Discount $10x12mo,False,10
+C118901,2025-02-08,Discount $10x12mo,False,10
+C106678,2025-07-29,Control,False,0
+C116693,2025-11-10,Free Speed Upgrade,False,6
+C100013,2025-10-06,Control,True,0
+C107148,2025-08-25,Discount $10x12mo,True,10
+C102817,2025-01-05,Control,False,0
+C107013,2025-03-01,Free Speed Upgrade,False,6
+C114640,2025-01-05,Mobile Line Free 1yr,False,14
+C114498,2025-10-25,Mobile Line Free 1yr,False,14
+C119598,2025-02-03,Control,False,0
+C108976,2025-03-13,Control,False,0
+C104804,2025-07-31,Mobile Line Free 1yr,False,14
+C103198,2025-10-11,Free Speed Upgrade,False,6
+C119870,2024-12-29,Discount $10x12mo,False,10
+C102443,2025-03-18,Discount $10x12mo,False,10
+C111485,2025-10-30,Free Speed Upgrade,False,6
+C105035,2025-04-15,Control,False,0
+C111595,2025-02-26,Mobile Line Free 1yr,False,14
+C102534,2024-12-12,Discount $10x12mo,False,10
+C112470,2025-09-11,Control,True,0
+C104479,2025-10-15,Mobile Line Free 1yr,False,14
+C109378,2025-09-27,Mobile Line Free 1yr,False,14
+C105966,2025-06-11,Discount $10x12mo,False,10
+C113267,2025-02-25,Discount $10x12mo,False,10
+C110632,2025-11-04,Discount $10x12mo,True,10
+C118491,2024-12-14,Mobile Line Free 1yr,False,14
+C104069,2025-08-08,Free Speed Upgrade,False,6
+C116963,2025-11-28,Free Speed Upgrade,False,6
+C108763,2025-02-09,Control,True,0
+C115785,2025-08-18,Mobile Line Free 1yr,False,14
+C112278,2025-03-20,Mobile Line Free 1yr,False,14
+C107810,2025-02-14,Control,True,0
+C105724,2025-07-01,Free Speed Upgrade,True,6
+C111831,2025-11-26,Free Speed Upgrade,True,6
+C100451,2025-07-02,Control,True,0
+C117820,2025-03-05,Control,False,0
+C106022,2025-02-17,Discount $10x12mo,False,10
+C111690,2025-11-18,Discount $10x12mo,False,10
+C108898,2025-09-11,Control,False,0
+C115620,2025-03-15,Discount $10x12mo,False,10
+C104865,2025-05-01,Free Speed Upgrade,False,6
+C101020,2025-09-24,Control,False,0
+C115270,2025-02-05,Mobile Line Free 1yr,True,14
+C108532,2025-04-19,Mobile Line Free 1yr,True,14
+C112625,2025-10-24,Control,False,0
+C108248,2025-07-29,Free Speed Upgrade,False,6
+C100217,2025-03-16,Discount $10x12mo,False,10
+C100536,2025-08-09,Discount $10x12mo,False,10
+C110552,2025-06-03,Discount $10x12mo,False,10
+C115330,2025-09-09,Control,True,0
+C102788,2025-08-03,Control,False,0
+C115071,2024-12-25,Discount $10x12mo,False,10
+C108310,2025-06-20,Mobile Line Free 1yr,True,14
+C117951,2025-08-12,Mobile Line Free 1yr,False,14
+C104171,2025-06-11,Discount $10x12mo,False,10
+C108220,2025-09-21,Control,True,0
+C119712,2025-06-05,Discount $10x12mo,True,10
+C102529,2025-05-11,Control,False,0
+C108672,2025-03-07,Discount $10x12mo,False,10
+C112524,2025-06-10,Mobile Line Free 1yr,False,14
+C104120,2025-09-17,Mobile Line Free 1yr,False,14
+C110309,2025-08-21,Free Speed Upgrade,False,6
+C109232,2025-11-25,Discount $10x12mo,False,10
+C119340,2025-11-30,Free Speed Upgrade,False,6
+C109706,2025-03-25,Free Speed Upgrade,False,6
+C107562,2025-06-05,Free Speed Upgrade,False,6
+C117898,2025-01-07,Control,False,0
+C116590,2025-09-03,Discount $10x12mo,True,10
+C107740,2025-01-09,Discount $10x12mo,False,10
+C119361,2025-05-10,Control,True,0
+C117368,2025-03-06,Free Speed Upgrade,False,6
+C113556,2025-05-01,Free Speed Upgrade,False,6
+C102173,2024-12-02,Free Speed Upgrade,False,6
+C113772,2025-10-10,Control,False,0
+C108439,2025-02-11,Free Speed Upgrade,False,6
+C113015,2025-11-29,Mobile Line Free 1yr,False,14
+C104364,2025-04-30,Discount $10x12mo,False,10
+C112464,2025-03-10,Control,False,0
+C118166,2025-03-12,Discount $10x12mo,False,10
+C116097,2025-02-07,Mobile Line Free 1yr,False,14
+C108181,2025-07-21,Free Speed Upgrade,False,6
+C114738,2025-05-12,Discount $10x12mo,False,10
+C115040,2025-09-08,Discount $10x12mo,False,10
+C105186,2024-12-10,Free Speed Upgrade,False,6
+C107473,2025-01-16,Control,False,0
+C118313,2025-01-18,Mobile Line Free 1yr,False,14
+C108438,2024-12-10,Control,False,0
+C105794,2024-12-07,Control,False,0
+C109155,2025-06-06,Mobile Line Free 1yr,False,14
+C105848,2024-12-12,Control,False,0
+C111923,2025-07-26,Control,False,0
+C103085,2024-12-05,Mobile Line Free 1yr,False,14
+C112129,2025-11-10,Mobile Line Free 1yr,False,14
+C118311,2025-08-01,Free Speed Upgrade,False,6
+C116436,2025-07-31,Free Speed Upgrade,False,6
+C107605,2025-01-28,Discount $10x12mo,False,10
+C116845,2025-05-17,Control,True,0
+C101130,2025-10-20,Discount $10x12mo,False,10
+C110708,2025-08-05,Discount $10x12mo,False,10
+C113371,2024-12-12,Discount $10x12mo,False,10
+C112963,2025-04-03,Mobile Line Free 1yr,False,14
+C106437,2025-05-17,Discount $10x12mo,False,10
+C118036,2025-10-06,Discount $10x12mo,False,10
+C107068,2025-01-03,Control,False,0
+C103009,2025-09-01,Mobile Line Free 1yr,False,14
+C113414,2025-09-15,Discount $10x12mo,False,10
+C112752,2025-02-23,Control,False,0
+C117124,2025-07-30,Free Speed Upgrade,False,6
+C114445,2025-06-09,Control,False,0
+C105607,2025-01-24,Control,False,0
+C101102,2025-03-04,Discount $10x12mo,False,10
+C100089,2024-12-05,Mobile Line Free 1yr,False,14
+C108162,2025-02-12,Control,False,0
+C107253,2025-02-23,Free Speed Upgrade,False,6
+C109384,2025-05-31,Mobile Line Free 1yr,False,14
+C107932,2025-08-10,Control,False,0
+C117195,2025-01-23,Free Speed Upgrade,False,6
+C116829,2025-08-28,Free Speed Upgrade,False,6
+C114030,2025-01-04,Free Speed Upgrade,False,6
+C119727,2025-10-16,Free Speed Upgrade,False,6
+C102579,2025-09-30,Control,False,0
+C107614,2024-12-10,Discount $10x12mo,False,10
+C119960,2025-08-31,Free Speed Upgrade,False,6
+C114063,2025-09-08,Mobile Line Free 1yr,False,14
+C110712,2025-09-08,Control,False,0
+C100388,2025-03-25,Control,True,0
+C105939,2025-04-14,Control,True,0
+C108990,2025-08-11,Mobile Line Free 1yr,True,14
+C116293,2025-10-14,Discount $10x12mo,False,10
+C117861,2025-07-27,Free Speed Upgrade,False,6
+C114741,2024-12-26,Control,False,0
+C106586,2025-05-11,Discount $10x12mo,False,10
+C113194,2025-07-10,Discount $10x12mo,False,10
+C108036,2025-02-15,Free Speed Upgrade,False,6
+C119518,2025-05-22,Discount $10x12mo,False,10
+C118152,2025-09-24,Discount $10x12mo,False,10
+C103640,2025-05-08,Free Speed Upgrade,False,6
+C116913,2025-03-26,Discount $10x12mo,False,10
+C107241,2025-07-13,Mobile Line Free 1yr,False,14
+C109863,2025-07-05,Control,False,0
+C102317,2025-02-13,Discount $10x12mo,False,10
+C101256,2025-10-24,Mobile Line Free 1yr,False,14
+C117593,2025-01-29,Discount $10x12mo,False,10
+C102463,2025-04-12,Control,False,0
+C109503,2025-10-08,Control,False,0
+C112388,2024-12-17,Control,True,0
+C108063,2025-02-06,Free Speed Upgrade,True,6
+C100274,2025-08-09,Control,False,0
+C106278,2025-04-13,Mobile Line Free 1yr,True,14
+C104879,2025-04-13,Free Speed Upgrade,False,6
+C107073,2025-03-26,Free Speed Upgrade,False,6
+C116745,2025-06-30,Mobile Line Free 1yr,False,14
+C100487,2025-06-07,Free Speed Upgrade,True,6
+C100495,2025-09-08,Control,False,0
+C111032,2025-01-29,Free Speed Upgrade,False,6
+C103788,2025-07-11,Mobile Line Free 1yr,False,14
+C111777,2025-06-30,Free Speed Upgrade,False,6
+C102772,2025-02-24,Mobile Line Free 1yr,False,14
+C117199,2025-04-17,Free Speed Upgrade,True,6
+C112064,2025-09-11,Free Speed Upgrade,False,6
+C114250,2025-07-04,Free Speed Upgrade,False,6
+C103796,2025-07-15,Control,False,0
+C115866,2025-01-12,Mobile Line Free 1yr,False,14
+C109996,2025-10-29,Control,False,0
+C117656,2025-03-22,Mobile Line Free 1yr,True,14
+C100801,2025-08-04,Free Speed Upgrade,False,6
+C108702,2024-12-20,Control,True,0
+C101749,2025-06-19,Mobile Line Free 1yr,True,14
+C113392,2024-12-07,Discount $10x12mo,False,10
+C103405,2025-02-21,Mobile Line Free 1yr,True,14
+C103338,2025-08-22,Control,False,0
+C101300,2025-07-23,Control,False,0
+C117252,2025-05-20,Free Speed Upgrade,True,6
+C119662,2025-09-04,Discount $10x12mo,True,10
+C100157,2025-04-13,Discount $10x12mo,False,10
+C101084,2025-08-04,Free Speed Upgrade,False,6
+C115368,2025-05-11,Control,False,0
+C104101,2025-02-20,Discount $10x12mo,True,10
+C100359,2025-04-08,Mobile Line Free 1yr,False,14
+C102751,2025-03-29,Mobile Line Free 1yr,False,14
+C107174,2024-12-09,Free Speed Upgrade,True,6
+C103710,2025-08-20,Mobile Line Free 1yr,False,14
+C115323,2025-02-12,Control,False,0
+C106912,2025-06-22,Discount $10x12mo,False,10
+C116151,2025-05-22,Free Speed Upgrade,False,6
+C116855,2024-12-13,Control,False,0
+C108592,2025-08-25,Discount $10x12mo,False,10
+C115004,2025-09-26,Control,False,0
+C116552,2025-05-04,Free Speed Upgrade,False,6
+C114786,2025-11-14,Mobile Line Free 1yr,False,14
+C109642,2025-02-07,Mobile Line Free 1yr,True,14
+C106038,2025-01-12,Free Speed Upgrade,False,6
+C101281,2025-01-14,Mobile Line Free 1yr,False,14
+C101152,2025-11-17,Discount $10x12mo,False,10
+C101860,2024-12-20,Mobile Line Free 1yr,False,14
+C108015,2025-01-07,Discount $10x12mo,False,10
+C108601,2024-12-14,Control,False,0
+C110764,2025-04-03,Mobile Line Free 1yr,False,14
+C100742,2025-09-12,Mobile Line Free 1yr,False,14
+C118803,2025-03-28,Discount $10x12mo,False,10
+C110403,2025-08-25,Discount $10x12mo,True,10
+C107143,2025-04-16,Mobile Line Free 1yr,False,14
+C118070,2025-08-03,Mobile Line Free 1yr,True,14
+C112029,2025-04-20,Discount $10x12mo,False,10
+C115814,2025-07-11,Mobile Line Free 1yr,False,14
+C107850,2025-05-27,Free Speed Upgrade,False,6
+C105610,2025-07-15,Discount $10x12mo,False,10
+C102398,2025-09-20,Free Speed Upgrade,False,6
+C110247,2024-12-26,Free Speed Upgrade,False,6
+C110951,2024-12-08,Mobile Line Free 1yr,False,14
+C110220,2025-01-07,Mobile Line Free 1yr,False,14
+C103276,2025-11-22,Free Speed Upgrade,False,6
+C104058,2025-02-20,Control,True,0
+C117630,2025-10-18,Free Speed Upgrade,False,6
+C106571,2025-02-21,Free Speed Upgrade,False,6
+C113808,2025-11-19,Free Speed Upgrade,False,6
+C114637,2024-12-17,Control,False,0
+C112119,2025-10-02,Control,True,0
+C117957,2025-05-12,Free Speed Upgrade,False,6
+C107686,2025-11-06,Free Speed Upgrade,True,6
+C110839,2025-10-07,Discount $10x12mo,False,10
+C110145,2025-11-15,Mobile Line Free 1yr,False,14
+C102875,2025-08-15,Control,False,0
+C119701,2025-09-29,Mobile Line Free 1yr,True,14
+C105854,2025-11-14,Discount $10x12mo,True,10
+C109786,2025-10-16,Mobile Line Free 1yr,False,14
+C107763,2025-06-26,Mobile Line Free 1yr,False,14
+C109033,2025-04-25,Discount $10x12mo,False,10
+C115275,2025-01-27,Mobile Line Free 1yr,True,14
+C112466,2025-06-06,Free Speed Upgrade,False,6
+C104347,2025-03-31,Free Speed Upgrade,False,6
+C110202,2025-09-29,Free Speed Upgrade,True,6
+C112856,2025-02-05,Free Speed Upgrade,True,6
+C119647,2025-08-14,Mobile Line Free 1yr,False,14
+C107777,2024-12-23,Free Speed Upgrade,False,6
+C106410,2025-03-14,Mobile Line Free 1yr,False,14
+C105865,2025-06-02,Control,False,0
+C102248,2025-08-01,Mobile Line Free 1yr,False,14
+C112003,2025-05-22,Free Speed Upgrade,False,6
+C119337,2025-06-13,Control,False,0
+C107848,2025-03-16,Discount $10x12mo,False,10
+C116049,2025-10-28,Free Speed Upgrade,False,6
+C117268,2025-01-06,Free Speed Upgrade,True,6
+C108014,2025-10-17,Discount $10x12mo,False,10
+C110255,2025-08-18,Discount $10x12mo,False,10
+C100376,2025-03-12,Free Speed Upgrade,False,6
+C106201,2025-10-18,Mobile Line Free 1yr,False,14
+C118428,2025-09-22,Mobile Line Free 1yr,False,14
+C100826,2025-04-24,Discount $10x12mo,False,10
+C118090,2025-05-03,Mobile Line Free 1yr,True,14
+C100045,2025-01-27,Mobile Line Free 1yr,False,14
+C102876,2025-07-01,Free Speed Upgrade,False,6
+C103031,2025-10-16,Discount $10x12mo,False,10
+C116698,2025-05-14,Control,False,0
+C112200,2025-11-25,Control,False,0
+C119014,2025-05-02,Mobile Line Free 1yr,True,14
+C101878,2025-01-08,Control,True,0
+C104283,2025-02-21,Discount $10x12mo,False,10
+C118146,2025-08-28,Free Speed Upgrade,False,6
+C118182,2025-10-26,Mobile Line Free 1yr,False,14
+C107591,2025-08-08,Mobile Line Free 1yr,False,14
+C106310,2025-06-27,Mobile Line Free 1yr,True,14
+C115251,2025-05-07,Discount $10x12mo,False,10
+C104444,2025-02-26,Free Speed Upgrade,True,6
+C106930,2025-08-12,Free Speed Upgrade,False,6
+C116920,2025-08-12,Control,False,0
+C110280,2025-11-30,Free Speed Upgrade,False,6
+C113477,2025-02-05,Free Speed Upgrade,False,6
+C105482,2025-04-18,Mobile Line Free 1yr,False,14
+C108055,2025-11-29,Mobile Line Free 1yr,False,14
+C105866,2025-06-19,Control,False,0
+C115090,2025-07-13,Discount $10x12mo,False,10
+C115092,2024-12-15,Mobile Line Free 1yr,False,14
+C119583,2025-02-25,Mobile Line Free 1yr,False,14
+C116010,2025-04-20,Mobile Line Free 1yr,False,14
+C105648,2025-02-02,Control,True,0
+C117752,2025-01-05,Mobile Line Free 1yr,False,14
+C117871,2025-08-24,Discount $10x12mo,True,10
+C117888,2025-05-28,Control,False,0
+C117793,2025-10-02,Discount $10x12mo,False,10
+C108402,2025-11-05,Free Speed Upgrade,False,6
+C115258,2024-12-15,Mobile Line Free 1yr,False,14
+C102668,2025-10-04,Control,False,0
+C118043,2025-09-20,Free Speed Upgrade,False,6
+C118127,2024-12-21,Control,False,0
+C108840,2025-06-20,Discount $10x12mo,False,10
+C107313,2025-04-22,Free Speed Upgrade,False,6
+C111569,2025-09-01,Mobile Line Free 1yr,False,14
+C100276,2025-03-06,Mobile Line Free 1yr,False,14
+C114609,2025-10-10,Mobile Line Free 1yr,False,14
+C119866,2024-12-15,Discount $10x12mo,False,10
+C104158,2025-09-09,Mobile Line Free 1yr,True,14
+C100076,2025-06-15,Discount $10x12mo,False,10
+C102013,2025-08-12,Discount $10x12mo,False,10
+C118187,2025-01-01,Free Speed Upgrade,False,6
+C110550,2025-10-26,Mobile Line Free 1yr,False,14
+C107261,2025-11-21,Discount $10x12mo,False,10
+C108950,2025-03-14,Mobile Line Free 1yr,False,14
+C115558,2025-08-23,Discount $10x12mo,False,10
+C117023,2025-08-15,Mobile Line Free 1yr,False,14
+C108623,2025-01-22,Free Speed Upgrade,False,6
+C115721,2025-02-07,Discount $10x12mo,False,10
+C105591,2025-07-31,Discount $10x12mo,False,10
+C117576,2025-08-30,Mobile Line Free 1yr,True,14
+C112346,2025-03-20,Mobile Line Free 1yr,False,14
+C106270,2025-04-13,Control,False,0
+C105838,2025-09-24,Control,False,0
+C105789,2025-10-28,Discount $10x12mo,False,10
+C115652,2025-05-17,Free Speed Upgrade,True,6
+C117916,2025-08-05,Mobile Line Free 1yr,False,14
+C117347,2025-02-17,Control,False,0
+C115268,2025-06-13,Control,True,0
+C114953,2025-03-14,Free Speed Upgrade,False,6
+C110520,2025-06-01,Control,False,0
+C100012,2025-05-12,Discount $10x12mo,True,10
+C114891,2025-04-09,Free Speed Upgrade,True,6
+C111442,2025-07-02,Free Speed Upgrade,False,6
+C111917,2025-01-15,Control,False,0
+C113135,2025-11-13,Mobile Line Free 1yr,False,14
+C117291,2024-12-21,Mobile Line Free 1yr,False,14
+C104536,2025-02-28,Free Speed Upgrade,False,6
+C108347,2025-04-26,Discount $10x12mo,False,10
+C114407,2025-10-26,Discount $10x12mo,False,10
+C113769,2025-02-17,Discount $10x12mo,False,10
+C103570,2025-01-27,Free Speed Upgrade,False,6
+C104755,2025-11-10,Discount $10x12mo,False,10
+C109622,2025-09-13,Free Speed Upgrade,False,6
+C109787,2025-06-03,Free Speed Upgrade,False,6
+C112824,2025-07-27,Discount $10x12mo,False,10
+C109834,2025-05-26,Discount $10x12mo,True,10
+C105079,2025-11-18,Free Speed Upgrade,False,6
+C109151,2024-12-05,Free Speed Upgrade,True,6
+C102332,2025-11-12,Control,True,0
+C106422,2025-10-07,Discount $10x12mo,False,10
+C101322,2025-11-18,Mobile Line Free 1yr,False,14
+C101578,2025-02-17,Mobile Line Free 1yr,False,14
+C103173,2025-09-12,Discount $10x12mo,False,10
+C118051,2025-09-06,Control,False,0
+C115773,2025-08-02,Free Speed Upgrade,True,6
+C108121,2025-02-10,Control,False,0
+C101227,2024-12-14,Free Speed Upgrade,True,6
+C100872,2025-07-27,Free Speed Upgrade,False,6
+C105314,2025-09-30,Mobile Line Free 1yr,False,14
+C100709,2024-12-30,Control,False,0
+C110679,2025-06-04,Discount $10x12mo,False,10
+C114594,2025-04-10,Mobile Line Free 1yr,False,14
+C102048,2025-06-04,Mobile Line Free 1yr,False,14
+C112539,2025-10-27,Mobile Line Free 1yr,False,14
+C100285,2025-08-07,Discount $10x12mo,False,10
+C108292,2025-11-02,Discount $10x12mo,True,10
+C102430,2025-06-19,Mobile Line Free 1yr,True,14
+C107061,2025-04-15,Discount $10x12mo,False,10
+C113023,2025-04-24,Mobile Line Free 1yr,False,14
+C110016,2025-03-20,Free Speed Upgrade,False,6
+C106790,2025-02-04,Free Speed Upgrade,False,6
+C119776,2025-03-26,Control,False,0
+C115278,2025-07-03,Control,True,0
+C114219,2025-10-19,Control,False,0
+C113026,2025-08-06,Control,False,0
+C113640,2025-03-24,Control,False,0
+C109740,2025-02-02,Free Speed Upgrade,True,6
+C114546,2025-05-03,Discount $10x12mo,False,10
+C110625,2025-07-25,Free Speed Upgrade,True,6
+C105095,2025-01-27,Free Speed Upgrade,False,6
+C115409,2025-06-18,Control,True,0
+C104921,2025-01-09,Mobile Line Free 1yr,False,14
+C100288,2025-03-08,Mobile Line Free 1yr,False,14
+C108064,2025-04-10,Discount $10x12mo,False,10
+C100091,2025-03-25,Discount $10x12mo,True,10
+C110398,2025-04-07,Control,True,0
+C110402,2025-06-28,Discount $10x12mo,False,10
+C110848,2024-12-20,Discount $10x12mo,False,10
+C117560,2025-03-15,Mobile Line Free 1yr,False,14
+C119458,2025-11-26,Mobile Line Free 1yr,False,14
+C119445,2025-01-21,Discount $10x12mo,False,10
+C105055,2025-02-05,Free Speed Upgrade,False,6
+C114952,2024-12-27,Control,False,0
+C105749,2025-07-19,Control,False,0
+C119270,2025-03-11,Free Speed Upgrade,False,6
+C118177,2025-05-02,Control,True,0
+C118026,2025-10-16,Discount $10x12mo,False,10
+C109135,2025-07-19,Mobile Line Free 1yr,False,14
+C111758,2024-12-20,Free Speed Upgrade,False,6
+C113319,2025-05-22,Mobile Line Free 1yr,False,14
+C106005,2025-03-28,Free Speed Upgrade,False,6
+C113110,2025-05-11,Discount $10x12mo,False,10
+C111916,2025-02-09,Discount $10x12mo,False,10
+C115266,2025-01-03,Control,False,0
+C100673,2025-10-11,Control,True,0
+C117834,2025-03-07,Discount $10x12mo,False,10
+C112199,2025-03-09,Discount $10x12mo,False,10
+C109149,2025-07-19,Control,False,0
+C104803,2025-01-13,Free Speed Upgrade,False,6
+C112437,2024-12-06,Mobile Line Free 1yr,False,14
+C103557,2025-05-01,Discount $10x12mo,False,10
+C104136,2025-02-20,Mobile Line Free 1yr,False,14
+C109550,2025-01-13,Free Speed Upgrade,False,6
+C114423,2025-07-23,Mobile Line Free 1yr,False,14
+C118065,2025-05-17,Control,False,0
+C113114,2025-08-13,Mobile Line Free 1yr,False,14
+C117483,2025-04-23,Control,False,0
+C112874,2025-09-21,Free Speed Upgrade,False,6
+C119821,2025-06-24,Discount $10x12mo,True,10
+C107675,2025-10-26,Free Speed Upgrade,False,6
+C113804,2025-04-12,Discount $10x12mo,False,10
+C110506,2025-06-30,Discount $10x12mo,False,10
+C110219,2025-06-12,Discount $10x12mo,False,10
+C115560,2025-07-01,Discount $10x12mo,False,10
+C111458,2025-02-06,Discount $10x12mo,False,10
+C117611,2025-04-03,Free Speed Upgrade,True,6
+C100610,2025-09-28,Control,False,0
+C109826,2025-07-29,Discount $10x12mo,False,10
+C104126,2025-09-22,Mobile Line Free 1yr,False,14
+C101448,2025-08-07,Mobile Line Free 1yr,False,14
+C106109,2025-08-23,Free Speed Upgrade,False,6
+C108490,2025-11-13,Discount $10x12mo,False,10
+C118941,2025-08-01,Mobile Line Free 1yr,False,14
+C103928,2025-04-11,Free Speed Upgrade,False,6
+C110668,2025-09-13,Mobile Line Free 1yr,False,14
+C113471,2024-12-27,Free Speed Upgrade,True,6
+C115374,2025-07-26,Discount $10x12mo,False,10
+C104761,2025-08-13,Discount $10x12mo,False,10
+C115854,2025-09-21,Discount $10x12mo,False,10
+C117818,2025-08-30,Free Speed Upgrade,False,6
+C105345,2025-09-13,Free Speed Upgrade,True,6
+C103651,2025-04-22,Mobile Line Free 1yr,False,14
+C109319,2025-04-04,Discount $10x12mo,False,10
+C118433,2025-07-06,Free Speed Upgrade,False,6
+C111641,2025-11-07,Control,True,0
+C101851,2025-02-22,Control,False,0
+C101399,2025-06-17,Control,False,0
+C101099,2025-11-28,Control,True,0
+C115971,2025-08-05,Control,False,0
+C105570,2025-08-14,Control,False,0
+C106701,2025-03-02,Control,False,0
+C101275,2025-11-16,Control,False,0
+C115351,2025-03-16,Discount $10x12mo,False,10
+C119720,2025-08-09,Control,False,0
+C114739,2025-10-11,Mobile Line Free 1yr,False,14
+C102407,2024-12-11,Discount $10x12mo,False,10
+C109415,2025-07-05,Discount $10x12mo,False,10
+C116468,2025-03-14,Control,False,0
+C109505,2025-07-05,Mobile Line Free 1yr,False,14
+C115573,2025-07-11,Control,True,0
+C108424,2025-09-28,Discount $10x12mo,True,10
+C114284,2025-04-06,Control,False,0
+C107242,2024-12-23,Control,False,0
+C116868,2024-12-07,Free Speed Upgrade,False,6
+C114520,2024-12-16,Mobile Line Free 1yr,False,14
+C101030,2025-01-03,Control,False,0
+C100065,2025-03-21,Control,False,0
+C117977,2025-07-27,Control,False,0
+C110903,2025-02-03,Free Speed Upgrade,False,6
+C107179,2025-10-29,Free Speed Upgrade,True,6
+C107102,2025-06-10,Control,True,0
+C102390,2025-07-12,Control,False,0
+C109519,2025-06-21,Mobile Line Free 1yr,False,14
+C104674,2025-07-31,Control,False,0
+C112017,2025-04-22,Control,False,0
+C112176,2025-10-20,Free Speed Upgrade,False,6
+C112397,2025-02-27,Free Speed Upgrade,False,6
+C107996,2025-03-08,Mobile Line Free 1yr,False,14
+C113684,2024-12-21,Control,False,0
+C114580,2025-01-28,Free Speed Upgrade,False,6
+C102446,2025-11-20,Control,True,0
+C104274,2025-02-14,Mobile Line Free 1yr,False,14
+C106359,2025-03-26,Free Speed Upgrade,True,6
+C100934,2025-07-29,Mobile Line Free 1yr,True,14
+C105881,2025-09-08,Mobile Line Free 1yr,True,14
+C103611,2024-12-14,Free Speed Upgrade,False,6
+C110868,2025-01-18,Control,False,0
+C109005,2025-07-12,Discount $10x12mo,False,10
+C118285,2025-04-16,Discount $10x12mo,False,10
+C106014,2024-12-26,Discount $10x12mo,False,10
+C100672,2025-08-25,Discount $10x12mo,False,10
+C112273,2025-07-18,Free Speed Upgrade,False,6
+C101272,2025-04-18,Free Speed Upgrade,True,6
+C111832,2025-11-07,Mobile Line Free 1yr,False,14
+C100340,2025-08-30,Discount $10x12mo,False,10
+C111427,2025-10-07,Mobile Line Free 1yr,False,14
+C100888,2025-11-01,Mobile Line Free 1yr,False,14
+C118793,2025-06-20,Mobile Line Free 1yr,False,14
+C107624,2025-11-04,Discount $10x12mo,False,10
+C111537,2025-10-14,Mobile Line Free 1yr,False,14
+C118752,2025-02-28,Mobile Line Free 1yr,False,14
+C119384,2025-10-24,Free Speed Upgrade,True,6
+C109690,2025-11-05,Free Speed Upgrade,False,6
+C114550,2025-05-02,Control,False,0
+C118882,2025-04-23,Mobile Line Free 1yr,False,14
+C119219,2025-08-09,Discount $10x12mo,True,10
+C118519,2025-02-17,Free Speed Upgrade,False,6
+C101228,2025-09-11,Free Speed Upgrade,False,6
+C102548,2025-02-09,Discount $10x12mo,False,10
+C108962,2025-02-12,Free Speed Upgrade,False,6
+C115830,2025-02-10,Free Speed Upgrade,False,6
+C100960,2025-11-18,Free Speed Upgrade,False,6
+C112340,2025-06-10,Mobile Line Free 1yr,False,14
+C118371,2024-12-08,Mobile Line Free 1yr,False,14
+C119121,2025-01-10,Discount $10x12mo,False,10
+C100923,2025-11-24,Free Speed Upgrade,False,6
+C102451,2025-08-05,Discount $10x12mo,True,10
+C103707,2025-04-22,Free Speed Upgrade,False,6
+C110282,2025-06-13,Control,False,0
+C109456,2025-07-29,Discount $10x12mo,False,10
+C106116,2025-04-26,Control,True,0
+C107229,2025-11-07,Mobile Line Free 1yr,False,14
+C117521,2025-09-30,Discount $10x12mo,False,10
+C109468,2025-06-26,Discount $10x12mo,False,10
+C113649,2025-06-07,Discount $10x12mo,False,10
+C111585,2025-10-12,Discount $10x12mo,True,10
+C119377,2025-02-15,Mobile Line Free 1yr,False,14
+C107506,2025-01-03,Mobile Line Free 1yr,False,14
+C112197,2025-05-21,Free Speed Upgrade,True,6
+C115287,2025-11-02,Discount $10x12mo,False,10
+C111251,2025-10-04,Discount $10x12mo,False,10
+C115352,2025-08-03,Control,False,0
+C116714,2025-05-10,Discount $10x12mo,False,10
+C118790,2025-10-14,Free Speed Upgrade,True,6
+C111670,2025-05-31,Discount $10x12mo,False,10
+C106375,2025-11-10,Discount $10x12mo,False,10
+C103882,2025-01-09,Mobile Line Free 1yr,True,14
+C119247,2025-10-11,Mobile Line Free 1yr,False,14
+C115295,2025-08-16,Free Speed Upgrade,False,6
+C110434,2025-01-03,Discount $10x12mo,False,10
+C112006,2025-07-14,Discount $10x12mo,False,10
+C103040,2025-09-13,Control,False,0
+C109304,2025-11-21,Free Speed Upgrade,False,6
+C102075,2025-10-21,Discount $10x12mo,False,10
+C105548,2025-02-23,Control,False,0
+C111479,2025-01-06,Control,False,0
+C114470,2025-01-31,Discount $10x12mo,False,10
+C112505,2025-05-15,Mobile Line Free 1yr,False,14
+C105658,2024-12-20,Free Speed Upgrade,False,6
+C110575,2025-01-30,Discount $10x12mo,False,10
+C103957,2025-03-13,Discount $10x12mo,False,10
+C103336,2025-10-15,Free Speed Upgrade,False,6
+C112783,2024-12-18,Mobile Line Free 1yr,True,14
+C100183,2025-05-25,Mobile Line Free 1yr,False,14
+C102813,2025-10-18,Free Speed Upgrade,False,6
+C119672,2025-04-08,Free Speed Upgrade,False,6
+C104894,2025-01-02,Control,True,0
+C117074,2025-04-01,Discount $10x12mo,False,10
+C112498,2025-04-09,Discount $10x12mo,False,10
+C107922,2025-07-28,Free Speed Upgrade,False,6
+C107987,2025-03-26,Free Speed Upgrade,False,6
+C106591,2025-03-13,Discount $10x12mo,False,10
+C100247,2025-11-19,Mobile Line Free 1yr,False,14
+C110133,2025-05-08,Mobile Line Free 1yr,False,14
+C116856,2025-05-23,Discount $10x12mo,False,10
+C106580,2025-01-08,Control,False,0
+C117244,2025-07-29,Control,False,0
+C117305,2025-10-29,Mobile Line Free 1yr,True,14
+C115037,2025-05-08,Free Speed Upgrade,False,6
+C112750,2025-04-20,Mobile Line Free 1yr,False,14
+C102543,2025-07-26,Mobile Line Free 1yr,False,14
+C117315,2025-05-19,Control,False,0
+C103991,2025-06-02,Discount $10x12mo,True,10
+C108558,2025-04-03,Free Speed Upgrade,False,6
+C108095,2025-05-02,Control,False,0
+C102666,2025-05-26,Discount $10x12mo,False,10
+C109335,2025-01-28,Control,False,0
+C117102,2025-06-25,Control,False,0
+C111812,2025-04-16,Control,False,0
+C115350,2025-02-14,Discount $10x12mo,True,10
+C108983,2025-05-30,Control,True,0
+C114641,2025-05-10,Mobile Line Free 1yr,False,14
+C106672,2025-05-03,Control,False,0
+C102490,2025-10-22,Free Speed Upgrade,False,6
+C102591,2025-08-20,Mobile Line Free 1yr,False,14
+C119404,2025-04-14,Free Speed Upgrade,False,6
+C117803,2025-04-27,Discount $10x12mo,False,10
+C103247,2025-06-01,Free Speed Upgrade,False,6
+C102800,2025-05-05,Mobile Line Free 1yr,True,14
+C101506,2025-01-29,Discount $10x12mo,False,10
+C107411,2025-01-13,Control,False,0
+C109012,2025-09-28,Control,False,0
+C117622,2025-06-10,Free Speed Upgrade,True,6
+C108483,2025-08-24,Control,False,0
+C114310,2025-11-13,Free Speed Upgrade,False,6
+C110495,2024-12-24,Mobile Line Free 1yr,False,14
+C111984,2025-05-05,Discount $10x12mo,False,10
+C101657,2025-06-12,Control,False,0
+C108303,2025-11-24,Control,False,0
+C106826,2024-12-17,Free Speed Upgrade,False,6
+C104360,2025-02-06,Mobile Line Free 1yr,False,14
+C117371,2025-03-02,Mobile Line Free 1yr,False,14
+C104849,2024-12-07,Discount $10x12mo,False,10
+C110447,2025-07-06,Free Speed Upgrade,False,6
+C109663,2025-05-20,Free Speed Upgrade,False,6
+C119609,2025-05-06,Control,False,0
+C111210,2025-02-10,Control,False,0
+C115913,2025-03-12,Free Speed Upgrade,False,6
+C110535,2025-04-12,Control,False,0
+C106713,2025-09-05,Free Speed Upgrade,True,6
+C101472,2025-10-21,Mobile Line Free 1yr,False,14
+C102637,2025-01-02,Control,False,0
+C101937,2025-07-24,Free Speed Upgrade,False,6
+C102856,2024-12-31,Free Speed Upgrade,True,6
+C118229,2025-07-06,Discount $10x12mo,False,10
+C112120,2025-06-29,Control,False,0
+C103360,2025-06-09,Control,False,0
+C107283,2025-06-30,Mobile Line Free 1yr,False,14
+C117821,2025-06-30,Free Speed Upgrade,False,6
+C111770,2025-11-20,Discount $10x12mo,False,10
+C111153,2025-02-03,Control,False,0
+C100053,2025-04-21,Discount $10x12mo,False,10
+C110780,2025-03-14,Free Speed Upgrade,False,6
+C113429,2025-11-24,Control,False,0
+C111566,2024-12-27,Discount $10x12mo,False,10
+C103033,2025-06-07,Mobile Line Free 1yr,False,14
+C116459,2025-08-27,Control,False,0
+C114269,2025-04-26,Free Speed Upgrade,False,6
+C103243,2024-12-23,Free Speed Upgrade,False,6
+C104916,2025-10-17,Free Speed Upgrade,False,6
+C113646,2025-07-28,Free Speed Upgrade,False,6
+C118390,2025-03-21,Control,False,0
+C101804,2025-03-06,Control,True,0
+C109131,2025-03-12,Discount $10x12mo,False,10
+C110405,2025-07-30,Control,False,0
+C119278,2025-09-19,Control,False,0
+C119759,2025-03-30,Mobile Line Free 1yr,False,14
+C112358,2025-10-25,Control,True,0
+C112588,2025-08-08,Mobile Line Free 1yr,True,14
+C113708,2025-10-26,Control,False,0
+C100081,2025-08-26,Discount $10x12mo,False,10
+C115157,2025-10-02,Control,True,0
+C101151,2025-10-12,Control,False,0
+C109311,2025-01-16,Mobile Line Free 1yr,False,14
+C100581,2025-07-29,Discount $10x12mo,True,10
+C101561,2025-09-21,Discount $10x12mo,False,10
+C113234,2025-01-28,Control,False,0
+C108422,2025-11-11,Discount $10x12mo,False,10
+C110658,2025-03-22,Mobile Line Free 1yr,False,14
+C115319,2025-07-14,Control,False,0
+C101530,2025-05-16,Control,False,0
+C100632,2025-02-16,Free Speed Upgrade,False,6
+C111368,2025-05-23,Discount $10x12mo,False,10
+C107985,2025-05-22,Mobile Line Free 1yr,False,14
+C119566,2025-03-02,Control,False,0
+C103769,2025-03-28,Mobile Line Free 1yr,False,14
+C101038,2025-02-27,Control,True,0
+C108336,2025-03-29,Control,True,0
+C119240,2025-08-18,Free Speed Upgrade,False,6
+C118038,2025-05-21,Mobile Line Free 1yr,True,14
+C116786,2025-08-29,Free Speed Upgrade,False,6
+C110832,2025-04-18,Free Speed Upgrade,False,6
+C115570,2025-10-26,Mobile Line Free 1yr,False,14
+C103510,2025-04-13,Control,False,0
+C103814,2025-07-18,Control,False,0
+C108043,2025-05-06,Free Speed Upgrade,False,6
+C104140,2025-06-23,Control,False,0
+C115140,2025-07-11,Control,True,0
+C109987,2025-04-07,Mobile Line Free 1yr,True,14
+C104356,2025-11-21,Free Speed Upgrade,False,6
+C100623,2025-06-07,Mobile Line Free 1yr,False,14
+C100948,2025-03-19,Discount $10x12mo,False,10
+C111422,2025-09-10,Free Speed Upgrade,False,6
+C105352,2025-07-14,Control,False,0
+C102223,2025-08-11,Mobile Line Free 1yr,False,14
+C109972,2024-12-19,Discount $10x12mo,False,10
+C105713,2025-02-17,Mobile Line Free 1yr,False,14
+C105408,2025-08-25,Discount $10x12mo,False,10
+C106136,2025-05-10,Free Speed Upgrade,False,6
+C113449,2025-07-30,Control,False,0
+C102578,2025-05-23,Control,False,0
+C116375,2025-08-05,Mobile Line Free 1yr,False,14
+C116789,2025-09-06,Mobile Line Free 1yr,False,14
+C111680,2025-03-26,Control,False,0
+C100196,2025-10-06,Discount $10x12mo,True,10
+C104416,2025-06-02,Discount $10x12mo,False,10
+C107926,2025-03-27,Mobile Line Free 1yr,False,14
+C102561,2025-08-04,Discount $10x12mo,False,10
+C108755,2025-04-08,Mobile Line Free 1yr,True,14
+C114244,2025-04-08,Discount $10x12mo,False,10
+C119612,2025-08-11,Mobile Line Free 1yr,False,14
+C103303,2025-01-23,Free Speed Upgrade,True,6
+C103988,2025-04-25,Discount $10x12mo,False,10
+C104592,2025-09-07,Discount $10x12mo,False,10
+C112313,2025-10-04,Discount $10x12mo,False,10
+C106688,2025-09-10,Discount $10x12mo,True,10
+C115154,2024-12-19,Free Speed Upgrade,False,6
+C119318,2025-02-21,Free Speed Upgrade,False,6
+C118448,2025-05-11,Control,False,0
+C100088,2025-09-01,Control,False,0
+C113225,2025-09-27,Mobile Line Free 1yr,False,14
+C111646,2025-11-15,Free Speed Upgrade,False,6
+C107549,2025-05-16,Mobile Line Free 1yr,False,14
+C109234,2024-12-24,Mobile Line Free 1yr,False,14
+C103456,2025-04-20,Free Speed Upgrade,True,6
+C100168,2024-12-12,Free Speed Upgrade,False,6
+C103827,2025-10-29,Mobile Line Free 1yr,False,14
+C111314,2025-05-15,Free Speed Upgrade,False,6
+C104588,2025-10-06,Mobile Line Free 1yr,False,14
+C102785,2025-09-29,Free Speed Upgrade,False,6
+C101785,2025-05-06,Free Speed Upgrade,True,6
+C118062,2025-01-12,Discount $10x12mo,False,10
+C110515,2025-11-27,Mobile Line Free 1yr,False,14
+C118215,2025-09-24,Control,False,0
+C109189,2025-02-06,Control,True,0
+C103284,2025-06-16,Discount $10x12mo,False,10
+C113942,2025-06-11,Free Speed Upgrade,False,6
+C102276,2025-10-17,Discount $10x12mo,False,10
+C111579,2025-05-16,Mobile Line Free 1yr,False,14
+C108991,2025-10-30,Mobile Line Free 1yr,False,14
+C112767,2025-09-14,Free Speed Upgrade,False,6
+C106783,2025-05-02,Free Speed Upgrade,False,6
+C101980,2025-06-07,Mobile Line Free 1yr,False,14
+C114976,2025-04-11,Control,True,0
+C119704,2025-03-05,Discount $10x12mo,False,10
+C117495,2024-12-17,Free Speed Upgrade,True,6
+C114505,2025-05-06,Control,False,0
+C106407,2025-05-03,Mobile Line Free 1yr,False,14
+C100441,2025-01-13,Discount $10x12mo,False,10
+C118057,2025-01-07,Discount $10x12mo,False,10
+C104270,2025-09-12,Discount $10x12mo,False,10
+C100484,2025-04-25,Discount $10x12mo,False,10
+C118430,2025-09-08,Discount $10x12mo,False,10
+C117043,2024-12-08,Mobile Line Free 1yr,True,14
+C107026,2024-12-28,Free Speed Upgrade,False,6
+C109465,2025-01-31,Control,False,0
+C104137,2025-11-18,Free Speed Upgrade,False,6
+C100817,2025-10-09,Mobile Line Free 1yr,False,14
+C109680,2025-08-31,Mobile Line Free 1yr,False,14
+C110426,2025-10-18,Mobile Line Free 1yr,False,14
+C103918,2025-08-27,Free Speed Upgrade,False,6
+C106644,2024-12-24,Discount $10x12mo,True,10
+C102698,2025-09-13,Discount $10x12mo,False,10
+C117508,2025-08-12,Free Speed Upgrade,False,6
+C119461,2025-10-02,Discount $10x12mo,False,10
+C104938,2025-05-29,Free Speed Upgrade,False,6
+C115777,2025-07-27,Discount $10x12mo,False,10
+C115373,2025-01-03,Discount $10x12mo,False,10
+C112058,2025-05-17,Discount $10x12mo,True,10
+C112624,2025-09-27,Discount $10x12mo,False,10
+C109823,2025-07-14,Free Speed Upgrade,False,6
+C115608,2025-01-14,Free Speed Upgrade,True,6
+C117970,2025-07-01,Free Speed Upgrade,False,6
+C105807,2025-03-27,Control,False,0
+C101366,2025-02-13,Mobile Line Free 1yr,True,14
+C118383,2025-01-11,Control,False,0
+C114359,2025-07-18,Mobile Line Free 1yr,False,14
+C110359,2025-05-31,Free Speed Upgrade,False,6
+C108942,2025-05-27,Free Speed Upgrade,False,6
+C100766,2025-09-07,Control,True,0
+C109069,2025-03-29,Discount $10x12mo,False,10
+C115202,2025-05-23,Control,False,0
+C109369,2025-08-18,Free Speed Upgrade,False,6
+C101737,2025-05-26,Mobile Line Free 1yr,False,14
+C107454,2025-02-04,Free Speed Upgrade,False,6
+C117584,2024-12-30,Free Speed Upgrade,False,6
+C104861,2025-05-20,Free Speed Upgrade,False,6
+C117432,2025-01-03,Mobile Line Free 1yr,False,14
+C106855,2025-09-12,Discount $10x12mo,False,10
+C101047,2025-07-29,Free Speed Upgrade,True,6
+C104326,2025-02-22,Discount $10x12mo,False,10
+C104665,2025-02-13,Free Speed Upgrade,False,6
+C119822,2025-09-05,Mobile Line Free 1yr,True,14
+C111633,2024-12-03,Discount $10x12mo,False,10
+C104099,2025-03-23,Discount $10x12mo,False,10
+C104426,2025-05-07,Free Speed Upgrade,True,6
+C109668,2025-02-06,Mobile Line Free 1yr,False,14
+C111213,2025-04-23,Mobile Line Free 1yr,False,14
+C116752,2025-09-09,Discount $10x12mo,False,10
+C118666,2025-05-14,Discount $10x12mo,False,10
+C110709,2025-03-13,Control,True,0
+C108556,2025-08-30,Free Speed Upgrade,False,6
+C109480,2025-10-08,Mobile Line Free 1yr,False,14
+C108703,2025-02-17,Free Speed Upgrade,False,6
+C111496,2025-08-29,Discount $10x12mo,False,10
+C111744,2025-09-10,Control,False,0
+C105575,2025-01-30,Free Speed Upgrade,False,6
+C113492,2025-03-19,Free Speed Upgrade,False,6
+C114906,2025-05-24,Discount $10x12mo,False,10
+C106250,2025-06-02,Control,False,0
+C111668,2025-11-12,Mobile Line Free 1yr,False,14
+C117958,2025-08-11,Mobile Line Free 1yr,False,14
+C119424,2025-09-24,Control,False,0
+C118464,2025-04-17,Discount $10x12mo,True,10
+C116991,2025-04-19,Mobile Line Free 1yr,False,14
+C111401,2025-01-19,Free Speed Upgrade,False,6
+C107689,2025-07-10,Discount $10x12mo,False,10
+C103326,2025-02-11,Control,False,0
+C104635,2025-02-12,Discount $10x12mo,False,10
+C107746,2025-02-05,Control,False,0
+C113348,2025-09-18,Discount $10x12mo,False,10
+C108426,2025-03-18,Mobile Line Free 1yr,False,14
+C117750,2025-04-13,Mobile Line Free 1yr,False,14
+C107082,2025-10-03,Mobile Line Free 1yr,False,14
+C109022,2025-05-18,Mobile Line Free 1yr,False,14
+C115675,2025-06-16,Free Speed Upgrade,False,6
+C114791,2025-06-29,Mobile Line Free 1yr,False,14
+C118421,2025-11-05,Free Speed Upgrade,True,6
+C114449,2025-08-19,Control,False,0
+C109632,2025-11-07,Control,True,0
+C117130,2025-05-16,Mobile Line Free 1yr,False,14
+C118911,2025-03-10,Discount $10x12mo,False,10
+C118957,2025-04-17,Control,False,0
+C103212,2025-05-18,Free Speed Upgrade,False,6
+C109452,2025-09-06,Free Speed Upgrade,False,6
+C109279,2025-02-11,Control,False,0
+C100723,2025-05-10,Control,False,0
+C110991,2025-03-09,Free Speed Upgrade,False,6
+C118289,2025-09-19,Free Speed Upgrade,False,6
+C108135,2025-08-15,Mobile Line Free 1yr,False,14
+C119631,2025-01-27,Free Speed Upgrade,False,6
+C103416,2025-03-05,Free Speed Upgrade,False,6
+C110491,2025-08-19,Control,False,0
+C109314,2025-05-05,Free Speed Upgrade,True,6
+C101930,2025-05-19,Mobile Line Free 1yr,False,14
+C112910,2025-08-02,Discount $10x12mo,True,10
+C119879,2025-11-09,Discount $10x12mo,False,10
+C109186,2025-09-26,Free Speed Upgrade,False,6
+C111199,2025-03-01,Mobile Line Free 1yr,False,14
+C103090,2025-04-15,Discount $10x12mo,False,10
+C117931,2025-02-07,Free Speed Upgrade,False,6
+C101077,2025-11-01,Free Speed Upgrade,False,6
+C108118,2025-03-24,Discount $10x12mo,False,10
+C119093,2025-01-20,Discount $10x12mo,True,10
+C105726,2024-12-25,Free Speed Upgrade,False,6
+C106301,2025-09-30,Free Speed Upgrade,False,6
+C115779,2025-08-28,Mobile Line Free 1yr,False,14
+C114088,2025-11-02,Control,False,0
+C101594,2025-07-28,Discount $10x12mo,False,10
+C117864,2025-01-23,Discount $10x12mo,False,10
+C118758,2024-12-21,Free Speed Upgrade,False,6
+C114676,2025-03-16,Mobile Line Free 1yr,False,14
+C114717,2025-09-14,Free Speed Upgrade,False,6
+C104514,2025-03-01,Free Speed Upgrade,False,6
+C104939,2025-10-09,Discount $10x12mo,False,10
+C118592,2025-01-16,Mobile Line Free 1yr,False,14
+C118219,2025-04-05,Free Speed Upgrade,False,6
+C110819,2025-10-17,Control,False,0
+C117132,2025-10-11,Control,False,0
+C117585,2025-05-16,Discount $10x12mo,True,10
+C107653,2025-09-25,Free Speed Upgrade,False,6
+C111243,2025-07-18,Control,True,0
+C117726,2025-10-03,Free Speed Upgrade,True,6
+C102647,2025-02-26,Mobile Line Free 1yr,False,14
+C106971,2025-11-22,Mobile Line Free 1yr,False,14
+C111867,2025-04-25,Free Speed Upgrade,False,6
+C104393,2025-01-14,Discount $10x12mo,False,10
+C115207,2024-12-30,Free Speed Upgrade,False,6
+C109380,2025-10-13,Control,False,0
+C104401,2025-09-08,Free Speed Upgrade,False,6
+C105074,2025-09-06,Control,True,0
+C111954,2025-08-13,Mobile Line Free 1yr,True,14
+C112665,2025-08-07,Free Speed Upgrade,False,6
+C103498,2025-07-19,Control,False,0
+C102535,2025-11-03,Free Speed Upgrade,False,6
+C114920,2025-03-21,Mobile Line Free 1yr,False,14
+C115440,2025-09-24,Control,False,0
+C119192,2025-04-09,Mobile Line Free 1yr,False,14
+C118071,2025-02-27,Free Speed Upgrade,True,6
+C108052,2025-01-11,Control,False,0
+C117556,2025-05-17,Control,False,0
+C106338,2024-12-20,Discount $10x12mo,False,10
+C106531,2025-02-22,Mobile Line Free 1yr,False,14
+C101685,2025-09-23,Discount $10x12mo,False,10
+C114064,2024-12-14,Discount $10x12mo,False,10
+C114400,2025-05-30,Mobile Line Free 1yr,False,14
+C100093,2025-07-26,Free Speed Upgrade,False,6
+C107586,2024-12-23,Control,False,0
+C109217,2024-12-16,Free Speed Upgrade,False,6
+C119868,2024-12-23,Control,False,0
+C114511,2025-02-24,Mobile Line Free 1yr,False,14
+C101220,2025-05-10,Free Speed Upgrade,False,6
+C119862,2025-07-22,Mobile Line Free 1yr,True,14
+C107291,2025-06-30,Discount $10x12mo,False,10
+C107230,2025-01-15,Mobile Line Free 1yr,True,14
+C114858,2025-01-20,Control,True,0
+C116271,2025-06-14,Control,False,0
+C108894,2025-07-31,Free Speed Upgrade,False,6
+C109324,2025-02-12,Free Speed Upgrade,False,6
+C117228,2025-11-03,Mobile Line Free 1yr,False,14
+C118110,2025-10-23,Control,False,0
+C116324,2025-02-11,Free Speed Upgrade,False,6
+C110060,2025-11-24,Control,False,0
+C118375,2025-08-12,Control,False,0
+C109734,2025-03-02,Discount $10x12mo,False,10
+C114356,2025-01-18,Free Speed Upgrade,False,6
+C118626,2025-03-02,Discount $10x12mo,False,10
+C108642,2025-01-23,Control,False,0
+C115695,2025-01-13,Discount $10x12mo,False,10
+C113909,2025-09-12,Free Speed Upgrade,False,6
+C119978,2025-07-19,Discount $10x12mo,False,10
+C118764,2025-08-30,Discount $10x12mo,False,10
+C119875,2025-05-31,Control,False,0
+C115134,2025-05-12,Control,False,0
+C117729,2025-08-03,Discount $10x12mo,False,10
+C114888,2024-12-08,Discount $10x12mo,False,10
+C105307,2025-06-07,Free Speed Upgrade,True,6
+C110170,2025-07-24,Discount $10x12mo,True,10
+C115627,2025-02-03,Discount $10x12mo,False,10
+C103087,2025-03-31,Free Speed Upgrade,False,6
+C110218,2025-09-27,Control,False,0
+C108396,2025-03-28,Discount $10x12mo,False,10
+C100309,2025-02-26,Free Speed Upgrade,False,6
+C108944,2025-05-14,Discount $10x12mo,False,10
+C118467,2025-07-02,Mobile Line Free 1yr,False,14
+C112754,2025-05-31,Discount $10x12mo,False,10
+C109571,2025-08-18,Mobile Line Free 1yr,False,14
+C103519,2025-11-19,Control,False,0
+C118487,2025-02-07,Control,False,0
+C101223,2025-11-12,Free Speed Upgrade,False,6
+C116150,2025-03-12,Free Speed Upgrade,False,6
+C104092,2025-06-29,Control,True,0
+C115993,2025-10-06,Mobile Line Free 1yr,False,14
+C112967,2025-01-28,Mobile Line Free 1yr,False,14
+C104758,2025-05-01,Mobile Line Free 1yr,False,14
+C101949,2025-07-18,Discount $10x12mo,False,10
+C116516,2025-07-06,Mobile Line Free 1yr,True,14
+C100736,2025-02-05,Discount $10x12mo,False,10
+C115914,2024-12-16,Discount $10x12mo,False,10
+C105207,2025-04-27,Mobile Line Free 1yr,False,14
+C102481,2025-08-25,Control,False,0
+C110283,2025-05-12,Discount $10x12mo,True,10
+C102056,2025-05-24,Control,False,0
+C109907,2025-04-21,Mobile Line Free 1yr,True,14
+C112598,2025-09-30,Free Speed Upgrade,False,6
+C109589,2025-01-01,Control,False,0
+C118069,2025-03-27,Free Speed Upgrade,True,6
+C101711,2025-08-18,Free Speed Upgrade,False,6
+C113382,2025-08-02,Discount $10x12mo,False,10
+C111847,2025-04-14,Mobile Line Free 1yr,False,14
+C115324,2025-06-29,Discount $10x12mo,False,10
+C110948,2025-05-07,Discount $10x12mo,False,10
+C106315,2025-03-22,Free Speed Upgrade,False,6
+C104061,2025-10-27,Free Speed Upgrade,False,6
+C100036,2024-12-03,Mobile Line Free 1yr,False,14
+C119108,2025-03-17,Control,False,0
+C104768,2025-01-25,Mobile Line Free 1yr,False,14
+C115475,2025-04-12,Discount $10x12mo,False,10
+C104772,2025-04-27,Control,False,0
+C101810,2025-02-17,Control,False,0
+C117594,2025-08-16,Mobile Line Free 1yr,False,14
+C105279,2025-02-25,Control,False,0
+C105955,2025-04-27,Discount $10x12mo,False,10
+C104206,2025-09-18,Discount $10x12mo,False,10
+C112114,2025-06-17,Control,True,0
+C109250,2025-08-17,Discount $10x12mo,False,10
+C118145,2025-02-11,Free Speed Upgrade,True,6
+C112587,2025-05-01,Mobile Line Free 1yr,False,14
+C102078,2025-10-30,Mobile Line Free 1yr,False,14
+C116581,2024-12-31,Mobile Line Free 1yr,False,14
+C116349,2025-04-12,Free Speed Upgrade,False,6
+C108891,2025-09-01,Control,False,0
+C119435,2025-03-21,Mobile Line Free 1yr,False,14
+C117601,2024-12-25,Discount $10x12mo,False,10
+C109098,2025-08-29,Mobile Line Free 1yr,False,14
+C114990,2025-08-15,Discount $10x12mo,True,10
+C109114,2025-04-04,Control,False,0
+C113445,2025-08-19,Free Speed Upgrade,False,6
+C108477,2025-03-24,Discount $10x12mo,False,10
+C115986,2025-06-06,Free Speed Upgrade,False,6
+C101355,2025-08-31,Discount $10x12mo,True,10
+C100627,2025-03-12,Mobile Line Free 1yr,False,14
+C111636,2025-09-23,Discount $10x12mo,True,10
+C113263,2025-10-18,Discount $10x12mo,False,10
+C116498,2025-10-10,Control,False,0
+C108026,2025-02-26,Mobile Line Free 1yr,False,14
+C111478,2025-01-19,Control,False,0
+C103565,2025-03-20,Free Speed Upgrade,False,6
+C112861,2025-04-30,Mobile Line Free 1yr,False,14
+C118266,2025-08-04,Discount $10x12mo,True,10
+C109284,2025-09-19,Free Speed Upgrade,False,6
+C108401,2025-07-01,Mobile Line Free 1yr,False,14
+C117984,2025-02-25,Mobile Line Free 1yr,False,14
+C107537,2025-01-03,Control,False,0
+C104131,2025-10-12,Free Speed Upgrade,False,6
+C103225,2025-09-17,Mobile Line Free 1yr,False,14
+C100210,2025-01-02,Control,True,0
+C100653,2025-06-02,Free Speed Upgrade,False,6
+C115968,2025-07-09,Free Speed Upgrade,False,6
+C108104,2025-06-25,Control,False,0
+C112201,2025-05-22,Mobile Line Free 1yr,False,14
+C112254,2025-02-13,Mobile Line Free 1yr,False,14
+C102477,2025-11-02,Mobile Line Free 1yr,False,14
+C112362,2025-04-09,Discount $10x12mo,False,10
+C101389,2025-11-02,Discount $10x12mo,False,10
+C113915,2025-03-03,Mobile Line Free 1yr,False,14
+C113102,2025-03-06,Free Speed Upgrade,False,6
+C105222,2025-04-28,Mobile Line Free 1yr,False,14
+C118470,2025-08-16,Free Speed Upgrade,False,6
+C103744,2025-11-29,Discount $10x12mo,False,10
+C103068,2024-12-29,Discount $10x12mo,False,10
+C103562,2025-03-29,Discount $10x12mo,False,10
+C114309,2025-04-19,Free Speed Upgrade,False,6
+C117643,2025-03-24,Control,False,0
+C112191,2025-01-23,Free Speed Upgrade,False,6
+C103810,2025-10-18,Discount $10x12mo,False,10
+C112880,2025-01-28,Control,False,0
+C118352,2025-04-18,Mobile Line Free 1yr,True,14
+C114432,2025-06-30,Mobile Line Free 1yr,False,14
+C103137,2025-02-17,Discount $10x12mo,False,10
+C110496,2024-12-07,Free Speed Upgrade,True,6
+C113005,2025-10-08,Free Speed Upgrade,True,6
+C113683,2025-07-02,Discount $10x12mo,False,10
+C114493,2025-07-10,Mobile Line Free 1yr,True,14
+C107620,2025-09-27,Control,False,0
+C105468,2024-12-10,Control,False,0
+C108694,2025-02-04,Mobile Line Free 1yr,False,14
+C117177,2024-12-11,Control,False,0
+C112089,2025-02-28,Discount $10x12mo,False,10
+C113686,2025-03-11,Control,False,0
+C101193,2025-02-13,Control,True,0
+C117880,2025-07-12,Discount $10x12mo,False,10
+C116282,2025-06-01,Discount $10x12mo,False,10
+C102278,2025-05-25,Discount $10x12mo,False,10
+C104953,2025-02-18,Mobile Line Free 1yr,False,14
+C112790,2025-11-25,Control,False,0
+C101872,2025-09-15,Discount $10x12mo,True,10
+C107157,2025-06-16,Control,False,0
+C101516,2025-10-10,Mobile Line Free 1yr,False,14
+C103982,2024-12-28,Mobile Line Free 1yr,False,14
+C114304,2025-08-31,Mobile Line Free 1yr,False,14
+C110645,2025-09-01,Control,False,0
+C104785,2025-10-26,Mobile Line Free 1yr,False,14
+C109938,2025-02-28,Mobile Line Free 1yr,False,14
+C115490,2025-02-20,Control,False,0
+C106030,2025-09-13,Mobile Line Free 1yr,False,14
+C105092,2025-06-21,Free Speed Upgrade,False,6
+C112919,2025-07-13,Control,False,0
+C103280,2025-05-29,Free Speed Upgrade,False,6
+C102408,2025-01-02,Free Speed Upgrade,False,6
+C109902,2025-04-06,Control,False,0
+C104094,2024-12-03,Discount $10x12mo,False,10
+C105286,2025-11-22,Free Speed Upgrade,False,6
+C111891,2025-03-30,Mobile Line Free 1yr,False,14
+C101391,2025-04-24,Mobile Line Free 1yr,False,14
+C114586,2025-01-31,Control,False,0
+C101284,2025-11-06,Mobile Line Free 1yr,False,14
+C105756,2025-11-10,Free Speed Upgrade,False,6
+C104994,2025-08-03,Free Speed Upgrade,False,6
+C116999,2025-05-29,Mobile Line Free 1yr,False,14
+C114949,2025-04-30,Mobile Line Free 1yr,False,14
+C116292,2025-02-15,Control,False,0
+C110099,2025-01-10,Control,False,0
+C110610,2025-04-11,Free Speed Upgrade,False,6
+C104408,2025-10-17,Mobile Line Free 1yr,False,14
+C112391,2025-11-20,Free Speed Upgrade,False,6
+C105173,2025-01-29,Free Speed Upgrade,False,6
+C114504,2025-06-23,Discount $10x12mo,False,10
+C109326,2024-12-17,Control,False,0
+C116537,2025-01-08,Free Speed Upgrade,False,6
+C109738,2025-07-25,Free Speed Upgrade,True,6
+C106845,2025-01-26,Control,False,0
+C114065,2025-02-08,Control,False,0
+C111063,2025-07-12,Discount $10x12mo,False,10
+C108612,2025-11-25,Mobile Line Free 1yr,False,14
+C117117,2025-03-23,Free Speed Upgrade,False,6
+C107853,2025-01-19,Control,False,0
+C101094,2024-12-04,Discount $10x12mo,False,10
+C103341,2025-07-05,Free Speed Upgrade,False,6
+C100857,2025-02-20,Control,True,0
+C119241,2025-08-30,Discount $10x12mo,False,10
+C106312,2025-04-27,Discount $10x12mo,False,10
+C101367,2025-01-06,Control,False,0
+C114944,2025-01-14,Free Speed Upgrade,False,6
+C116791,2025-03-03,Discount $10x12mo,False,10
+C108780,2025-05-18,Discount $10x12mo,False,10
+C106036,2025-08-27,Free Speed Upgrade,False,6
+C100082,2025-10-31,Free Speed Upgrade,False,6
+C102739,2025-07-17,Mobile Line Free 1yr,False,14
+C117540,2025-07-10,Mobile Line Free 1yr,False,14
+C116724,2025-03-30,Discount $10x12mo,False,10
+C107930,2025-05-28,Free Speed Upgrade,False,6
+C111526,2025-01-22,Free Speed Upgrade,False,6
+C108637,2025-06-04,Control,False,0
+C110432,2024-12-09,Discount $10x12mo,False,10
+C107107,2025-07-06,Free Speed Upgrade,True,6
+C109658,2025-01-17,Control,False,0
+C108800,2025-11-30,Discount $10x12mo,False,10
+C110691,2025-02-25,Mobile Line Free 1yr,False,14
+C114427,2025-03-21,Control,False,0
+C106731,2024-12-05,Mobile Line Free 1yr,False,14
+C111527,2025-03-25,Mobile Line Free 1yr,False,14
+C114189,2025-06-26,Discount $10x12mo,False,10
+C107774,2025-03-10,Free Speed Upgrade,False,6
+C119059,2025-08-17,Discount $10x12mo,False,10
+C113467,2025-07-19,Discount $10x12mo,False,10
+C111364,2025-03-22,Mobile Line Free 1yr,True,14
+C116328,2024-12-31,Control,True,0
+C115781,2025-11-14,Control,False,0
+C110910,2025-01-20,Control,True,0
+C109900,2025-06-06,Control,False,0
+C101675,2025-03-16,Mobile Line Free 1yr,False,14
+C114750,2025-11-03,Mobile Line Free 1yr,False,14
+C106776,2025-06-30,Discount $10x12mo,False,10
+C115079,2025-06-25,Control,False,0
+C111204,2025-05-08,Control,False,0
+C105197,2025-09-04,Control,False,0
+C115988,2025-11-11,Mobile Line Free 1yr,False,14
+C109254,2025-07-16,Free Speed Upgrade,False,6
+C107079,2025-05-16,Free Speed Upgrade,False,6
+C110827,2024-12-05,Control,False,0
+C106342,2025-11-10,Discount $10x12mo,False,10
+C111615,2025-02-11,Control,False,0
+C113220,2025-04-21,Discount $10x12mo,False,10
+C112150,2025-11-20,Discount $10x12mo,True,10
+C106434,2025-03-25,Discount $10x12mo,True,10
+C105170,2024-12-18,Control,False,0
+C101667,2025-07-16,Discount $10x12mo,True,10
+C110206,2025-04-26,Free Speed Upgrade,False,6
+C108977,2025-02-04,Free Speed Upgrade,False,6
+C112820,2024-12-03,Mobile Line Free 1yr,False,14
+C103398,2025-06-27,Discount $10x12mo,False,10
+C108164,2025-08-07,Control,False,0
+C118721,2025-09-30,Discount $10x12mo,False,10
+C100805,2025-01-30,Free Speed Upgrade,False,6
+C101727,2025-02-21,Free Speed Upgrade,False,6
+C101794,2025-11-04,Control,False,0
+C109614,2025-07-19,Discount $10x12mo,False,10
+C100232,2025-01-13,Control,True,0
+C113848,2025-08-14,Discount $10x12mo,False,10
+C106540,2025-05-30,Free Speed Upgrade,True,6
+C110046,2025-09-26,Control,False,0
+C103069,2025-10-31,Free Speed Upgrade,True,6
+C111761,2025-05-03,Control,False,0
+C102460,2025-09-27,Discount $10x12mo,False,10
+C101065,2025-03-28,Control,False,0
+C107000,2025-07-04,Discount $10x12mo,False,10
+C113881,2025-06-03,Free Speed Upgrade,False,6
+C118335,2025-02-28,Mobile Line Free 1yr,False,14
+C102808,2025-06-24,Mobile Line Free 1yr,False,14
+C103342,2025-03-19,Mobile Line Free 1yr,False,14
+C115922,2025-03-06,Mobile Line Free 1yr,False,14
+C102172,2025-02-22,Discount $10x12mo,False,10
+C103922,2025-11-06,Mobile Line Free 1yr,False,14
+C118305,2025-01-11,Control,True,0
+C117637,2025-01-11,Control,False,0
+C111430,2025-11-12,Mobile Line Free 1yr,False,14
+C103239,2025-07-15,Free Speed Upgrade,True,6
+C105996,2024-12-30,Free Speed Upgrade,False,6
+C117260,2025-08-05,Free Speed Upgrade,False,6
+C104425,2025-08-16,Free Speed Upgrade,False,6
+C108933,2024-12-05,Free Speed Upgrade,False,6
+C100636,2025-09-22,Discount $10x12mo,False,10
+C118008,2025-04-08,Discount $10x12mo,False,10
+C111837,2025-08-14,Mobile Line Free 1yr,False,14
+C109339,2025-04-19,Control,False,0
+C111260,2025-08-16,Mobile Line Free 1yr,False,14
+C112571,2025-03-20,Discount $10x12mo,True,10
+C103976,2025-10-25,Mobile Line Free 1yr,False,14
+C102907,2025-08-06,Free Speed Upgrade,False,6
+C108010,2025-03-03,Control,False,0
+C104195,2025-11-18,Control,False,0
+C105903,2025-11-18,Free Speed Upgrade,False,6
+C116100,2025-10-02,Mobile Line Free 1yr,False,14
+C108134,2025-09-02,Control,False,0
+C116286,2025-09-13,Mobile Line Free 1yr,False,14
+C118545,2025-10-07,Control,False,0
+C114280,2025-06-21,Discount $10x12mo,False,10
+C114406,2025-09-25,Control,False,0
+C106258,2025-08-13,Discount $10x12mo,True,10
+C103121,2025-02-28,Free Speed Upgrade,False,6
+C108604,2025-05-28,Mobile Line Free 1yr,False,14
+C113561,2025-07-26,Mobile Line Free 1yr,False,14
+C102820,2025-08-15,Control,False,0
+C114536,2025-06-05,Discount $10x12mo,False,10
+C119304,2025-08-12,Discount $10x12mo,False,10
+C109382,2025-04-26,Free Speed Upgrade,False,6
+C101335,2025-02-26,Discount $10x12mo,False,10
+C116380,2025-01-08,Control,False,0
+C105179,2025-03-14,Mobile Line Free 1yr,False,14
+C117769,2024-12-02,Discount $10x12mo,False,10
+C114583,2025-04-14,Mobile Line Free 1yr,False,14
+C102063,2025-11-17,Mobile Line Free 1yr,False,14
+C117890,2024-12-14,Mobile Line Free 1yr,False,14
+C106406,2025-06-06,Control,False,0
+C113238,2025-01-13,Control,False,0
+C103952,2025-11-26,Mobile Line Free 1yr,False,14
+C112509,2025-03-25,Discount $10x12mo,False,10
+C102072,2025-09-27,Free Speed Upgrade,False,6
+C111878,2025-08-27,Control,False,0
+C113590,2025-11-07,Discount $10x12mo,False,10
+C103310,2025-08-23,Discount $10x12mo,False,10
+C118387,2025-02-14,Discount $10x12mo,False,10
+C111528,2025-05-16,Control,False,0
+C110334,2025-01-17,Control,False,0
+C102741,2025-01-27,Free Speed Upgrade,False,6
+C104945,2024-12-15,Free Speed Upgrade,False,6
+C118100,2025-10-21,Free Speed Upgrade,False,6
+C101263,2025-07-26,Discount $10x12mo,False,10
+C116725,2025-02-17,Mobile Line Free 1yr,False,14
+C107875,2025-05-28,Free Speed Upgrade,False,6
+C101258,2024-12-17,Mobile Line Free 1yr,False,14
+C100453,2025-02-03,Discount $10x12mo,False,10
+C116769,2025-08-06,Mobile Line Free 1yr,False,14
+C100300,2025-01-25,Control,True,0
+C115797,2025-04-18,Mobile Line Free 1yr,False,14
+C114468,2025-08-12,Mobile Line Free 1yr,False,14
+C119451,2025-06-20,Mobile Line Free 1yr,False,14
+C108771,2024-12-02,Discount $10x12mo,False,10
+C108473,2025-05-10,Free Speed Upgrade,True,6
+C109967,2025-09-02,Free Speed Upgrade,False,6
+C109717,2025-07-02,Free Speed Upgrade,False,6
+C118239,2025-06-02,Control,False,0
+C113960,2025-11-21,Discount $10x12mo,False,10
+C111586,2025-06-05,Control,False,0
+C107739,2025-10-31,Control,False,0
+C101701,2025-09-05,Discount $10x12mo,True,10
+C110662,2025-01-02,Control,False,0
+C111392,2025-09-10,Mobile Line Free 1yr,False,14
+C107990,2025-10-11,Control,False,0
+C115977,2024-12-27,Control,False,0
+C117363,2025-05-17,Free Speed Upgrade,False,6
+C112717,2025-03-01,Discount $10x12mo,True,10
+C111843,2025-09-12,Free Speed Upgrade,False,6
+C104719,2025-03-09,Discount $10x12mo,False,10
+C108309,2025-02-17,Control,False,0
+C101168,2025-05-14,Discount $10x12mo,False,10
+C100596,2025-11-13,Free Speed Upgrade,False,6
+C100519,2025-11-24,Control,False,0
+C117811,2025-04-27,Control,False,0
+C112098,2025-03-21,Discount $10x12mo,False,10
+C102444,2025-03-29,Free Speed Upgrade,False,6
+C101267,2025-09-12,Mobile Line Free 1yr,False,14
+C114032,2025-11-17,Mobile Line Free 1yr,False,14
+C119042,2025-01-08,Discount $10x12mo,False,10
+C115782,2025-03-01,Mobile Line Free 1yr,False,14
+C108875,2025-11-23,Control,False,0
+C105061,2025-10-20,Free Speed Upgrade,False,6
+C115131,2025-03-18,Control,False,0
+C116345,2025-10-01,Control,False,0
+C110002,2025-07-24,Discount $10x12mo,False,10
+C100829,2025-10-26,Free Speed Upgrade,False,6
+C107967,2025-06-14,Mobile Line Free 1yr,False,14
+C117273,2025-08-05,Mobile Line Free 1yr,True,14
+C104423,2025-03-29,Control,False,0
+C117279,2025-05-15,Discount $10x12mo,False,10
+C112954,2025-07-07,Mobile Line Free 1yr,False,14
+C116050,2025-06-21,Mobile Line Free 1yr,False,14
+C101985,2024-12-25,Free Speed Upgrade,False,6
+C118795,2025-11-12,Free Speed Upgrade,False,6
+C114264,2024-12-27,Control,False,0
+C100469,2025-03-08,Mobile Line Free 1yr,False,14
+C109430,2025-10-09,Free Speed Upgrade,False,6
+C109089,2025-02-03,Discount $10x12mo,False,10
+C104683,2025-08-19,Discount $10x12mo,True,10
+C112844,2025-01-03,Mobile Line Free 1yr,False,14
+C104499,2025-10-22,Free Speed Upgrade,False,6
+C110321,2025-07-24,Discount $10x12mo,False,10
+C105025,2025-05-02,Free Speed Upgrade,False,6
+C105515,2025-01-21,Mobile Line Free 1yr,False,14
+C108091,2025-10-10,Mobile Line Free 1yr,False,14
+C106470,2025-05-06,Discount $10x12mo,False,10
+C103254,2025-05-29,Mobile Line Free 1yr,False,14
+C116574,2025-04-12,Mobile Line Free 1yr,False,14
+C109223,2025-08-03,Mobile Line Free 1yr,False,14
+C118412,2025-02-22,Control,False,0
+C107616,2024-12-11,Free Speed Upgrade,False,6
+C107025,2025-03-12,Control,False,0
+C119732,2025-03-24,Control,True,0
+C106608,2024-12-11,Discount $10x12mo,True,10
+C104235,2025-07-30,Control,False,0
+C116194,2025-06-09,Control,False,0
+C111340,2025-05-27,Control,False,0
+C114373,2025-01-16,Discount $10x12mo,False,10
+C101381,2025-11-17,Control,False,0
+C102318,2025-06-29,Control,False,0
+C110890,2025-03-04,Control,False,0
+C116793,2025-03-25,Mobile Line Free 1yr,False,14
+C107710,2025-09-01,Mobile Line Free 1yr,False,14
+C117625,2025-03-08,Free Speed Upgrade,False,6
+C108112,2025-04-18,Control,True,0
+C107847,2025-03-10,Free Speed Upgrade,False,6
+C105131,2025-05-28,Control,False,0
+C108232,2025-06-30,Control,False,0
+C113064,2025-07-07,Mobile Line Free 1yr,False,14
+C117968,2025-03-10,Discount $10x12mo,False,10
+C115206,2025-05-28,Free Speed Upgrade,True,6
+C116638,2025-05-02,Discount $10x12mo,False,10
+C112534,2025-05-01,Discount $10x12mo,False,10
+C111649,2025-08-30,Discount $10x12mo,False,10
+C113335,2025-11-29,Discount $10x12mo,False,10
+C105878,2025-03-03,Free Speed Upgrade,False,6
+C111315,2025-06-22,Free Speed Upgrade,False,6
+C118309,2025-07-09,Discount $10x12mo,False,10
+C112357,2025-09-04,Discount $10x12mo,False,10
+C110256,2025-06-27,Control,False,0
+C115276,2025-10-17,Free Speed Upgrade,False,6
+C115519,2025-01-02,Control,True,0
+C112930,2025-03-23,Control,False,0
+C106888,2025-08-31,Mobile Line Free 1yr,False,14
+C100322,2025-02-20,Discount $10x12mo,False,10
+C100057,2025-06-29,Mobile Line Free 1yr,False,14
+C100547,2025-01-29,Control,False,0
+C113968,2025-03-31,Mobile Line Free 1yr,False,14
+C111914,2025-03-01,Discount $10x12mo,True,10
+C108954,2025-11-10,Free Speed Upgrade,False,6
+C118376,2025-01-09,Mobile Line Free 1yr,False,14
+C118250,2024-12-11,Free Speed Upgrade,False,6
+C101185,2025-09-03,Free Speed Upgrade,False,6
+C110404,2025-07-30,Mobile Line Free 1yr,True,14
+C102971,2025-05-30,Free Speed Upgrade,False,6
+C109357,2025-03-06,Discount $10x12mo,False,10
+C114857,2025-02-24,Mobile Line Free 1yr,False,14
+C114774,2025-05-24,Free Speed Upgrade,False,6
+C117962,2025-02-24,Free Speed Upgrade,False,6
+C113147,2025-10-28,Mobile Line Free 1yr,True,14
+C110153,2025-02-16,Free Speed Upgrade,False,6
+C113721,2025-10-02,Free Speed Upgrade,False,6
+C107401,2025-02-10,Mobile Line Free 1yr,False,14
+C107146,2025-11-30,Discount $10x12mo,False,10
+C113205,2025-02-01,Free Speed Upgrade,False,6
+C104025,2025-11-26,Control,False,0
+C104062,2025-06-23,Free Speed Upgrade,True,6
+C104530,2025-04-28,Free Speed Upgrade,False,6
+C115195,2025-05-06,Free Speed Upgrade,False,6
+C117478,2024-12-14,Control,False,0
+C107225,2025-07-22,Control,True,0
+C105453,2025-08-08,Mobile Line Free 1yr,True,14
+C105467,2025-04-05,Mobile Line Free 1yr,True,14
+C111825,2025-03-31,Free Speed Upgrade,False,6
+C104617,2025-07-15,Mobile Line Free 1yr,True,14
+C101982,2025-05-17,Mobile Line Free 1yr,False,14
+C108938,2025-08-06,Mobile Line Free 1yr,False,14
+C105691,2025-01-05,Free Speed Upgrade,True,6
+C108783,2025-04-01,Discount $10x12mo,False,10
+C113746,2025-11-17,Mobile Line Free 1yr,True,14
+C111946,2025-01-02,Free Speed Upgrade,False,6
+C103434,2025-04-09,Mobile Line Free 1yr,False,14
+C103711,2025-10-02,Free Speed Upgrade,False,6
+C119921,2024-12-22,Mobile Line Free 1yr,True,14
+C107133,2025-09-01,Mobile Line Free 1yr,False,14
+C103923,2025-01-07,Control,False,0
+C114795,2025-08-26,Discount $10x12mo,False,10
+C117879,2025-09-03,Discount $10x12mo,False,10
+C102825,2025-06-13,Control,False,0
+C100208,2025-07-26,Control,False,0
+C119480,2024-12-14,Mobile Line Free 1yr,False,14
+C111685,2025-11-01,Discount $10x12mo,False,10
+C104443,2025-03-26,Control,False,0
+C105689,2025-10-07,Mobile Line Free 1yr,False,14
+C115082,2025-08-18,Discount $10x12mo,False,10
+C105858,2025-07-31,Free Speed Upgrade,False,6
+C106541,2025-02-07,Free Speed Upgrade,True,6
+C119765,2025-07-05,Free Speed Upgrade,True,6
+C119120,2024-12-20,Free Speed Upgrade,False,6
+C108144,2024-12-09,Control,False,0
+C101625,2025-06-24,Free Speed Upgrade,False,6
+C105855,2025-07-08,Control,False,0
+C106404,2025-08-03,Control,False,0
+C105556,2025-08-05,Control,False,0
+C117351,2024-12-30,Mobile Line Free 1yr,False,14
+C100790,2025-08-20,Discount $10x12mo,False,10
+C108198,2025-09-21,Free Speed Upgrade,True,6
+C109755,2025-04-19,Free Speed Upgrade,True,6
+C116414,2025-06-08,Control,False,0
+C110261,2025-08-16,Free Speed Upgrade,False,6
+C113141,2025-04-11,Control,False,0
+C100253,2025-08-21,Discount $10x12mo,False,10
+C114689,2025-09-30,Control,False,0
+C110509,2025-04-16,Mobile Line Free 1yr,False,14
+C107436,2025-01-13,Control,False,0
+C101200,2025-07-17,Mobile Line Free 1yr,False,14
+C116568,2025-11-21,Control,False,0
+C104420,2025-06-30,Control,False,0
+C101724,2025-11-23,Mobile Line Free 1yr,False,14
+C116154,2025-08-31,Free Speed Upgrade,False,6
+C104765,2025-02-26,Free Speed Upgrade,False,6
+C113402,2025-01-12,Discount $10x12mo,False,10
+C116032,2025-11-23,Discount $10x12mo,False,10
+C105187,2025-01-04,Control,True,0
+C109348,2025-02-21,Free Speed Upgrade,True,6
+C107022,2025-05-14,Discount $10x12mo,False,10
+C101936,2025-07-25,Mobile Line Free 1yr,False,14
+C103582,2025-08-03,Control,False,0
+C115085,2025-07-30,Control,True,0
+C112286,2025-01-07,Discount $10x12mo,False,10
+C117999,2025-08-04,Free Speed Upgrade,False,6
+C105817,2025-08-23,Free Speed Upgrade,False,6
+C116435,2025-04-22,Control,True,0
+C104965,2025-09-25,Free Speed Upgrade,False,6
+C112711,2025-04-01,Mobile Line Free 1yr,False,14
+C117296,2025-06-13,Free Speed Upgrade,False,6
+C102652,2025-05-07,Control,False,0
+C110916,2025-06-16,Control,False,0
+C105500,2024-12-12,Discount $10x12mo,True,10
+C119541,2025-02-28,Control,False,0
+C116700,2025-06-17,Control,True,0
+C116624,2025-09-16,Free Speed Upgrade,False,6
+C100037,2025-07-10,Control,True,0
+C106228,2025-03-29,Control,False,0
+C109477,2024-12-30,Mobile Line Free 1yr,False,14
+C103870,2025-05-27,Discount $10x12mo,False,10
+C110338,2025-11-10,Free Speed Upgrade,False,6
+C118980,2025-11-25,Free Speed Upgrade,False,6
+C102230,2025-02-21,Control,False,0
+C105992,2025-10-29,Control,False,0
+C110982,2025-03-10,Control,False,0
+C104334,2024-12-27,Free Speed Upgrade,False,6
+C111824,2025-06-30,Free Speed Upgrade,False,6
+C115738,2025-01-04,Discount $10x12mo,False,10
+C107488,2025-10-10,Discount $10x12mo,True,10
+C101190,2024-12-25,Discount $10x12mo,True,10
+C104374,2025-06-11,Mobile Line Free 1yr,False,14
+C110104,2025-07-18,Control,True,0
+C103642,2025-05-24,Mobile Line Free 1yr,False,14
+C104397,2025-01-31,Free Speed Upgrade,False,6
+C105152,2025-08-09,Mobile Line Free 1yr,False,14
+C112138,2025-03-29,Free Speed Upgrade,False,6
+C109788,2025-06-22,Free Speed Upgrade,False,6
+C111395,2025-06-09,Mobile Line Free 1yr,False,14
+C118320,2025-08-21,Free Speed Upgrade,False,6
+C100354,2024-12-13,Discount $10x12mo,False,10
+C115354,2025-06-18,Discount $10x12mo,False,10
+C104724,2025-10-27,Discount $10x12mo,False,10
+C117523,2025-10-23,Free Speed Upgrade,False,6
+C104572,2025-06-29,Control,False,0
+C115983,2025-05-19,Free Speed Upgrade,True,6
+C109422,2025-03-03,Control,False,0
+C108685,2025-05-17,Discount $10x12mo,False,10
+C104394,2024-12-29,Discount $10x12mo,False,10
+C100127,2025-01-19,Free Speed Upgrade,False,6
+C119968,2025-03-23,Control,False,0
+C102247,2025-01-05,Mobile Line Free 1yr,False,14
+C118704,2024-12-30,Discount $10x12mo,False,10
+C116215,2025-01-02,Control,False,0
+C105096,2025-01-02,Discount $10x12mo,False,10
+C115684,2025-07-28,Mobile Line Free 1yr,False,14
+C111259,2025-03-31,Free Speed Upgrade,True,6
+C111267,2025-07-01,Discount $10x12mo,False,10
+C105934,2025-07-17,Mobile Line Free 1yr,False,14
+C119658,2025-11-23,Mobile Line Free 1yr,False,14
+C118595,2024-12-29,Free Speed Upgrade,False,6
+C102886,2025-09-08,Mobile Line Free 1yr,False,14
+C117448,2025-05-17,Discount $10x12mo,False,10
+C119438,2025-03-08,Free Speed Upgrade,False,6
+C102126,2025-10-03,Discount $10x12mo,True,10
+C105425,2025-06-23,Mobile Line Free 1yr,False,14
+C115014,2024-12-30,Discount $10x12mo,False,10
+C115057,2025-03-31,Mobile Line Free 1yr,False,14
+C101535,2025-10-04,Free Speed Upgrade,False,6
+C113034,2025-03-25,Discount $10x12mo,False,10
+C105654,2025-03-26,Free Speed Upgrade,False,6
+C103308,2025-08-26,Control,False,0
+C119231,2025-09-26,Free Speed Upgrade,False,6
+C109600,2025-01-05,Mobile Line Free 1yr,False,14
+C117651,2025-09-24,Free Speed Upgrade,False,6
+C102441,2025-07-08,Mobile Line Free 1yr,False,14
+C105687,2025-06-15,Control,True,0
+C102299,2025-05-27,Mobile Line Free 1yr,False,14
+C115227,2025-09-06,Discount $10x12mo,False,10
+C113571,2025-04-28,Discount $10x12mo,False,10
+C104714,2025-09-17,Free Speed Upgrade,False,6
+C113888,2025-05-08,Mobile Line Free 1yr,False,14
+C101442,2025-01-18,Discount $10x12mo,False,10
+C113265,2025-04-24,Free Speed Upgrade,False,6
+C118760,2024-12-19,Mobile Line Free 1yr,False,14
+C111286,2025-03-15,Discount $10x12mo,False,10
+C112581,2025-11-19,Discount $10x12mo,False,10
+C104847,2025-09-30,Free Speed Upgrade,False,6
+C101304,2025-05-07,Discount $10x12mo,False,10
+C103622,2025-01-02,Control,False,0
+C103978,2025-11-26,Mobile Line Free 1yr,False,14
+C117547,2025-09-19,Control,True,0
+C119770,2025-04-12,Free Speed Upgrade,False,6
+C119060,2025-07-25,Discount $10x12mo,True,10
+C102629,2025-11-23,Discount $10x12mo,False,10
+C111635,2025-07-07,Mobile Line Free 1yr,False,14
+C105435,2025-09-15,Mobile Line Free 1yr,False,14
+C115048,2025-07-05,Free Speed Upgrade,True,6
+C114497,2025-04-11,Mobile Line Free 1yr,True,14
+C117920,2025-04-25,Mobile Line Free 1yr,False,14
+C102484,2025-09-21,Free Speed Upgrade,False,6
+C104276,2025-04-22,Mobile Line Free 1yr,False,14
+C101484,2025-11-14,Discount $10x12mo,False,10
+C116066,2025-11-09,Mobile Line Free 1yr,True,14
+C102031,2025-04-28,Discount $10x12mo,True,10
+C100374,2025-01-26,Free Speed Upgrade,False,6
+C106929,2025-11-23,Free Speed Upgrade,False,6
+C115956,2025-09-18,Mobile Line Free 1yr,False,14
+C102156,2025-07-13,Control,True,0
+C115802,2025-09-09,Control,False,0
+C105175,2025-10-08,Free Speed Upgrade,False,6
+C100957,2025-01-19,Control,False,0
+C104620,2025-05-05,Discount $10x12mo,False,10
+C102326,2025-06-29,Free Speed Upgrade,True,6
+C112304,2024-12-04,Free Speed Upgrade,False,6
+C118489,2025-02-13,Mobile Line Free 1yr,False,14
+C113418,2025-02-19,Free Speed Upgrade,False,6
+C106200,2025-08-02,Free Speed Upgrade,False,6
+C110683,2025-04-15,Mobile Line Free 1yr,False,14
+C119254,2024-12-13,Discount $10x12mo,False,10
+C102546,2025-07-25,Mobile Line Free 1yr,True,14
+C116254,2025-11-14,Control,False,0
+C110438,2024-12-31,Free Speed Upgrade,False,6
+C107097,2025-05-17,Control,False,0
+C109459,2025-11-18,Discount $10x12mo,False,10
+C115336,2025-11-30,Free Speed Upgrade,False,6
+C105484,2025-06-02,Discount $10x12mo,False,10
+C105090,2025-06-12,Free Speed Upgrade,False,6
+C105233,2025-08-04,Discount $10x12mo,False,10
+C112267,2025-09-18,Discount $10x12mo,False,10
+C110935,2025-03-02,Mobile Line Free 1yr,False,14
+C117396,2025-05-18,Free Speed Upgrade,True,6
+C106097,2025-06-24,Free Speed Upgrade,False,6
+C106356,2025-03-29,Discount $10x12mo,False,10
+C112955,2025-04-03,Discount $10x12mo,False,10
+C117487,2025-08-05,Control,False,0
+C117422,2024-12-15,Control,False,0
+C111487,2025-07-05,Free Speed Upgrade,False,6
+C108087,2025-03-27,Free Speed Upgrade,False,6
+C110674,2025-07-19,Discount $10x12mo,False,10
+C112632,2025-11-28,Control,True,0
+C113759,2024-12-07,Free Speed Upgrade,False,6
+C109896,2025-11-02,Discount $10x12mo,False,10
+C111000,2024-12-29,Control,False,0
+C104711,2025-08-06,Free Speed Upgrade,False,6
+C108980,2024-12-17,Free Speed Upgrade,False,6
+C118697,2025-04-07,Discount $10x12mo,False,10
+C114983,2025-08-09,Mobile Line Free 1yr,True,14
+C104207,2025-05-29,Mobile Line Free 1yr,False,14
+C114047,2025-06-06,Discount $10x12mo,False,10
+C109018,2025-04-07,Discount $10x12mo,False,10
+C117998,2025-02-14,Mobile Line Free 1yr,False,14
+C112161,2025-02-05,Control,False,0
+C112054,2025-11-24,Mobile Line Free 1yr,True,14
+C111371,2025-10-19,Discount $10x12mo,False,10
+C108521,2025-04-24,Free Speed Upgrade,False,6
+C118991,2025-01-05,Discount $10x12mo,False,10
+C109992,2025-01-26,Discount $10x12mo,False,10
+C118123,2025-04-09,Discount $10x12mo,False,10
+C113593,2025-05-21,Discount $10x12mo,False,10
+C114365,2025-04-25,Mobile Line Free 1yr,False,14
+C113211,2025-01-15,Control,False,0
+C119050,2025-07-19,Discount $10x12mo,False,10
+C114690,2025-05-27,Free Speed Upgrade,False,6
+C117168,2025-10-30,Control,False,0
+C109513,2025-07-24,Mobile Line Free 1yr,True,14
+C117708,2025-11-16,Mobile Line Free 1yr,True,14
+C114495,2025-08-18,Free Speed Upgrade,False,6
+C111283,2025-06-23,Mobile Line Free 1yr,False,14
+C119294,2025-03-10,Control,False,0
+C110983,2024-12-20,Discount $10x12mo,False,10
+C110810,2025-01-20,Control,False,0
+C117596,2025-11-01,Control,False,0
+C106074,2025-05-28,Discount $10x12mo,False,10
+C106978,2025-10-30,Free Speed Upgrade,False,6
+C111220,2024-12-28,Control,False,0
+C109698,2024-12-10,Control,False,0
+C105302,2025-06-14,Free Speed Upgrade,True,6
+C110681,2025-06-14,Free Speed Upgrade,True,6
+C112331,2025-06-29,Discount $10x12mo,False,10
+C103750,2024-12-28,Control,True,0
+C102380,2025-03-10,Mobile Line Free 1yr,False,14
+C114220,2025-04-28,Control,False,0
+C113977,2025-07-13,Control,False,0
+C101257,2025-07-20,Free Speed Upgrade,False,6
+C101382,2025-04-12,Discount $10x12mo,False,10
+C108682,2025-03-07,Free Speed Upgrade,False,6
+C103746,2025-07-08,Mobile Line Free 1yr,False,14
+C106509,2025-01-12,Free Speed Upgrade,False,6
+C118303,2025-06-25,Control,False,0
+C100481,2025-09-08,Discount $10x12mo,False,10
+C115144,2025-02-01,Free Speed Upgrade,False,6
+C107855,2025-05-31,Discount $10x12mo,False,10
+C107397,2025-07-23,Free Speed Upgrade,False,6
+C107551,2025-01-21,Free Speed Upgrade,False,6
+C102840,2025-05-06,Mobile Line Free 1yr,False,14
+C116277,2024-12-12,Discount $10x12mo,False,10
+C115038,2025-09-28,Discount $10x12mo,False,10
+C112386,2025-03-20,Free Speed Upgrade,False,6
+C108332,2025-06-08,Free Speed Upgrade,False,6
+C107178,2025-09-26,Free Speed Upgrade,False,6
+C101676,2025-11-17,Discount $10x12mo,False,10
+C106692,2025-10-16,Control,True,0
+C103251,2025-01-10,Control,False,0
+C114419,2025-04-10,Mobile Line Free 1yr,True,14
+C118398,2024-12-11,Control,False,0
+C116853,2025-08-12,Free Speed Upgrade,False,6
+C108423,2025-10-05,Mobile Line Free 1yr,False,14
+C104551,2025-03-20,Control,True,0
+C102124,2025-11-28,Discount $10x12mo,False,10
+C100408,2025-04-03,Mobile Line Free 1yr,False,14
+C115586,2025-05-25,Control,False,0
+C119365,2025-10-30,Discount $10x12mo,False,10
+C112479,2025-01-16,Mobile Line Free 1yr,False,14
+C102665,2025-11-04,Discount $10x12mo,True,10
+C119159,2025-09-27,Control,False,0
+C112194,2025-01-12,Control,False,0
+C115496,2024-12-02,Control,False,0
+C117000,2025-05-12,Free Speed Upgrade,False,6
+C119018,2025-06-07,Free Speed Upgrade,False,6
+C107320,2025-03-01,Free Speed Upgrade,False,6
+C116196,2025-09-12,Discount $10x12mo,False,10
+C115044,2025-09-26,Free Speed Upgrade,False,6
+C100109,2024-12-19,Mobile Line Free 1yr,False,14
+C107296,2025-06-05,Free Speed Upgrade,False,6
+C102998,2025-09-20,Free Speed Upgrade,False,6
+C103306,2025-09-07,Control,True,0
+C110988,2025-10-11,Discount $10x12mo,False,10
+C109092,2025-09-01,Free Speed Upgrade,False,6
+C117588,2025-08-07,Control,False,0
+C104870,2025-09-18,Control,False,0
+C119666,2025-06-21,Discount $10x12mo,False,10
+C103503,2025-02-19,Mobile Line Free 1yr,False,14
+C110817,2025-10-27,Free Speed Upgrade,True,6
+C112141,2025-10-08,Mobile Line Free 1yr,False,14
+C106024,2025-04-22,Control,False,0
+C109889,2025-01-30,Free Speed Upgrade,False,6
+C110546,2025-04-26,Mobile Line Free 1yr,True,14
+C111077,2025-11-25,Discount $10x12mo,False,10
+C109564,2024-12-20,Free Speed Upgrade,False,6
+C118864,2025-08-27,Mobile Line Free 1yr,False,14
+C115517,2024-12-29,Control,True,0
+C119162,2025-01-30,Control,False,0
+C110129,2025-09-06,Mobile Line Free 1yr,False,14
+C102661,2025-11-04,Mobile Line Free 1yr,False,14
+C105799,2025-11-14,Control,False,0
+C105660,2025-08-26,Mobile Line Free 1yr,False,14
+C105613,2025-10-12,Free Speed Upgrade,False,6
+C111580,2025-01-19,Discount $10x12mo,False,10
+C103833,2025-10-16,Free Speed Upgrade,False,6
+C102282,2025-06-26,Mobile Line Free 1yr,True,14
+C104243,2025-09-26,Discount $10x12mo,True,10
+C117802,2025-03-24,Discount $10x12mo,False,10
+C103455,2025-01-16,Mobile Line Free 1yr,False,14
+C119286,2025-07-27,Control,False,0
+C110174,2025-08-10,Control,False,0
+C107063,2025-02-11,Mobile Line Free 1yr,True,14
+C113088,2025-05-21,Control,True,0
+C111269,2025-05-12,Free Speed Upgrade,False,6
+C100449,2025-11-14,Free Speed Upgrade,False,6
+C111477,2025-01-06,Control,True,0
+C114206,2025-07-27,Control,False,0
+C100516,2025-03-16,Control,False,0
+C109741,2025-08-31,Free Speed Upgrade,False,6
+C117293,2025-06-26,Control,False,0
+C114433,2025-03-03,Control,False,0
+C112808,2025-07-13,Mobile Line Free 1yr,True,14
+C116814,2025-08-29,Mobile Line Free 1yr,True,14
+C109756,2025-01-19,Free Speed Upgrade,False,6
+C113900,2025-08-04,Discount $10x12mo,False,10
+C110864,2025-10-30,Free Speed Upgrade,False,6
+C110179,2024-12-07,Mobile Line Free 1yr,False,14
+C118602,2025-01-06,Mobile Line Free 1yr,False,14
+C110640,2025-05-08,Mobile Line Free 1yr,False,14
+C103939,2025-02-17,Free Speed Upgrade,True,6
+C109349,2025-10-10,Discount $10x12mo,False,10
+C112070,2025-02-13,Discount $10x12mo,False,10
+C118894,2025-11-10,Discount $10x12mo,False,10
+C104451,2025-07-15,Mobile Line Free 1yr,False,14
+C108618,2025-04-01,Free Speed Upgrade,True,6
+C112420,2025-08-28,Mobile Line Free 1yr,True,14
+C103382,2025-10-24,Mobile Line Free 1yr,True,14
+C109105,2025-10-02,Control,False,0
+C100979,2024-12-12,Mobile Line Free 1yr,False,14
+C117380,2025-09-07,Control,True,0
+C103705,2025-07-12,Discount $10x12mo,False,10
+C107921,2025-02-12,Control,False,0
+C101613,2025-02-24,Discount $10x12mo,False,10
+C109209,2025-05-30,Control,False,0
+C110330,2025-10-04,Free Speed Upgrade,False,6
+C109943,2025-09-01,Discount $10x12mo,False,10
+C111515,2025-11-13,Control,False,0
+C116483,2025-09-15,Mobile Line Free 1yr,False,14
+C104842,2025-07-10,Control,False,0
+C107938,2025-11-20,Mobile Line Free 1yr,False,14
+C104560,2025-10-30,Discount $10x12mo,False,10
+C106028,2025-02-16,Control,True,0
+C103601,2025-08-08,Discount $10x12mo,False,10
+C118461,2024-12-13,Control,False,0
+C113941,2025-05-10,Control,False,0
+C102784,2025-05-04,Control,False,0
+C100997,2025-09-09,Discount $10x12mo,False,10
+C104200,2025-01-19,Mobile Line Free 1yr,False,14
+C114453,2025-11-21,Discount $10x12mo,False,10
+C109200,2025-04-13,Free Speed Upgrade,False,6
+C105657,2025-04-21,Discount $10x12mo,False,10
+C105745,2025-06-24,Free Speed Upgrade,False,6
+C117978,2025-05-25,Control,False,0
+C102717,2025-11-25,Control,False,0
+C111209,2025-04-17,Mobile Line Free 1yr,False,14
+C102519,2025-09-27,Control,False,0
+C115541,2025-05-02,Control,False,0
+C115576,2025-09-12,Free Speed Upgrade,False,6
+C105617,2025-10-18,Mobile Line Free 1yr,False,14
+C115167,2024-12-03,Discount $10x12mo,True,10
+C118171,2025-01-12,Free Speed Upgrade,False,6
+C103639,2025-05-30,Discount $10x12mo,False,10
+C119331,2025-07-08,Free Speed Upgrade,False,6
+C103052,2025-02-22,Mobile Line Free 1yr,False,14
+C103039,2025-05-29,Discount $10x12mo,False,10
+C101883,2025-01-18,Control,True,0
+C108380,2025-07-15,Control,False,0
+C112344,2025-02-08,Control,False,0
+C106364,2025-10-28,Control,False,0
+C119730,2025-08-06,Mobile Line Free 1yr,False,14
+C114631,2025-02-27,Control,False,0
+C117859,2025-06-27,Control,False,0
+C113100,2025-06-05,Mobile Line Free 1yr,False,14
+C110591,2024-12-28,Discount $10x12mo,False,10
+C111178,2025-10-16,Free Speed Upgrade,False,6
+C112791,2025-09-18,Mobile Line Free 1yr,False,14
+C106476,2025-05-17,Control,False,0
+C109640,2025-01-06,Control,False,0
+C108714,2025-08-02,Mobile Line Free 1yr,False,14
+C103409,2025-07-28,Free Speed Upgrade,False,6
+C102084,2025-08-28,Mobile Line Free 1yr,False,14
+C106995,2025-05-01,Control,True,0
+C116616,2024-12-14,Free Speed Upgrade,False,6
+C114044,2025-10-19,Free Speed Upgrade,False,6
+C117597,2025-08-01,Free Speed Upgrade,True,6
+C104044,2025-06-14,Discount $10x12mo,False,10
+C106402,2025-02-28,Mobile Line Free 1yr,False,14
+C102406,2024-12-18,Control,True,0
+C114286,2025-04-26,Mobile Line Free 1yr,False,14
+C103768,2025-07-12,Free Speed Upgrade,False,6
+C111405,2025-08-23,Mobile Line Free 1yr,False,14
+C118729,2025-06-01,Discount $10x12mo,False,10
+C118505,2024-12-28,Mobile Line Free 1yr,False,14
+C115731,2025-10-17,Discount $10x12mo,True,10
+C113946,2025-04-18,Control,True,0
+C105922,2025-07-31,Mobile Line Free 1yr,True,14
+C109821,2025-06-06,Control,False,0
+C110040,2025-07-02,Discount $10x12mo,False,10
+C119697,2025-10-30,Control,False,0
+C100873,2025-08-24,Free Speed Upgrade,False,6
+C119786,2025-11-08,Control,False,0
+C102602,2025-03-30,Free Speed Upgrade,False,6
+C106460,2025-05-16,Discount $10x12mo,False,10
+C112288,2025-10-24,Control,False,0
+C102255,2025-11-01,Discount $10x12mo,False,10
+C106100,2025-10-17,Free Speed Upgrade,False,6
+C111692,2025-02-16,Mobile Line Free 1yr,False,14
+C100665,2025-04-02,Free Speed Upgrade,True,6
+C110326,2025-06-12,Discount $10x12mo,False,10
+C112381,2025-01-02,Discount $10x12mo,False,10
+C105837,2025-08-31,Free Speed Upgrade,False,6
+C103909,2025-08-31,Mobile Line Free 1yr,False,14
+C102334,2025-09-01,Discount $10x12mo,False,10
+C117189,2025-06-13,Free Speed Upgrade,False,6
+C108315,2025-04-29,Free Speed Upgrade,False,6
+C119367,2025-03-06,Mobile Line Free 1yr,True,14
+C105191,2025-01-27,Control,False,0
+C101194,2025-07-08,Discount $10x12mo,False,10
+C101104,2025-09-02,Free Speed Upgrade,False,6
+C118380,2025-02-21,Free Speed Upgrade,False,6
+C105674,2025-02-16,Control,False,0
+C106248,2025-10-18,Mobile Line Free 1yr,False,14
+C118876,2025-08-29,Mobile Line Free 1yr,False,14
+C111639,2025-11-23,Control,False,0
+C112099,2025-02-10,Discount $10x12mo,False,10
+C105644,2024-12-05,Mobile Line Free 1yr,True,14
+C110960,2025-04-10,Mobile Line Free 1yr,False,14
+C101499,2025-05-10,Mobile Line Free 1yr,False,14
+C107354,2025-09-19,Mobile Line Free 1yr,False,14
+C115812,2025-07-15,Mobile Line Free 1yr,False,14
+C114185,2025-04-11,Control,True,0
+C100573,2025-09-11,Discount $10x12mo,False,10
+C108377,2025-01-24,Control,False,0
+C112044,2025-03-02,Control,False,0
+C100249,2025-01-11,Free Speed Upgrade,False,6
+C117253,2025-09-16,Free Speed Upgrade,False,6
+C104482,2025-01-26,Mobile Line Free 1yr,False,14
+C104104,2025-08-10,Free Speed Upgrade,False,6
+C111167,2025-04-02,Free Speed Upgrade,False,6
+C107477,2025-06-15,Free Speed Upgrade,False,6
+C114382,2025-06-10,Discount $10x12mo,False,10
+C109390,2025-06-06,Free Speed Upgrade,False,6
+C119734,2025-03-03,Discount $10x12mo,False,10
+C101822,2025-04-17,Discount $10x12mo,False,10
+C105615,2025-05-26,Discount $10x12mo,False,10
+C111873,2025-10-24,Free Speed Upgrade,False,6
+C106415,2024-12-17,Mobile Line Free 1yr,False,14
+C118278,2025-03-22,Discount $10x12mo,False,10
+C104878,2025-07-03,Discount $10x12mo,False,10
+C103523,2024-12-12,Free Speed Upgrade,False,6
+C107131,2025-08-19,Discount $10x12mo,False,10
+C105460,2025-07-04,Mobile Line Free 1yr,False,14
+C118211,2025-04-20,Control,False,0
+C108306,2025-09-01,Free Speed Upgrade,False,6
+C100869,2025-02-18,Control,False,0
+C112078,2025-02-19,Discount $10x12mo,False,10
+C118326,2025-01-09,Discount $10x12mo,False,10
+C119496,2025-09-02,Free Speed Upgrade,True,6
+C100985,2024-12-26,Control,False,0
+C117414,2025-04-05,Mobile Line Free 1yr,False,14
+C106760,2025-01-04,Free Speed Upgrade,False,6
+C106668,2025-03-22,Discount $10x12mo,False,10
+C107712,2025-10-08,Control,True,0
+C103046,2025-10-05,Control,False,0
+C108697,2025-04-11,Free Speed Upgrade,False,6
+C119852,2025-01-18,Discount $10x12mo,True,10
+C112643,2025-08-16,Mobile Line Free 1yr,False,14
+C111360,2024-12-06,Discount $10x12mo,True,10
+C105226,2025-09-05,Discount $10x12mo,False,10
+C112892,2025-10-30,Free Speed Upgrade,False,6
+C101271,2025-08-05,Control,False,0
+C104797,2025-07-21,Discount $10x12mo,False,10
+C103935,2025-06-10,Free Speed Upgrade,False,6
+C119395,2025-06-07,Mobile Line Free 1yr,False,14
+C105562,2025-10-11,Mobile Line Free 1yr,False,14
+C107604,2025-06-23,Discount $10x12mo,False,10
+C114708,2025-06-19,Control,True,0
+C114176,2025-10-19,Mobile Line Free 1yr,True,14
+C118465,2025-08-12,Mobile Line Free 1yr,False,14
+C109988,2025-06-21,Free Speed Upgrade,False,6
+C104698,2025-04-10,Free Speed Upgrade,True,6
+C112702,2025-06-27,Free Speed Upgrade,False,6
+C114268,2025-08-13,Free Speed Upgrade,False,6
+C116145,2025-03-15,Mobile Line Free 1yr,False,14
+C101778,2025-09-12,Control,True,0
+C100320,2025-11-12,Control,False,0
+C106802,2025-02-12,Control,False,0
+C117952,2025-11-08,Mobile Line Free 1yr,False,14
+C109045,2025-11-21,Discount $10x12mo,True,10
+C106296,2025-09-09,Discount $10x12mo,False,10
+C114172,2025-08-26,Mobile Line Free 1yr,False,14
+C108495,2025-06-29,Control,False,0
+C105628,2025-04-20,Free Speed Upgrade,False,6
+C111030,2025-10-01,Control,False,0
+C105356,2025-10-27,Discount $10x12mo,False,10
+C111534,2025-08-29,Control,False,0
+C118161,2025-03-12,Free Speed Upgrade,True,6
+C105394,2025-01-05,Discount $10x12mo,True,10
+C113291,2025-05-11,Control,False,0
+C118312,2025-06-13,Control,False,0
+C111482,2025-03-21,Free Speed Upgrade,False,6
+C118714,2025-02-02,Free Speed Upgrade,True,6
+C104456,2025-07-22,Control,False,0
+C116113,2025-10-24,Free Speed Upgrade,False,6
+C100674,2025-08-22,Free Speed Upgrade,False,6
+C119216,2025-11-21,Discount $10x12mo,False,10
+C117751,2025-07-25,Control,False,0
+C115290,2024-12-16,Control,True,0
+C108349,2025-11-14,Discount $10x12mo,False,10
+C112088,2025-02-02,Free Speed Upgrade,False,6
+C118183,2025-07-10,Free Speed Upgrade,False,6
+C108535,2025-10-16,Control,True,0
+C103936,2025-07-05,Mobile Line Free 1yr,False,14
+C113829,2025-02-16,Mobile Line Free 1yr,False,14
+C100527,2025-02-25,Free Speed Upgrade,False,6
+C118055,2025-02-04,Mobile Line Free 1yr,False,14
+C111933,2025-02-14,Discount $10x12mo,False,10
+C116956,2025-08-09,Mobile Line Free 1yr,False,14
+C112384,2025-06-19,Mobile Line Free 1yr,False,14
+C101589,2024-12-19,Mobile Line Free 1yr,False,14
+C103352,2024-12-16,Free Speed Upgrade,False,6
+C104476,2025-08-15,Control,True,0
+C100213,2025-07-05,Free Speed Upgrade,False,6
+C117386,2025-09-07,Discount $10x12mo,False,10
+C109669,2025-10-12,Mobile Line Free 1yr,True,14
+C111982,2025-07-22,Discount $10x12mo,False,10
+C119559,2025-01-05,Mobile Line Free 1yr,False,14
+C106550,2025-01-19,Control,True,0
+C106202,2024-12-26,Control,False,0
+C112712,2025-01-23,Discount $10x12mo,True,10
+C105121,2025-08-29,Control,False,0
+C105200,2025-07-13,Mobile Line Free 1yr,False,14
+C113639,2025-09-13,Discount $10x12mo,False,10
+C104113,2025-04-13,Discount $10x12mo,False,10
+C119000,2025-02-21,Control,False,0
+C104857,2025-03-31,Free Speed Upgrade,False,6
+C117672,2025-01-19,Discount $10x12mo,False,10
+C111979,2025-08-16,Free Speed Upgrade,False,6
+C106647,2025-05-31,Free Speed Upgrade,False,6
+C110698,2025-07-07,Control,True,0
+C112007,2025-09-13,Free Speed Upgrade,False,6
+C109410,2025-01-17,Free Speed Upgrade,False,6
+C110212,2025-01-27,Free Speed Upgrade,False,6
+C113380,2025-07-27,Control,True,0
+C114671,2025-07-25,Mobile Line Free 1yr,False,14
+C116441,2025-01-21,Discount $10x12mo,False,10
+C115945,2025-10-14,Control,True,0
+C117393,2025-07-28,Discount $10x12mo,False,10
+C112512,2025-09-06,Mobile Line Free 1yr,False,14
+C118516,2025-06-17,Discount $10x12mo,False,10
+C104741,2025-01-22,Control,True,0
+C101164,2025-05-26,Discount $10x12mo,False,10
+C103432,2025-05-15,Control,False,0
+C104596,2025-02-28,Discount $10x12mo,True,10
+C115200,2025-07-28,Mobile Line Free 1yr,True,14
+C119626,2024-12-28,Mobile Line Free 1yr,False,14
+C115733,2025-07-26,Mobile Line Free 1yr,False,14
+C113175,2025-10-23,Mobile Line Free 1yr,False,14
+C115504,2025-10-24,Mobile Line Free 1yr,True,14
+C105572,2025-02-16,Discount $10x12mo,False,10
+C111084,2025-09-27,Control,False,0
+C103889,2025-03-19,Discount $10x12mo,False,10
+C116456,2025-09-23,Discount $10x12mo,False,10
+C107021,2025-07-13,Discount $10x12mo,False,10
+C103751,2025-01-27,Control,False,0
+C101812,2025-07-11,Free Speed Upgrade,False,6
+C118083,2025-07-01,Control,False,0
+C109027,2025-07-16,Mobile Line Free 1yr,False,14
+C118301,2025-08-09,Discount $10x12mo,False,10
+C111603,2024-12-17,Discount $10x12mo,False,10
+C119888,2025-06-23,Free Speed Upgrade,False,6
+C104745,2025-08-17,Discount $10x12mo,False,10
+C104853,2025-06-19,Discount $10x12mo,False,10
+C107323,2024-12-04,Control,False,0
+C113248,2025-01-02,Free Speed Upgrade,False,6
+C101828,2025-01-30,Discount $10x12mo,False,10
+C112528,2025-11-15,Discount $10x12mo,False,10
+C114728,2025-08-28,Control,False,0
+C112159,2025-08-02,Mobile Line Free 1yr,False,14
+C113241,2025-02-12,Control,False,0
+C118761,2025-08-08,Free Speed Upgrade,False,6
+C105973,2025-02-21,Control,False,0
+C101527,2025-03-01,Free Speed Upgrade,False,6
+C107054,2025-06-12,Discount $10x12mo,False,10
+C109414,2025-08-04,Free Speed Upgrade,True,6
+C112112,2025-09-21,Free Speed Upgrade,False,6
+C115503,2024-12-13,Mobile Line Free 1yr,False,14
+C105417,2025-03-12,Discount $10x12mo,False,10
+C105052,2025-07-15,Free Speed Upgrade,True,6
+C100413,2025-05-28,Control,False,0
+C105547,2025-07-08,Discount $10x12mo,False,10
+C113354,2025-07-19,Free Speed Upgrade,False,6
+C118042,2025-10-30,Mobile Line Free 1yr,False,14
+C105326,2025-08-17,Discount $10x12mo,False,10
+C115451,2025-01-15,Mobile Line Free 1yr,False,14
+C112915,2025-03-03,Free Speed Upgrade,False,6
+C106542,2025-02-27,Control,False,0
+C101987,2025-05-16,Discount $10x12mo,False,10
+C100396,2025-01-31,Mobile Line Free 1yr,True,14
+C103755,2025-04-12,Control,False,0
+C106045,2025-07-27,Discount $10x12mo,False,10
+C116122,2025-11-27,Control,False,0
+C113035,2025-05-08,Discount $10x12mo,False,10
+C108527,2025-11-30,Mobile Line Free 1yr,False,14
+C106137,2025-06-02,Control,True,0
+C110085,2025-10-18,Control,False,0
+C103775,2025-05-06,Control,False,0
+C110286,2025-08-02,Free Speed Upgrade,False,6
+C112240,2024-12-10,Control,False,0
+C112416,2025-11-28,Discount $10x12mo,False,10
+C103930,2025-10-22,Free Speed Upgrade,False,6
+C116027,2025-03-03,Discount $10x12mo,True,10
+C119872,2025-02-24,Free Speed Upgrade,False,6
+C114393,2025-04-25,Mobile Line Free 1yr,False,14
+C103061,2025-05-01,Control,False,0
+C106686,2025-05-19,Free Speed Upgrade,True,6
+C119166,2025-06-16,Mobile Line Free 1yr,True,14
+C107346,2025-10-10,Control,False,0
+C117527,2025-04-10,Mobile Line Free 1yr,False,14
+C108627,2025-01-02,Control,False,0
+C108620,2024-12-22,Mobile Line Free 1yr,False,14
+C117549,2024-12-25,Discount $10x12mo,False,10
+C104987,2025-04-10,Control,True,0
+C102985,2025-11-22,Control,True,0
+C115150,2025-08-19,Mobile Line Free 1yr,False,14
+C115895,2025-09-28,Mobile Line Free 1yr,False,14
+C106501,2025-11-16,Control,False,0
+C106757,2024-12-08,Discount $10x12mo,False,10
+C107479,2025-03-03,Discount $10x12mo,False,10
+C103585,2025-05-24,Discount $10x12mo,False,10
+C107670,2025-04-22,Discount $10x12mo,False,10
+C111783,2025-06-01,Discount $10x12mo,False,10
+C119536,2024-12-04,Free Speed Upgrade,False,6
+C118416,2025-11-19,Free Speed Upgrade,False,6
+C107844,2025-07-20,Control,False,0
+C115758,2025-11-08,Discount $10x12mo,False,10
+C101017,2025-04-24,Discount $10x12mo,False,10
+C104562,2025-08-30,Mobile Line Free 1yr,False,14
+C105136,2025-05-24,Discount $10x12mo,False,10
+C108172,2025-03-07,Free Speed Upgrade,False,6
+C115441,2025-08-07,Mobile Line Free 1yr,False,14
+C105324,2024-12-21,Discount $10x12mo,False,10
+C103538,2025-02-28,Control,False,0
+C106355,2025-01-21,Discount $10x12mo,False,10
+C100521,2025-05-08,Discount $10x12mo,False,10
+C115511,2025-08-01,Mobile Line Free 1yr,True,14
+C106182,2025-11-07,Free Speed Upgrade,False,6
+C107407,2025-09-24,Discount $10x12mo,False,10
+C109343,2025-01-27,Discount $10x12mo,False,10
+C110121,2025-01-21,Control,False,0
+C117444,2025-03-19,Discount $10x12mo,False,10
+C104178,2025-08-12,Discount $10x12mo,False,10
+C103006,2025-10-17,Control,False,0
+C109793,2025-07-31,Mobile Line Free 1yr,True,14
+C104673,2025-11-24,Free Speed Upgrade,False,6
+C119645,2025-07-09,Discount $10x12mo,False,10
+C103179,2025-08-10,Mobile Line Free 1yr,False,14
+C117749,2025-07-06,Discount $10x12mo,True,10
+C113156,2024-12-14,Mobile Line Free 1yr,False,14
+C100787,2025-02-25,Mobile Line Free 1yr,False,14
+C107171,2025-08-01,Free Speed Upgrade,False,6
+C104704,2025-02-20,Free Speed Upgrade,True,6
+C109364,2025-04-20,Discount $10x12mo,False,10
+C113800,2025-03-02,Control,False,0
+C109099,2025-05-30,Mobile Line Free 1yr,False,14
+C118934,2025-03-26,Mobile Line Free 1yr,False,14
+C115520,2025-11-06,Discount $10x12mo,False,10
+C103865,2025-11-02,Free Speed Upgrade,False,6
+C104495,2025-11-03,Mobile Line Free 1yr,True,14
+C108074,2025-05-14,Mobile Line Free 1yr,False,14
+C116910,2025-01-21,Discount $10x12mo,False,10
+C100282,2025-05-27,Free Speed Upgrade,False,6
+C107080,2025-06-09,Free Speed Upgrade,False,6
+C100713,2024-12-08,Free Speed Upgrade,False,6
+C114602,2025-08-28,Mobile Line Free 1yr,True,14
+C119986,2024-12-15,Discount $10x12mo,False,10
+C116391,2025-07-15,Discount $10x12mo,False,10
+C113904,2025-11-18,Discount $10x12mo,False,10
+C118731,2025-03-27,Mobile Line Free 1yr,False,14
+C109696,2025-03-09,Mobile Line Free 1yr,False,14
+C113788,2025-07-30,Free Speed Upgrade,False,6
+C116697,2025-08-05,Control,False,0
+C114479,2025-04-17,Discount $10x12mo,False,10
+C103654,2025-04-21,Discount $10x12mo,False,10
+C106029,2025-08-14,Control,False,0
+C114825,2025-04-12,Mobile Line Free 1yr,False,14
+C104329,2025-03-01,Discount $10x12mo,False,10
+C113930,2025-06-15,Free Speed Upgrade,False,6
+C105285,2025-05-10,Discount $10x12mo,True,10
+C103067,2025-11-17,Control,False,0
+C115709,2025-08-12,Discount $10x12mo,False,10
+C117016,2025-02-03,Mobile Line Free 1yr,True,14
+C110733,2025-10-18,Mobile Line Free 1yr,False,14
+C107880,2025-04-05,Control,True,0
+C115241,2025-05-02,Discount $10x12mo,False,10
+C109268,2025-05-01,Mobile Line Free 1yr,False,14
+C108199,2025-01-13,Mobile Line Free 1yr,True,14
+C105923,2025-05-15,Control,False,0
+C109170,2025-06-24,Free Speed Upgrade,False,6
+C118468,2025-06-02,Discount $10x12mo,False,10
+C107690,2025-10-11,Control,False,0
+C100936,2025-05-18,Mobile Line Free 1yr,False,14
+C104129,2024-12-29,Free Speed Upgrade,False,6
+C110399,2025-05-26,Discount $10x12mo,False,10
+C113198,2025-10-30,Mobile Line Free 1yr,False,14
+C111343,2025-08-03,Discount $10x12mo,False,10
+C101374,2025-07-19,Mobile Line Free 1yr,False,14
+C110162,2025-05-09,Free Speed Upgrade,True,6
+C107599,2025-05-16,Free Speed Upgrade,False,6
+C106937,2025-07-01,Free Speed Upgrade,False,6
+C113207,2025-01-07,Mobile Line Free 1yr,False,14
+C108586,2025-10-23,Discount $10x12mo,False,10
+C116244,2025-11-22,Discount $10x12mo,False,10
+C110513,2025-05-28,Discount $10x12mo,False,10
+C106104,2025-10-03,Control,False,0
+C101155,2025-11-23,Free Speed Upgrade,False,6
+C109659,2025-08-06,Control,False,0
+C108650,2024-12-27,Free Speed Upgrade,False,6
+C103466,2025-07-12,Mobile Line Free 1yr,False,14
+C111107,2025-06-03,Free Speed Upgrade,False,6
+C116822,2025-09-13,Mobile Line Free 1yr,False,14
+C112654,2025-09-19,Discount $10x12mo,False,10
+C110723,2025-03-19,Discount $10x12mo,False,10
+C119343,2025-05-23,Control,False,0
+C113626,2025-08-09,Mobile Line Free 1yr,False,14
+C117659,2025-05-18,Mobile Line Free 1yr,True,14
+C103384,2025-02-09,Control,False,0
+C118695,2025-08-04,Discount $10x12mo,False,10
+C108581,2025-05-05,Control,False,0
+C102135,2025-01-18,Free Speed Upgrade,True,6
+C114589,2025-03-11,Free Speed Upgrade,True,6
+C117784,2025-08-14,Discount $10x12mo,False,10
+C109426,2025-07-08,Control,False,0
+C109419,2025-02-11,Mobile Line Free 1yr,False,14
+C119246,2025-02-16,Control,False,0
+C104869,2025-11-22,Control,False,0
+C114971,2025-10-26,Mobile Line Free 1yr,False,14
+C109060,2025-11-06,Control,True,0
+C119938,2025-08-05,Control,False,0
+C109309,2025-11-11,Mobile Line Free 1yr,False,14
+C113124,2024-12-29,Control,False,0
+C107267,2025-08-14,Discount $10x12mo,False,10
+C119236,2025-07-31,Mobile Line Free 1yr,True,14
+C117389,2025-11-26,Mobile Line Free 1yr,False,14
+C104091,2025-03-15,Mobile Line Free 1yr,False,14
+C100600,2025-01-22,Discount $10x12mo,False,10
+C100654,2025-02-16,Free Speed Upgrade,True,6
+C103719,2025-02-28,Discount $10x12mo,False,10
+C102096,2025-02-04,Discount $10x12mo,False,10
+C100990,2025-01-31,Mobile Line Free 1yr,False,14
+C101425,2025-11-04,Mobile Line Free 1yr,False,14
+C108816,2025-11-17,Mobile Line Free 1yr,False,14
+C116916,2025-03-31,Free Speed Upgrade,False,6
+C104194,2025-05-10,Control,False,0
+C116619,2025-09-15,Mobile Line Free 1yr,False,14
+C118168,2025-04-01,Discount $10x12mo,False,10
+C103290,2025-05-19,Mobile Line Free 1yr,False,14
+C110773,2025-07-31,Discount $10x12mo,False,10
+C100115,2025-02-04,Control,False,0
+C103631,2025-09-03,Control,False,0
+C106266,2025-09-30,Discount $10x12mo,False,10
+C101856,2025-09-14,Free Speed Upgrade,False,6
+C113608,2024-12-26,Discount $10x12mo,False,10
+C112439,2025-11-07,Control,True,0
+C118754,2025-01-17,Discount $10x12mo,False,10
+C113711,2025-07-19,Discount $10x12mo,False,10
+C110011,2025-10-17,Discount $10x12mo,True,10
+C116006,2025-08-19,Mobile Line Free 1yr,False,14
+C115680,2025-01-07,Free Speed Upgrade,False,6
+C116625,2025-02-21,Free Speed Upgrade,False,6
+C102884,2025-11-05,Mobile Line Free 1yr,False,14
+C119582,2025-06-16,Free Speed Upgrade,False,6
+C111433,2025-03-24,Mobile Line Free 1yr,False,14
+C106690,2025-04-09,Control,False,0
+C107395,2025-04-30,Control,False,0
+C114060,2025-02-24,Discount $10x12mo,False,10
+C106450,2024-12-02,Free Speed Upgrade,False,6
+C115757,2025-11-12,Mobile Line Free 1yr,False,14
+C117083,2024-12-17,Free Speed Upgrade,False,6
+C110766,2025-04-29,Control,False,0
+C107273,2025-05-25,Mobile Line Free 1yr,False,14
+C103346,2025-04-15,Mobile Line Free 1yr,True,14
+C101283,2025-10-05,Mobile Line Free 1yr,False,14
+C101510,2025-05-25,Discount $10x12mo,False,10
+C107560,2025-07-15,Mobile Line Free 1yr,False,14
+C107160,2025-09-17,Mobile Line Free 1yr,False,14
+C115599,2025-05-07,Control,False,0
+C116338,2025-11-10,Control,True,0
+C117715,2025-09-27,Control,False,0
+C111280,2025-08-15,Control,False,0
+C103849,2024-12-23,Mobile Line Free 1yr,False,14
+C116076,2025-06-07,Free Speed Upgrade,False,6
+C105683,2025-03-31,Discount $10x12mo,False,10
+C112648,2025-08-23,Free Speed Upgrade,False,6
+C117610,2025-11-12,Mobile Line Free 1yr,False,14
+C104447,2025-07-17,Control,False,0
+C118860,2025-09-09,Free Speed Upgrade,False,6
+C117230,2025-07-30,Discount $10x12mo,False,10
+C106293,2025-09-10,Discount $10x12mo,False,10
+C107303,2025-07-29,Free Speed Upgrade,False,6
+C117207,2024-12-06,Mobile Line Free 1yr,False,14
+C118135,2025-10-01,Free Speed Upgrade,False,6
+C111249,2025-11-09,Free Speed Upgrade,False,6
+C110794,2025-02-28,Discount $10x12mo,False,10
+C116707,2025-06-21,Mobile Line Free 1yr,True,14
+C102379,2025-03-20,Free Speed Upgrade,False,6
+C117691,2025-03-27,Control,False,0
+C116733,2025-04-22,Control,False,0
+C102528,2025-04-06,Discount $10x12mo,False,10
+C103867,2025-10-20,Free Speed Upgrade,False,6
+C113792,2025-07-20,Mobile Line Free 1yr,False,14
+C103933,2025-06-16,Mobile Line Free 1yr,False,14
+C119913,2025-10-22,Mobile Line Free 1yr,False,14
+C112949,2025-10-10,Free Speed Upgrade,True,6
+C112242,2025-03-13,Control,False,0
+C111244,2025-03-06,Discount $10x12mo,False,10
+C111996,2025-01-04,Discount $10x12mo,False,10
+C107641,2025-06-28,Free Speed Upgrade,True,6
+C116720,2025-06-02,Free Speed Upgrade,False,6
+C118003,2025-06-28,Control,False,0
+C103234,2025-02-15,Free Speed Upgrade,True,6
+C110538,2025-05-28,Mobile Line Free 1yr,False,14
+C119273,2025-10-07,Free Speed Upgrade,True,6
+C102912,2025-03-07,Free Speed Upgrade,False,6
+C115274,2025-03-15,Control,False,0
+C110747,2025-07-06,Discount $10x12mo,True,10
+C111351,2024-12-04,Free Speed Upgrade,False,6
+C105414,2025-09-11,Control,False,0
+C110339,2025-05-18,Free Speed Upgrade,False,6
+C115271,2025-10-11,Control,False,0
+C117728,2024-12-15,Free Speed Upgrade,True,6
+C113642,2025-10-15,Free Speed Upgrade,True,6
+C110487,2025-02-27,Control,False,0
+C117867,2025-11-28,Free Speed Upgrade,False,6
+C114881,2025-07-30,Mobile Line Free 1yr,False,14
+C102724,2025-10-10,Discount $10x12mo,True,10
+C103359,2025-05-15,Discount $10x12mo,False,10
+C113610,2025-11-03,Mobile Line Free 1yr,False,14
+C112779,2025-10-30,Free Speed Upgrade,False,6
+C106938,2025-06-21,Mobile Line Free 1yr,False,14
+C108147,2025-02-27,Discount $10x12mo,False,10
+C102673,2025-06-13,Discount $10x12mo,False,10
+C119233,2025-05-07,Mobile Line Free 1yr,False,14
+C113837,2024-12-26,Control,False,0
+C115011,2025-10-24,Discount $10x12mo,True,10
+C103847,2025-02-24,Free Speed Upgrade,False,6
+C105777,2025-05-04,Free Speed Upgrade,True,6
+C104736,2025-02-03,Discount $10x12mo,False,10
+C114615,2025-06-24,Discount $10x12mo,False,10
+C111726,2025-04-20,Discount $10x12mo,False,10
+C118367,2025-03-31,Discount $10x12mo,False,10
+C103394,2024-12-18,Mobile Line Free 1yr,False,14
+C108667,2025-02-05,Control,True,0
+C107631,2025-04-01,Free Speed Upgrade,False,6
+C115873,2025-07-05,Mobile Line Free 1yr,False,14
+C119360,2025-10-03,Control,True,0
+C111330,2024-12-21,Control,False,0
+C115725,2024-12-23,Mobile Line Free 1yr,True,14
+C107166,2025-10-30,Free Speed Upgrade,False,6
+C103731,2025-11-22,Mobile Line Free 1yr,False,14
+C119465,2024-12-21,Control,False,0
+C101536,2025-03-25,Mobile Line Free 1yr,False,14
+C111925,2025-01-03,Free Speed Upgrade,False,6
+C108096,2025-08-15,Free Speed Upgrade,False,6
+C100256,2025-10-20,Mobile Line Free 1yr,False,14
+C106157,2025-05-29,Discount $10x12mo,False,10
+C110075,2025-10-15,Free Speed Upgrade,False,6
+C104448,2025-10-14,Free Speed Upgrade,False,6
+C117678,2025-06-15,Discount $10x12mo,False,10
+C102830,2025-02-06,Free Speed Upgrade,False,6
+C102928,2024-12-19,Free Speed Upgrade,False,6
+C105166,2025-01-10,Discount $10x12mo,False,10
+C107476,2024-12-10,Control,False,0
+C114911,2025-02-09,Discount $10x12mo,False,10
+C109158,2024-12-28,Mobile Line Free 1yr,False,14
+C104139,2025-07-09,Discount $10x12mo,True,10
+C112147,2025-11-28,Discount $10x12mo,True,10
+C101511,2025-05-04,Mobile Line Free 1yr,False,14
+C117247,2025-06-20,Mobile Line Free 1yr,False,14
+C107380,2024-12-20,Control,False,0
+C116347,2025-11-06,Discount $10x12mo,True,10
+C105255,2025-05-12,Free Speed Upgrade,True,6
+C109720,2025-07-30,Free Speed Upgrade,False,6
+C114796,2025-06-16,Discount $10x12mo,False,10
+C113835,2025-09-02,Discount $10x12mo,False,10
+C102077,2025-03-26,Control,False,0
+C100637,2025-06-01,Discount $10x12mo,True,10
+C105911,2025-10-26,Free Speed Upgrade,False,6
+C103058,2025-01-05,Discount $10x12mo,True,10
+C113972,2025-02-11,Control,False,0
+C102807,2025-06-25,Mobile Line Free 1yr,True,14
+C109510,2025-07-25,Free Speed Upgrade,False,6
+C104346,2025-04-29,Mobile Line Free 1yr,False,14
+C107393,2024-12-18,Mobile Line Free 1yr,False,14
+C110167,2025-03-28,Control,False,0
+C113469,2025-04-17,Mobile Line Free 1yr,False,14
+C113329,2025-02-17,Free Speed Upgrade,False,6
+C118903,2024-12-23,Free Speed Upgrade,False,6
+C108463,2025-11-11,Free Speed Upgrade,False,6
+C108611,2025-11-21,Mobile Line Free 1yr,False,14
+C100894,2025-05-21,Discount $10x12mo,False,10
+C114386,2025-10-07,Control,False,0
+C116824,2025-03-21,Discount $10x12mo,False,10
+C117629,2025-06-18,Mobile Line Free 1yr,False,14
+C115881,2025-07-20,Discount $10x12mo,False,10
+C100525,2025-05-23,Control,False,0
+C118992,2024-12-16,Control,False,0
+C103480,2025-03-20,Mobile Line Free 1yr,False,14
+C103055,2025-08-03,Free Speed Upgrade,False,6
+C109534,2024-12-22,Mobile Line Free 1yr,False,14
+C109402,2025-05-31,Free Speed Upgrade,False,6
+C108138,2025-06-09,Discount $10x12mo,False,10
+C105736,2025-11-20,Mobile Line Free 1yr,False,14
+C100072,2025-09-15,Control,True,0
+C105942,2025-04-10,Free Speed Upgrade,False,6
+C113131,2025-03-11,Discount $10x12mo,False,10
+C104403,2025-04-22,Mobile Line Free 1yr,False,14
+C106463,2025-02-15,Free Speed Upgrade,False,6
+C118906,2024-12-20,Free Speed Upgrade,False,6
+C103140,2025-02-04,Mobile Line Free 1yr,False,14
+C119092,2025-07-02,Mobile Line Free 1yr,False,14
+C104222,2025-05-21,Mobile Line Free 1yr,False,14
+C107412,2025-03-22,Control,False,0
+C104301,2025-10-07,Control,True,0
+C117626,2025-02-10,Control,False,0
+C111026,2025-06-26,Mobile Line Free 1yr,False,14
+C111237,2024-12-24,Discount $10x12mo,False,10
+C109982,2025-06-26,Free Speed Upgrade,False,6
+C117669,2025-11-01,Control,True,0
+C100590,2025-06-13,Free Speed Upgrade,False,6
+C117870,2025-01-28,Control,False,0
+C108252,2025-06-05,Discount $10x12mo,False,10
+C115728,2025-10-12,Control,True,0
+C119896,2025-09-21,Discount $10x12mo,False,10
+C111398,2025-07-08,Free Speed Upgrade,False,6
+C102892,2025-03-24,Control,True,0
+C109611,2025-01-03,Mobile Line Free 1yr,False,14
+C115950,2025-01-05,Control,False,0
+C113607,2025-11-10,Free Speed Upgrade,True,6
+C113815,2025-09-18,Mobile Line Free 1yr,False,14
+C109408,2025-01-30,Discount $10x12mo,True,10
+C103304,2025-05-06,Free Speed Upgrade,False,6
+C102891,2025-04-10,Control,True,0
+C102425,2025-02-02,Mobile Line Free 1yr,False,14
+C116320,2025-04-22,Control,False,0
+C109855,2025-09-26,Mobile Line Free 1yr,False,14
+C116776,2024-12-19,Discount $10x12mo,False,10
+C113596,2025-06-30,Mobile Line Free 1yr,True,14
+C104461,2025-09-15,Discount $10x12mo,False,10
+C117224,2024-12-21,Discount $10x12mo,False,10
+C114870,2025-07-19,Discount $10x12mo,False,10
+C119491,2025-01-12,Control,False,0
+C103763,2025-11-22,Control,False,0
+C108607,2025-04-26,Discount $10x12mo,False,10
+C106700,2025-08-14,Control,True,0
+C111438,2025-03-13,Control,False,0
+C115746,2025-09-02,Mobile Line Free 1yr,False,14
+C116294,2025-04-26,Discount $10x12mo,False,10
+C101189,2025-04-14,Mobile Line Free 1yr,False,14
+C118192,2025-04-09,Discount $10x12mo,False,10
+C119332,2025-02-08,Control,False,0
+C107557,2025-10-14,Free Speed Upgrade,False,6
+C111612,2025-01-02,Free Speed Upgrade,False,6
+C112289,2025-07-31,Free Speed Upgrade,False,6
+C117541,2025-09-24,Control,False,0
+C108534,2025-08-16,Discount $10x12mo,False,10
+C100409,2025-04-12,Free Speed Upgrade,False,6
+C106444,2025-02-27,Free Speed Upgrade,False,6
+C116227,2025-11-03,Control,True,0
+C114682,2024-12-14,Free Speed Upgrade,False,6
+C119644,2025-04-12,Mobile Line Free 1yr,True,14
+C109693,2025-04-26,Free Speed Upgrade,False,6
+C105070,2025-04-15,Mobile Line Free 1yr,False,14
+C116781,2025-06-25,Control,True,0
+C104430,2025-03-06,Free Speed Upgrade,False,6
+C101569,2025-10-22,Mobile Line Free 1yr,True,14
+C102943,2025-06-27,Control,True,0
+C108914,2025-06-15,Free Speed Upgrade,False,6
+C116361,2025-05-29,Mobile Line Free 1yr,False,14
+C116796,2025-05-10,Discount $10x12mo,False,10
+C110141,2025-09-29,Free Speed Upgrade,False,6
+C112769,2025-02-18,Mobile Line Free 1yr,False,14
+C105043,2025-02-11,Control,False,0
+C100294,2025-08-29,Mobile Line Free 1yr,False,14
+C111322,2025-05-16,Control,False,0
+C107663,2025-11-02,Discount $10x12mo,False,10
+C116953,2025-01-16,Mobile Line Free 1yr,False,14
+C111472,2025-02-20,Control,False,0
+C106078,2025-11-21,Control,False,0
+C112574,2025-02-20,Mobile Line Free 1yr,False,14
+C100719,2025-10-19,Control,False,0
+C113892,2025-02-19,Control,False,0
+C111308,2025-04-05,Control,False,0
+C111119,2025-07-05,Control,False,0
+C111418,2025-09-25,Free Speed Upgrade,False,6
+C106295,2025-08-18,Mobile Line Free 1yr,True,14
+C103693,2025-05-19,Control,False,0
+C117557,2025-01-30,Free Speed Upgrade,True,6
+C111760,2025-06-05,Mobile Line Free 1yr,False,14
+C106193,2025-04-02,Discount $10x12mo,True,10
+C105895,2025-01-25,Discount $10x12mo,False,10
+C111473,2025-05-06,Mobile Line Free 1yr,False,14
+C112436,2025-05-12,Discount $10x12mo,False,10
+C110975,2025-11-04,Control,True,0
+C105695,2025-11-22,Discount $10x12mo,False,10
+C102391,2025-02-25,Free Speed Upgrade,False,6
+C110065,2025-11-24,Free Speed Upgrade,False,6
+C102977,2024-12-09,Mobile Line Free 1yr,True,14
+C104577,2024-12-27,Control,False,0
+C105017,2025-11-13,Free Speed Upgrade,False,6
+C116955,2024-12-07,Control,True,0
+C118396,2025-10-22,Discount $10x12mo,True,10
+C112835,2025-03-07,Discount $10x12mo,False,10
+C117695,2025-11-03,Discount $10x12mo,True,10
+C110151,2025-07-15,Control,True,0
+C115722,2025-04-11,Discount $10x12mo,False,10
+C104392,2025-03-07,Discount $10x12mo,False,10
+C119140,2025-01-23,Discount $10x12mo,False,10
+C108046,2025-10-25,Mobile Line Free 1yr,False,14
+C119956,2025-07-03,Control,False,0
+C109303,2025-03-27,Mobile Line Free 1yr,False,14
+C117183,2025-05-26,Mobile Line Free 1yr,False,14
+C106620,2025-01-19,Discount $10x12mo,False,10
+C116765,2025-03-28,Discount $10x12mo,False,10
+C114151,2025-02-27,Free Speed Upgrade,True,6
+C114252,2025-02-14,Mobile Line Free 1yr,False,14
+C119620,2025-05-24,Discount $10x12mo,False,10
+C112185,2025-03-20,Free Speed Upgrade,False,6
+C113406,2025-10-29,Free Speed Upgrade,False,6
+C112785,2025-07-29,Control,False,0
+C106353,2025-05-11,Free Speed Upgrade,False,6
+C115284,2025-07-02,Mobile Line Free 1yr,False,14
+C110574,2024-12-30,Free Speed Upgrade,False,6
+C117753,2025-06-11,Control,True,0
+C117099,2025-07-22,Control,True,0
+C111892,2025-08-30,Control,False,0
+C104095,2025-01-30,Free Speed Upgrade,False,6
+C103564,2025-05-12,Control,False,0
+C104700,2025-09-04,Free Speed Upgrade,False,6
+C118617,2025-08-03,Discount $10x12mo,False,10
+C100202,2025-03-30,Free Speed Upgrade,False,6
+C101180,2025-03-25,Control,False,0
+C103474,2025-05-10,Discount $10x12mo,False,10
+C109412,2025-06-06,Free Speed Upgrade,False,6
+C114974,2025-11-12,Free Speed Upgrade,False,6
+C117188,2025-07-20,Mobile Line Free 1yr,False,14
+C115199,2025-08-17,Mobile Line Free 1yr,False,14
+C110117,2025-03-18,Control,False,0
+C113834,2025-09-14,Free Speed Upgrade,False,6
+C105496,2025-07-13,Discount $10x12mo,False,10
+C100334,2025-08-11,Free Speed Upgrade,False,6
+C111285,2024-12-26,Control,False,0
+C115073,2025-11-19,Discount $10x12mo,False,10
+C100381,2025-01-20,Mobile Line Free 1yr,False,14
+C118344,2024-12-27,Free Speed Upgrade,False,6
+C105046,2025-11-06,Control,False,0
+C110253,2025-11-10,Control,False,0
+C116058,2025-05-27,Control,False,0
+C108963,2025-07-20,Mobile Line Free 1yr,True,14
+C100070,2025-02-25,Control,False,0
+C113447,2025-10-11,Free Speed Upgrade,False,6
+C106874,2025-05-01,Free Speed Upgrade,False,6
+C105871,2025-10-01,Discount $10x12mo,False,10
+C116071,2025-05-22,Discount $10x12mo,False,10
+C113307,2025-07-08,Control,False,0
+C113744,2025-03-21,Discount $10x12mo,False,10
+C104810,2025-09-04,Free Speed Upgrade,True,6
+C109487,2025-07-06,Discount $10x12mo,True,10
+C117007,2025-03-09,Mobile Line Free 1yr,False,14
+C108427,2025-06-24,Mobile Line Free 1yr,False,14
+C101392,2025-09-07,Mobile Line Free 1yr,False,14
+C105199,2025-04-11,Free Speed Upgrade,False,6
+C105975,2025-11-02,Discount $10x12mo,False,10
+C102169,2025-07-21,Control,False,0
+C118961,2025-09-21,Mobile Line Free 1yr,False,14
+C107014,2025-11-11,Discount $10x12mo,False,10
+C105098,2025-09-14,Discount $10x12mo,False,10
+C106601,2025-01-25,Control,True,0
+C107680,2025-08-31,Discount $10x12mo,False,10
+C101356,2025-08-03,Free Speed Upgrade,False,6
+C117264,2025-05-23,Control,True,0
+C116711,2025-02-01,Discount $10x12mo,True,10
+C115764,2025-01-25,Control,False,0
+C100029,2025-05-08,Control,False,0
+C104993,2025-10-11,Mobile Line Free 1yr,False,14
+C103636,2025-03-10,Control,False,0
+C108454,2025-04-25,Free Speed Upgrade,False,6
+C116451,2025-10-22,Discount $10x12mo,False,10
+C111938,2025-09-26,Mobile Line Free 1yr,False,14
+C110586,2025-06-30,Control,True,0
+C107129,2025-06-15,Free Speed Upgrade,False,6
+C109218,2025-10-28,Free Speed Upgrade,True,6
+C102681,2025-02-25,Discount $10x12mo,True,10
+C108716,2025-05-17,Control,False,0
+C117458,2025-11-02,Control,True,0
+C116865,2025-09-29,Free Speed Upgrade,False,6
+C111170,2025-01-02,Free Speed Upgrade,False,6
+C103948,2024-12-30,Control,False,0
+C104060,2025-09-11,Control,False,0
+C103674,2025-05-21,Control,False,0
+C111503,2025-07-26,Discount $10x12mo,True,10
+C109129,2025-07-13,Control,False,0
+C101935,2025-01-19,Discount $10x12mo,False,10
+C119710,2025-08-08,Control,False,0
+C118669,2024-12-16,Mobile Line Free 1yr,False,14
+C117212,2025-07-31,Free Speed Upgrade,False,6
+C103143,2025-09-09,Discount $10x12mo,False,10
+C102671,2025-10-12,Control,False,0
+C100800,2025-10-30,Discount $10x12mo,False,10
+C112379,2025-05-19,Free Speed Upgrade,False,6
+C114434,2025-06-11,Discount $10x12mo,False,10
+C112781,2025-05-24,Mobile Line Free 1yr,False,14
+C106215,2025-09-03,Mobile Line Free 1yr,True,14
+C101408,2025-03-22,Mobile Line Free 1yr,False,14
+C110314,2025-04-26,Mobile Line Free 1yr,False,14
+C116995,2025-03-08,Discount $10x12mo,False,10
+C100532,2025-07-10,Mobile Line Free 1yr,True,14
+C110485,2025-06-11,Mobile Line Free 1yr,False,14
+C114443,2025-10-06,Discount $10x12mo,False,10
+C118116,2025-06-30,Mobile Line Free 1yr,False,14
+C111327,2025-01-16,Control,True,0
+C116594,2024-12-08,Free Speed Upgrade,False,6
+C115106,2025-05-21,Control,False,0
+C103760,2025-04-22,Free Speed Upgrade,False,6
+C112084,2024-12-30,Control,True,0
+C116708,2025-07-01,Mobile Line Free 1yr,False,14
+C116918,2024-12-20,Mobile Line Free 1yr,False,14
+C116208,2025-10-04,Mobile Line Free 1yr,False,14
+C108540,2025-10-21,Free Speed Upgrade,False,6
+C106949,2025-09-28,Mobile Line Free 1yr,False,14
+C116644,2025-10-17,Mobile Line Free 1yr,False,14
+C103231,2025-09-05,Control,False,0
+C114715,2025-07-28,Mobile Line Free 1yr,False,14
+C119818,2025-01-03,Mobile Line Free 1yr,True,14
+C118033,2025-09-16,Control,False,0
+C113212,2025-10-03,Discount $10x12mo,False,10
+C103024,2025-09-19,Free Speed Upgrade,False,6
+C109929,2025-05-02,Mobile Line Free 1yr,True,14
+C118364,2024-12-20,Control,False,0
+C118114,2025-06-09,Mobile Line Free 1yr,False,14
+C108009,2025-10-07,Mobile Line Free 1yr,False,14
+C116915,2025-04-30,Mobile Line Free 1yr,True,14
+C119617,2025-04-29,Mobile Line Free 1yr,False,14
+C108585,2024-12-27,Free Speed Upgrade,False,6
+C104614,2025-03-24,Discount $10x12mo,False,10
+C104027,2025-06-30,Free Speed Upgrade,False,6
+C117667,2025-09-20,Mobile Line Free 1yr,False,14
+C114573,2024-12-27,Mobile Line Free 1yr,False,14
+C105193,2025-01-04,Free Speed Upgrade,False,6
+C106957,2025-08-31,Mobile Line Free 1yr,True,14
+C112297,2025-09-21,Mobile Line Free 1yr,True,14
+C101347,2025-11-14,Control,False,0
+C102474,2025-09-03,Free Speed Upgrade,False,6
+C115601,2025-04-17,Mobile Line Free 1yr,True,14
+C106307,2025-11-12,Free Speed Upgrade,False,6
+C100270,2025-03-03,Free Speed Upgrade,False,6
+C109391,2025-01-12,Control,False,0
+C106088,2025-11-20,Discount $10x12mo,False,10
+C111924,2025-08-07,Control,True,0
+C118154,2025-02-19,Free Speed Upgrade,False,6
+C101700,2024-12-25,Control,False,0
+C111302,2025-02-19,Discount $10x12mo,False,10
+C113877,2025-10-01,Discount $10x12mo,False,10
+C107417,2025-06-22,Control,False,0
+C114787,2025-03-25,Free Speed Upgrade,False,6
+C103877,2025-05-05,Control,False,0
+C105931,2024-12-14,Control,True,0
+C115376,2024-12-27,Control,False,0
+C107095,2025-02-10,Discount $10x12mo,True,10
+C113043,2025-04-09,Free Speed Upgrade,False,6
+C115631,2025-06-05,Free Speed Upgrade,False,6
+C104345,2025-09-19,Discount $10x12mo,False,10
+C115897,2025-01-19,Discount $10x12mo,False,10
+C104887,2025-01-08,Discount $10x12mo,False,10
+C118260,2025-04-13,Mobile Line Free 1yr,True,14
+C104550,2025-05-04,Free Speed Upgrade,False,6
+C114275,2025-02-20,Discount $10x12mo,False,10
+C113907,2025-01-20,Mobile Line Free 1yr,False,14
+C101803,2025-08-25,Mobile Line Free 1yr,False,14
+C100006,2025-02-01,Mobile Line Free 1yr,False,14
+C104177,2025-11-23,Discount $10x12mo,False,10
+C117704,2024-12-06,Mobile Line Free 1yr,True,14
+C115184,2025-01-15,Mobile Line Free 1yr,False,14
+C108093,2025-02-14,Free Speed Upgrade,True,6
+C105609,2025-05-21,Mobile Line Free 1yr,False,14
+C116685,2024-12-20,Control,False,0
+C109913,2025-07-06,Control,False,0
+C117348,2025-09-26,Mobile Line Free 1yr,False,14
+C100361,2025-06-13,Free Speed Upgrade,True,6
+C109538,2025-08-31,Free Speed Upgrade,False,6
+C109175,2025-10-11,Mobile Line Free 1yr,False,14
+C106496,2025-01-06,Discount $10x12mo,False,10
+C119637,2025-06-09,Mobile Line Free 1yr,False,14
+C117507,2025-04-24,Discount $10x12mo,False,10
+C106212,2025-08-13,Discount $10x12mo,False,10
+C111556,2025-04-26,Discount $10x12mo,True,10
+C114169,2025-03-08,Discount $10x12mo,False,10
+C114733,2025-04-28,Discount $10x12mo,True,10
+C100949,2025-07-22,Discount $10x12mo,False,10
+C115825,2025-03-25,Free Speed Upgrade,False,6
+C101990,2025-09-17,Discount $10x12mo,False,10
+C113679,2025-03-08,Mobile Line Free 1yr,False,14
+C105427,2024-12-02,Control,True,0
+C113522,2025-04-10,Mobile Line Free 1yr,False,14
+C107220,2024-12-20,Free Speed Upgrade,False,6
+C103692,2025-08-01,Control,True,0
+C105245,2025-04-26,Control,False,0
+C109543,2025-05-27,Control,False,0
+C111445,2025-08-31,Mobile Line Free 1yr,False,14
+C109078,2025-05-14,Free Speed Upgrade,False,6
+C116218,2025-01-27,Discount $10x12mo,False,10
+C117061,2025-03-08,Mobile Line Free 1yr,False,14
+C101829,2025-05-07,Free Speed Upgrade,False,6
+C106089,2024-12-14,Control,True,0
+C117819,2025-05-05,Discount $10x12mo,False,10
+C114748,2025-11-28,Mobile Line Free 1yr,False,14
+C109381,2025-09-26,Control,False,0
+C103721,2025-09-17,Control,False,0
+C103621,2025-10-30,Control,True,0
+C101344,2025-01-30,Mobile Line Free 1yr,False,14
+C100287,2024-12-25,Discount $10x12mo,False,10
+C116540,2025-11-13,Control,False,0
+C110755,2025-02-20,Control,False,0
+C104296,2025-02-05,Discount $10x12mo,False,10
+C118510,2025-10-16,Mobile Line Free 1yr,False,14
+C118541,2025-08-26,Discount $10x12mo,False,10
+C103442,2025-10-07,Control,True,0
+C112725,2025-01-21,Discount $10x12mo,False,10
+C119195,2025-05-17,Discount $10x12mo,True,10
+C104450,2025-09-25,Discount $10x12mo,False,10
+C106911,2025-04-05,Free Speed Upgrade,False,6
+C118015,2025-06-07,Free Speed Upgrade,False,6
+C105829,2025-10-23,Free Speed Upgrade,False,6
+C113653,2025-05-04,Free Speed Upgrade,False,6
+C113201,2025-02-18,Discount $10x12mo,False,10
+C104893,2025-04-26,Control,False,0
+C101966,2025-01-04,Control,True,0
+C116626,2025-03-22,Control,True,0
+C100440,2025-07-13,Free Speed Upgrade,True,6
+C118657,2025-08-03,Discount $10x12mo,False,10
+C113465,2024-12-13,Mobile Line Free 1yr,True,14
+C108969,2025-05-05,Discount $10x12mo,False,10
+C115488,2024-12-29,Control,True,0
+C101865,2025-10-23,Free Speed Upgrade,False,6
+C107613,2025-08-20,Mobile Line Free 1yr,False,14
+C105828,2025-02-16,Mobile Line Free 1yr,False,14
+C114545,2025-10-11,Mobile Line Free 1yr,False,14
+C112123,2025-06-05,Mobile Line Free 1yr,False,14
+C104743,2025-06-05,Discount $10x12mo,False,10
+C106539,2024-12-02,Free Speed Upgrade,False,6
+C116131,2025-04-17,Control,True,0
+C114482,2024-12-06,Free Speed Upgrade,False,6
+C114175,2025-03-12,Mobile Line Free 1yr,True,14
+C103378,2025-04-09,Control,True,0
+C108042,2025-04-25,Mobile Line Free 1yr,False,14
+C101775,2025-06-12,Free Speed Upgrade,False,6
+C117403,2025-09-05,Free Speed Upgrade,False,6
+C112168,2025-02-19,Control,False,0
+C102585,2025-03-13,Free Speed Upgrade,False,6
+C102232,2025-04-06,Free Speed Upgrade,False,6
+C100401,2025-06-27,Control,False,0
+C110966,2024-12-16,Discount $10x12mo,False,10
+C104168,2025-03-11,Discount $10x12mo,False,10
+C117913,2025-02-15,Mobile Line Free 1yr,False,14
+C103175,2025-05-04,Discount $10x12mo,True,10
+C118918,2024-12-15,Control,False,0
+C101959,2025-08-23,Control,True,0
+C112192,2025-02-09,Free Speed Upgrade,False,6
+C117932,2025-09-06,Control,False,0
+C108949,2025-04-20,Free Speed Upgrade,False,6
+C100140,2024-12-06,Free Speed Upgrade,True,6
+C118676,2025-04-23,Discount $10x12mo,False,10
+C114962,2025-11-29,Control,False,0
+C117511,2025-08-22,Mobile Line Free 1yr,False,14
+C110952,2025-11-30,Control,False,0
+C117586,2025-02-23,Mobile Line Free 1yr,False,14
+C102860,2025-07-14,Mobile Line Free 1yr,False,14
+C114225,2025-04-01,Control,False,0
+C101720,2025-01-25,Mobile Line Free 1yr,False,14
+C102918,2025-05-24,Control,False,0
+C107685,2025-09-23,Mobile Line Free 1yr,False,14
+C116233,2025-08-23,Mobile Line Free 1yr,True,14
+C113755,2025-11-17,Mobile Line Free 1yr,False,14
+C114101,2025-04-25,Free Speed Upgrade,True,6
+C119807,2025-11-30,Control,False,0
+C100461,2025-11-15,Discount $10x12mo,False,10
+C102191,2025-01-03,Control,False,0
+C113169,2025-05-16,Discount $10x12mo,False,10
+C106537,2025-11-21,Mobile Line Free 1yr,False,14
+C101057,2025-04-12,Free Speed Upgrade,False,6
+C116663,2025-11-07,Control,False,0
+C112912,2025-05-03,Discount $10x12mo,False,10
+C117835,2025-11-15,Free Speed Upgrade,False,6
+C112372,2025-03-29,Free Speed Upgrade,False,6
+C111122,2025-01-15,Mobile Line Free 1yr,False,14
+C113383,2025-10-24,Control,False,0
+C116798,2025-06-16,Mobile Line Free 1yr,False,14
+C111568,2025-11-02,Control,False,0
+C117115,2025-05-12,Control,False,0
+C102539,2025-01-17,Control,False,0
+C104512,2024-12-22,Discount $10x12mo,False,10
+C118355,2025-08-10,Control,False,0
+C118708,2025-06-22,Discount $10x12mo,True,10
+C102468,2025-11-11,Control,True,0
+C112847,2025-07-19,Discount $10x12mo,False,10
+C114230,2025-05-22,Control,True,0
+C116535,2025-09-21,Discount $10x12mo,False,10
+C118094,2025-10-05,Free Speed Upgrade,False,6
+C106737,2025-09-25,Discount $10x12mo,False,10
+C105389,2025-07-18,Discount $10x12mo,True,10
+C100364,2025-01-13,Control,False,0
+C113056,2025-11-14,Free Speed Upgrade,False,6
+C101575,2025-02-08,Control,False,0
+C116960,2025-08-14,Discount $10x12mo,False,10
+C108243,2025-09-24,Control,False,0
+C116562,2025-10-11,Mobile Line Free 1yr,False,14
+C106477,2025-02-05,Mobile Line Free 1yr,False,14
+C102140,2025-08-26,Discount $10x12mo,False,10
+C104309,2025-08-12,Free Speed Upgrade,True,6
+C111404,2025-05-24,Control,False,0
+C107832,2025-10-18,Free Speed Upgrade,False,6
+C110354,2025-05-04,Control,False,0
+C108446,2025-05-05,Discount $10x12mo,False,10
+C107561,2025-03-10,Free Speed Upgrade,True,6
+C108440,2025-08-11,Mobile Line Free 1yr,True,14
+C100541,2024-12-03,Mobile Line Free 1yr,False,14
+C118652,2025-05-23,Control,False,0
+C103459,2025-03-25,Control,False,0
+C106691,2025-08-02,Free Speed Upgrade,False,6
+C112716,2025-04-17,Mobile Line Free 1yr,True,14
+C118196,2025-09-10,Discount $10x12mo,True,10
+C103764,2025-08-21,Discount $10x12mo,False,10
+C107813,2025-06-13,Mobile Line Free 1yr,False,14
+C115965,2025-09-25,Discount $10x12mo,True,10
+C117449,2025-04-04,Control,False,0
+C117091,2025-06-01,Free Speed Upgrade,False,6
+C110526,2025-05-24,Mobile Line Free 1yr,False,14
+C103592,2025-11-23,Mobile Line Free 1yr,False,14
+C116603,2025-03-19,Control,False,0
+C114912,2025-01-27,Free Speed Upgrade,False,6
+C108114,2025-11-08,Discount $10x12mo,False,10
+C101904,2025-05-14,Mobile Line Free 1yr,True,14
+C100833,2025-02-19,Mobile Line Free 1yr,False,14
+C107236,2024-12-09,Mobile Line Free 1yr,False,14
+C116580,2025-09-25,Discount $10x12mo,True,10
+C104892,2024-12-26,Control,False,0
+C112452,2025-05-13,Free Speed Upgrade,False,6
+C107505,2025-07-13,Free Speed Upgrade,False,6
+C102269,2025-06-14,Control,False,0
+C101112,2025-07-19,Discount $10x12mo,False,10
+C114039,2025-01-04,Mobile Line Free 1yr,False,14
+C109888,2025-05-11,Free Speed Upgrade,True,6
+C101357,2024-12-08,Discount $10x12mo,False,10
+C115997,2025-08-29,Mobile Line Free 1yr,False,14
+C113199,2025-05-23,Free Speed Upgrade,False,6
+C106709,2025-10-21,Control,True,0
+C104127,2025-04-10,Discount $10x12mo,False,10
+C114740,2025-03-15,Free Speed Upgrade,False,6
+C117979,2025-10-26,Free Speed Upgrade,False,6
+C115293,2025-10-11,Free Speed Upgrade,True,6
+C118878,2025-08-11,Mobile Line Free 1yr,False,14
+C107543,2025-10-09,Free Speed Upgrade,False,6
+C104086,2024-12-05,Discount $10x12mo,False,10
+C115479,2025-08-24,Mobile Line Free 1yr,True,14
+C103298,2025-10-05,Discount $10x12mo,True,10
+C110127,2025-01-28,Control,False,0
+C113761,2025-01-16,Free Speed Upgrade,True,6
+C107302,2025-08-06,Control,False,0
+C105487,2025-08-27,Discount $10x12mo,False,10
+C114964,2025-11-17,Mobile Line Free 1yr,False,14
+C101721,2025-10-27,Control,False,0
+C106277,2025-08-11,Free Speed Upgrade,True,6
+C111295,2024-12-07,Discount $10x12mo,False,10
+C115360,2025-07-27,Control,False,0
+C115766,2025-08-21,Free Speed Upgrade,False,6
+C116472,2025-01-05,Control,False,0
+C119957,2025-09-05,Discount $10x12mo,False,10
+C100114,2025-11-08,Discount $10x12mo,False,10
+C111862,2025-06-20,Free Speed Upgrade,True,6
+C103486,2025-05-24,Discount $10x12mo,False,10
+C117420,2025-07-13,Free Speed Upgrade,False,6
+C105184,2024-12-26,Free Speed Upgrade,False,6
+C106177,2025-09-29,Control,False,0
+C116742,2025-07-25,Free Speed Upgrade,True,6
+C101396,2025-05-08,Mobile Line Free 1yr,False,14
+C109985,2025-07-19,Mobile Line Free 1yr,False,14
+C113357,2025-07-20,Control,False,0
+C111662,2025-03-12,Discount $10x12mo,True,10
+C103270,2025-06-16,Discount $10x12mo,True,10
+C111203,2025-07-11,Control,False,0
+C104070,2025-02-28,Mobile Line Free 1yr,False,14
+C108956,2025-06-23,Mobile Line Free 1yr,False,14
+C118538,2025-06-09,Mobile Line Free 1yr,True,14
+C106334,2025-07-25,Control,True,0
+C109865,2025-08-10,Free Speed Upgrade,False,6
+C107802,2025-04-29,Free Speed Upgrade,False,6
+C103643,2025-05-28,Discount $10x12mo,False,10
+C114210,2025-11-28,Free Speed Upgrade,False,6
+C113850,2025-11-04,Mobile Line Free 1yr,False,14
+C102291,2025-04-09,Free Speed Upgrade,False,6
+C111793,2025-09-19,Mobile Line Free 1yr,False,14
+C103235,2025-02-17,Free Speed Upgrade,False,6
+C114669,2025-09-22,Control,False,0
+C110102,2025-02-10,Mobile Line Free 1yr,False,14
+C117088,2025-06-20,Discount $10x12mo,False,10
+C117780,2025-09-05,Discount $10x12mo,False,10
+C109394,2024-12-02,Discount $10x12mo,False,10
+C107091,2025-11-21,Discount $10x12mo,False,10
+C102348,2025-04-12,Free Speed Upgrade,False,6
+C118054,2025-02-26,Mobile Line Free 1yr,False,14
+C114164,2025-05-08,Control,True,0
+C118829,2025-05-30,Free Speed Upgrade,False,6
+C111894,2025-03-08,Mobile Line Free 1yr,True,14
+C100989,2025-05-07,Control,False,0
+C104279,2025-08-18,Mobile Line Free 1yr,False,14
+C119533,2025-01-24,Free Speed Upgrade,False,6
+C100659,2025-03-30,Control,False,0
+C115201,2025-04-17,Free Speed Upgrade,False,6
+C116936,2025-05-21,Control,False,0
+C114057,2025-04-16,Mobile Line Free 1yr,False,14
+C106035,2025-02-26,Control,False,0
+C113698,2025-09-30,Discount $10x12mo,False,10
+C105809,2025-03-04,Control,False,0
+C110333,2024-12-21,Free Speed Upgrade,True,6
+C102341,2025-08-26,Discount $10x12mo,True,10
+C112383,2025-05-20,Free Speed Upgrade,False,6
+C106191,2025-08-19,Control,True,0
+C115211,2025-05-18,Discount $10x12mo,True,10
+C104843,2025-05-10,Discount $10x12mo,False,10
+C109276,2025-08-08,Control,True,0
+C103966,2025-03-01,Mobile Line Free 1yr,False,14
+C119473,2025-09-22,Free Speed Upgrade,False,6
+C100434,2024-12-05,Discount $10x12mo,False,10
+C118041,2025-05-15,Discount $10x12mo,False,10
+C107377,2025-10-30,Mobile Line Free 1yr,False,14
+C117686,2025-08-17,Mobile Line Free 1yr,False,14
+C113191,2025-06-27,Mobile Line Free 1yr,False,14
+C109710,2025-01-15,Discount $10x12mo,False,10
+C105614,2024-12-06,Mobile Line Free 1yr,False,14
+C101241,2024-12-09,Free Speed Upgrade,False,6
+C102000,2025-11-17,Free Speed Upgrade,False,6
+C115526,2025-04-20,Mobile Line Free 1yr,False,14
+C117501,2025-05-16,Mobile Line Free 1yr,False,14
+C111648,2025-07-12,Mobile Line Free 1yr,True,14
+C114507,2025-05-01,Free Speed Upgrade,False,6
+C100007,2025-03-10,Discount $10x12mo,False,10
+C100764,2025-05-18,Discount $10x12mo,False,10
+C111266,2025-08-27,Free Speed Upgrade,True,6
+C114388,2025-02-17,Discount $10x12mo,False,10
+C110083,2025-08-16,Free Speed Upgrade,False,6
+C114146,2025-03-15,Free Speed Upgrade,False,6
+C106693,2025-04-29,Mobile Line Free 1yr,False,14
+C109145,2025-03-18,Mobile Line Free 1yr,True,14
+C105513,2025-01-27,Free Speed Upgrade,True,6
+C100557,2025-08-26,Discount $10x12mo,True,10
+C111903,2025-01-03,Control,False,0
+C108656,2025-02-23,Free Speed Upgrade,False,6
+C112927,2025-05-13,Free Speed Upgrade,False,6
+C112038,2025-07-18,Mobile Line Free 1yr,False,14
+C100271,2025-09-21,Control,True,0
+C106811,2025-11-26,Discount $10x12mo,False,10
+C111932,2025-06-06,Free Speed Upgrade,False,6
+C114861,2024-12-19,Mobile Line Free 1yr,False,14
+C101772,2025-09-05,Control,False,0
+C110693,2025-09-25,Discount $10x12mo,True,10
+C112668,2025-05-05,Free Speed Upgrade,False,6
+C116767,2024-12-23,Mobile Line Free 1yr,False,14
+C116423,2025-10-14,Discount $10x12mo,False,10
+C114061,2024-12-24,Control,False,0
+C110895,2025-03-01,Free Speed Upgrade,False,6
+C102948,2024-12-15,Mobile Line Free 1yr,False,14
+C107315,2025-06-23,Free Speed Upgrade,False,6
+C107747,2025-02-10,Mobile Line Free 1yr,True,14
+C101046,2025-01-03,Mobile Line Free 1yr,False,14
+C108382,2025-07-22,Discount $10x12mo,False,10
+C100938,2025-01-05,Mobile Line Free 1yr,False,14
+C106174,2025-05-27,Control,True,0
+C102827,2025-03-16,Control,False,0
+C107134,2025-01-01,Discount $10x12mo,False,10
+C101082,2025-10-24,Mobile Line Free 1yr,False,14
+C115632,2025-02-21,Control,False,0
+C105974,2025-02-21,Free Speed Upgrade,False,6
+C109969,2025-05-11,Discount $10x12mo,False,10
+C112154,2025-10-19,Mobile Line Free 1yr,False,14
+C101702,2025-02-12,Mobile Line Free 1yr,False,14
+C115600,2025-01-05,Discount $10x12mo,False,10
+C114710,2025-08-05,Control,True,0
+C103754,2025-04-23,Free Speed Upgrade,False,6
+C113691,2025-10-21,Discount $10x12mo,False,10
+C117666,2025-01-23,Free Speed Upgrade,True,6
+C119897,2025-08-19,Free Speed Upgrade,False,6
+C111729,2025-05-15,Discount $10x12mo,False,10
+C101889,2025-01-03,Discount $10x12mo,False,10
+C119851,2025-09-29,Discount $10x12mo,True,10
+C119504,2025-09-01,Free Speed Upgrade,False,6
+C115155,2025-02-05,Free Speed Upgrade,True,6
+C110069,2025-01-30,Mobile Line Free 1yr,False,14
+C113661,2025-05-26,Free Speed Upgrade,False,6
+C100757,2025-06-30,Discount $10x12mo,False,10
+C116905,2025-08-30,Control,True,0
+C102178,2025-10-23,Mobile Line Free 1yr,False,14
+C119103,2025-01-16,Mobile Line Free 1yr,False,14
+C106593,2025-05-14,Free Speed Upgrade,False,6
+C104097,2025-01-14,Free Speed Upgrade,False,6
+C105160,2025-06-10,Mobile Line Free 1yr,True,14
+C105935,2025-04-11,Free Speed Upgrade,True,6
+C100587,2025-08-18,Control,True,0
+C101547,2025-05-30,Discount $10x12mo,False,10
+C119101,2024-12-24,Discount $10x12mo,False,10
+C114223,2024-12-22,Control,False,0
+C101735,2025-08-09,Control,False,0
+C102672,2025-10-02,Mobile Line Free 1yr,False,14
+C116994,2025-05-13,Mobile Line Free 1yr,True,14
+C111317,2025-04-22,Free Speed Upgrade,False,6
+C106216,2025-05-25,Mobile Line Free 1yr,False,14
+C104277,2025-06-15,Control,False,0
+C109585,2025-06-03,Control,False,0
+C101478,2025-06-24,Mobile Line Free 1yr,False,14
+C117153,2025-09-27,Control,True,0
+C118895,2025-07-09,Free Speed Upgrade,False,6
+C118195,2025-04-16,Free Speed Upgrade,False,6
+C105377,2024-12-30,Mobile Line Free 1yr,False,14
+C102703,2025-11-23,Control,False,0
+C110812,2025-09-10,Mobile Line Free 1yr,False,14
+C107770,2025-07-20,Control,False,0
+C116908,2025-09-02,Discount $10x12mo,False,10
+C119914,2025-01-02,Free Speed Upgrade,False,6
+C102069,2025-03-31,Free Speed Upgrade,False,6
+C100486,2025-02-25,Mobile Line Free 1yr,False,14
+C118999,2025-04-04,Free Speed Upgrade,False,6
+C102762,2025-07-03,Free Speed Upgrade,False,6
+C109799,2025-01-21,Mobile Line Free 1yr,False,14
+C116491,2025-09-29,Discount $10x12mo,False,10
+C107155,2025-04-26,Control,True,0
+C113333,2025-06-25,Control,False,0
+C108820,2025-01-21,Control,False,0
+C118898,2025-01-20,Mobile Line Free 1yr,False,14
+C115070,2025-09-06,Free Speed Upgrade,False,6
+C119428,2025-02-01,Free Speed Upgrade,False,6
+C112198,2025-04-06,Discount $10x12mo,False,10
+C100602,2025-09-24,Discount $10x12mo,False,10
+C113901,2025-07-23,Free Speed Upgrade,False,6
+C113778,2025-09-22,Free Speed Upgrade,False,6
+C100724,2025-04-21,Discount $10x12mo,True,10
+C103470,2024-12-30,Mobile Line Free 1yr,False,14
+C103607,2025-07-28,Free Speed Upgrade,False,6
+C105697,2025-05-09,Free Speed Upgrade,False,6
+C110440,2025-02-18,Control,False,0
+C100849,2025-06-26,Discount $10x12mo,False,10
+C119874,2025-06-14,Free Speed Upgrade,False,6
+C107300,2025-09-12,Free Speed Upgrade,False,6
+C102239,2025-06-29,Free Speed Upgrade,False,6
+C118053,2025-01-16,Mobile Line Free 1yr,False,14
+C102427,2025-04-29,Free Speed Upgrade,True,6
+C111091,2025-04-19,Mobile Line Free 1yr,False,14
+C116078,2025-10-09,Discount $10x12mo,True,10
+C103419,2025-03-28,Mobile Line Free 1yr,False,14
+C107959,2025-06-25,Discount $10x12mo,False,10
+C105834,2025-02-06,Discount $10x12mo,False,10
+C116533,2025-10-10,Control,False,0
+C117308,2025-02-11,Mobile Line Free 1yr,False,14
+C105635,2025-09-05,Mobile Line Free 1yr,False,14
+C103812,2025-06-01,Mobile Line Free 1yr,False,14
+C119354,2025-11-04,Mobile Line Free 1yr,False,14
+C113144,2025-04-23,Control,False,0
+C110413,2025-02-14,Discount $10x12mo,False,10
+C101877,2025-06-14,Control,True,0
+C118370,2025-06-13,Free Speed Upgrade,False,6
+C116678,2025-05-20,Mobile Line Free 1yr,False,14
+C117400,2025-06-10,Mobile Line Free 1yr,False,14
+C104233,2024-12-17,Free Speed Upgrade,True,6
+C109671,2025-10-18,Mobile Line Free 1yr,True,14
+C117660,2024-12-05,Mobile Line Free 1yr,False,14
+C102941,2025-11-14,Control,False,0
+C102261,2025-01-18,Free Speed Upgrade,False,6
+C115580,2025-01-04,Free Speed Upgrade,False,6
+C119450,2025-07-06,Control,False,0
+C107874,2025-05-12,Free Speed Upgrade,False,6
+C106934,2025-09-17,Discount $10x12mo,False,10
+C102014,2025-04-16,Mobile Line Free 1yr,True,14
+C114231,2025-02-07,Discount $10x12mo,True,10
+C110579,2025-01-30,Discount $10x12mo,False,10
+C112312,2025-11-23,Free Speed Upgrade,True,6
+C112905,2025-11-01,Mobile Line Free 1yr,False,14
+C100881,2025-11-11,Mobile Line Free 1yr,False,14
+C117063,2025-03-06,Discount $10x12mo,False,10
+C110088,2025-07-01,Mobile Line Free 1yr,False,14
+C115905,2025-04-18,Mobile Line Free 1yr,False,14
+C104663,2025-03-17,Free Speed Upgrade,False,6
+C115307,2024-12-05,Free Speed Upgrade,False,6
+C109561,2025-09-26,Control,True,0
+C111222,2025-07-22,Discount $10x12mo,False,10
+C108657,2025-02-02,Free Speed Upgrade,False,6
+C100011,2025-07-22,Discount $10x12mo,False,10
+C103915,2025-06-22,Free Speed Upgrade,False,6
+C119936,2025-09-04,Mobile Line Free 1yr,False,14
+C113632,2025-01-03,Discount $10x12mo,False,10
+C114460,2025-03-08,Mobile Line Free 1yr,False,14
+C107765,2024-12-24,Control,False,0
+C117300,2025-09-24,Free Speed Upgrade,False,6
+C111710,2024-12-08,Mobile Line Free 1yr,False,14
+C113007,2025-08-12,Free Speed Upgrade,False,6
+C102669,2024-12-27,Discount $10x12mo,True,10
+C105667,2025-09-06,Discount $10x12mo,False,10
+C117455,2025-01-16,Control,False,0
+C117681,2025-03-10,Control,False,0
+C115510,2025-11-07,Mobile Line Free 1yr,False,14
+C100624,2025-03-04,Discount $10x12mo,False,10
+C117227,2024-12-18,Free Speed Upgrade,False,6
+C103222,2025-09-17,Free Speed Upgrade,False,6
+C107925,2025-03-31,Control,True,0
+C111240,2025-08-01,Control,False,0
+C110909,2025-03-07,Mobile Line Free 1yr,False,14
+C104000,2025-08-05,Mobile Line Free 1yr,False,14
+C102157,2025-10-02,Mobile Line Free 1yr,False,14
+C112620,2025-09-13,Discount $10x12mo,False,10
+C119894,2025-08-06,Mobile Line Free 1yr,False,14
+C116105,2025-07-17,Control,False,0
+C119651,2025-04-20,Free Speed Upgrade,True,6
+C108370,2024-12-31,Mobile Line Free 1yr,False,14
+C101128,2025-01-29,Free Speed Upgrade,False,6
+C118307,2025-10-23,Free Speed Upgrade,False,6
+C112670,2025-09-11,Control,True,0
+C110021,2025-11-06,Control,False,0
+C114850,2025-04-29,Free Speed Upgrade,False,6
+C117555,2025-10-26,Discount $10x12mo,False,10
+C108543,2024-12-07,Control,False,0
+C101592,2025-11-09,Discount $10x12mo,False,10
+C103042,2025-01-02,Control,False,0
+C109461,2025-03-06,Free Speed Upgrade,False,6
+C110686,2025-02-27,Discount $10x12mo,False,10
+C103603,2024-12-20,Free Speed Upgrade,False,6
+C118164,2025-05-26,Free Speed Upgrade,False,6
+C116587,2024-12-04,Free Speed Upgrade,True,6
+C103230,2025-10-09,Discount $10x12mo,False,10
+C111655,2025-04-29,Control,False,0
+C114673,2025-10-02,Control,False,0
+C119816,2025-10-09,Mobile Line Free 1yr,True,14
+C110052,2025-10-18,Discount $10x12mo,False,10
+C109154,2025-04-14,Free Speed Upgrade,False,6
+C109340,2025-02-08,Control,True,0
+C101558,2025-10-16,Control,False,0
+C115223,2025-06-23,Control,False,0
+C108284,2025-11-17,Control,False,0
+C100635,2024-12-30,Mobile Line Free 1yr,True,14
+C113995,2025-08-14,Free Speed Upgrade,True,6
+C109211,2025-08-04,Discount $10x12mo,False,10
+C104134,2024-12-17,Discount $10x12mo,False,10
+C109810,2025-05-18,Discount $10x12mo,False,10
+C116273,2025-02-10,Mobile Line Free 1yr,False,14
+C101287,2025-10-13,Control,True,0
+C109911,2024-12-24,Mobile Line Free 1yr,False,14
+C106421,2024-12-23,Control,False,0
+C107886,2025-04-12,Mobile Line Free 1yr,False,14
+C117162,2025-08-12,Control,False,0
+C109127,2025-11-29,Discount $10x12mo,False,10
+C102323,2025-05-23,Discount $10x12mo,False,10
+C102995,2025-05-31,Mobile Line Free 1yr,False,14
+C118998,2025-11-18,Mobile Line Free 1yr,False,14
+C102158,2025-07-15,Mobile Line Free 1yr,True,14
+C119522,2025-06-25,Free Speed Upgrade,False,6
+C115525,2025-01-10,Free Speed Upgrade,False,6
+C114020,2025-02-08,Mobile Line Free 1yr,False,14
+C110181,2025-05-01,Free Speed Upgrade,False,6
+C112736,2025-03-17,Mobile Line Free 1yr,False,14
+C111232,2024-12-10,Free Speed Upgrade,False,6
+C102133,2025-03-01,Control,True,0
+C116268,2025-01-06,Control,False,0
+C100865,2025-10-11,Discount $10x12mo,False,10
+C116770,2025-09-22,Mobile Line Free 1yr,False,14
+C105970,2025-09-12,Mobile Line Free 1yr,False,14
+C109153,2024-12-18,Free Speed Upgrade,False,6
+C108211,2025-02-20,Discount $10x12mo,False,10
+C103534,2025-07-15,Control,False,0
+C116530,2025-03-29,Mobile Line Free 1yr,False,14
+C101075,2025-09-14,Free Speed Upgrade,False,6
+C118634,2024-12-31,Free Speed Upgrade,False,6
+C108409,2025-08-23,Free Speed Upgrade,True,6
+C112582,2025-06-07,Free Speed Upgrade,False,6
+C105436,2025-07-19,Mobile Line Free 1yr,False,14
+C106235,2025-08-31,Control,True,0
+C110979,2025-01-31,Discount $10x12mo,False,10
+C108333,2025-08-17,Mobile Line Free 1yr,False,14
+C113231,2025-10-03,Discount $10x12mo,False,10
+C101531,2025-03-26,Free Speed Upgrade,False,6
+C102973,2025-07-06,Free Speed Upgrade,False,6
+C106999,2025-08-07,Mobile Line Free 1yr,False,14
+C110828,2025-01-14,Mobile Line Free 1yr,True,14
+C108707,2025-08-03,Mobile Line Free 1yr,False,14
+C103968,2025-11-02,Control,False,0
+C104341,2025-07-11,Mobile Line Free 1yr,False,14
+C114237,2025-04-15,Discount $10x12mo,False,10
+C118684,2025-04-23,Discount $10x12mo,False,10
+C116665,2025-02-07,Free Speed Upgrade,False,6
+C110947,2025-06-25,Control,False,0
+C104920,2025-02-10,Mobile Line Free 1yr,False,14
+C101440,2025-08-29,Mobile Line Free 1yr,False,14
+C103856,2025-04-18,Discount $10x12mo,False,10
+C110608,2025-07-24,Free Speed Upgrade,False,6
+C117217,2025-09-14,Mobile Line Free 1yr,False,14
+C117473,2025-08-04,Discount $10x12mo,False,10
+C108204,2024-12-08,Discount $10x12mo,False,10
+C109726,2025-08-12,Mobile Line Free 1yr,False,14
+C112839,2025-04-01,Mobile Line Free 1yr,False,14
+C103162,2025-01-25,Mobile Line Free 1yr,False,14
+C103862,2025-07-25,Mobile Line Free 1yr,False,14
+C102104,2025-06-14,Mobile Line Free 1yr,False,14
+C114059,2025-02-26,Free Speed Upgrade,False,6
+C103368,2025-11-19,Mobile Line Free 1yr,False,14
+C118774,2025-03-26,Free Speed Upgrade,False,6
+C111823,2025-10-01,Control,False,0
+C105497,2025-05-19,Discount $10x12mo,False,10
+C102507,2025-01-14,Control,False,0
+C119474,2025-01-13,Control,False,0
+C119074,2025-01-06,Mobile Line Free 1yr,False,14
+C109968,2025-03-18,Free Speed Upgrade,False,6
+C105503,2025-11-12,Control,False,0
+C117939,2025-09-04,Free Speed Upgrade,False,6
+C104691,2025-07-12,Discount $10x12mo,True,10
+C109386,2025-08-10,Mobile Line Free 1yr,True,14
+C109558,2025-10-20,Discount $10x12mo,False,10
+C101337,2025-03-09,Control,False,0
+C116186,2025-10-09,Free Speed Upgrade,True,6
+C100175,2025-06-02,Control,False,0
+C114652,2025-07-07,Discount $10x12mo,False,10
+C110911,2025-08-31,Discount $10x12mo,False,10
+C101354,2025-08-11,Free Speed Upgrade,False,6
+C106831,2025-04-08,Discount $10x12mo,False,10
+C119073,2025-08-30,Mobile Line Free 1yr,True,14
+C106438,2025-11-19,Free Speed Upgrade,False,6
+C100152,2025-05-07,Mobile Line Free 1yr,False,14
+C108285,2024-12-18,Discount $10x12mo,False,10
+C111262,2025-10-13,Mobile Line Free 1yr,False,14
+C110177,2024-12-20,Mobile Line Free 1yr,False,14
+C119402,2025-05-13,Control,False,0
+C102704,2025-04-08,Control,False,0
+C106247,2025-04-08,Free Speed Upgrade,False,6
+C112703,2025-01-19,Free Speed Upgrade,False,6
+C113732,2025-09-27,Free Speed Upgrade,False,6
+C113581,2025-07-14,Mobile Line Free 1yr,False,14
+C117283,2025-09-08,Discount $10x12mo,True,10
+C104739,2025-01-14,Mobile Line Free 1yr,False,14
+C106789,2024-12-20,Free Speed Upgrade,True,6
+C101903,2025-09-03,Control,False,0
+C102992,2025-04-16,Discount $10x12mo,False,10
+C103376,2025-11-17,Control,False,0
+C109701,2025-01-11,Discount $10x12mo,False,10
+C114352,2025-03-10,Control,False,0
+C101590,2025-08-19,Free Speed Upgrade,False,6
+C113013,2024-12-15,Mobile Line Free 1yr,False,14
+C116754,2025-01-10,Free Speed Upgrade,False,6
+C108720,2025-06-22,Free Speed Upgrade,False,6
+C104122,2025-07-28,Mobile Line Free 1yr,False,14
+C119748,2025-11-14,Discount $10x12mo,False,10
+C112329,2025-11-18,Free Speed Upgrade,True,6
+C115524,2025-10-09,Control,False,0
+C105901,2025-10-30,Control,True,0
+C102216,2025-03-06,Free Speed Upgrade,False,6
+C107950,2025-01-29,Free Speed Upgrade,False,6
+C100832,2025-03-30,Control,True,0
+C110478,2025-08-13,Mobile Line Free 1yr,False,14
+C115767,2025-06-23,Discount $10x12mo,False,10
+C102919,2024-12-25,Discount $10x12mo,False,10
+C112513,2025-05-01,Free Speed Upgrade,False,6
+C108084,2025-10-06,Free Speed Upgrade,False,6
+C108355,2025-04-19,Mobile Line Free 1yr,False,14
+C112901,2025-09-25,Discount $10x12mo,False,10
+C118865,2025-04-29,Free Speed Upgrade,False,6
+C100492,2025-11-28,Discount $10x12mo,True,10
+C101437,2025-08-08,Discount $10x12mo,False,10
+C105888,2025-03-13,Discount $10x12mo,False,10
+C105300,2025-07-31,Mobile Line Free 1yr,False,14
+C114245,2025-09-06,Discount $10x12mo,True,10
+C114266,2025-04-14,Mobile Line Free 1yr,True,14
+C112500,2025-02-27,Control,False,0
+C109389,2025-09-21,Mobile Line Free 1yr,False,14
+C112633,2025-10-15,Mobile Line Free 1yr,True,14
+C101214,2025-06-30,Control,False,0
+C117513,2025-02-08,Free Speed Upgrade,False,6
+C103994,2025-11-21,Mobile Line Free 1yr,False,14
+C118506,2025-01-27,Discount $10x12mo,False,10
+C113625,2025-11-16,Control,False,0
+C106627,2025-03-12,Discount $10x12mo,False,10
+C103189,2025-11-02,Free Speed Upgrade,False,6
+C110201,2025-02-05,Discount $10x12mo,False,10
+C105827,2025-06-02,Discount $10x12mo,True,10
+C100046,2025-03-13,Mobile Line Free 1yr,False,14
+C114875,2025-07-10,Control,False,0
+C117155,2025-08-19,Free Speed Upgrade,False,6
+C116385,2025-04-17,Control,False,0
+C111552,2025-04-05,Discount $10x12mo,False,10
+C105029,2025-05-17,Discount $10x12mo,True,10
+C109014,2025-11-25,Mobile Line Free 1yr,False,14
+C104055,2025-06-30,Discount $10x12mo,False,10
+C115196,2024-12-10,Control,False,0
+C117849,2025-03-23,Control,True,0
+C103502,2025-02-25,Control,False,0
+C112676,2025-09-11,Free Speed Upgrade,True,6
+C102562,2025-01-01,Free Speed Upgrade,False,6
+C111407,2025-11-10,Discount $10x12mo,False,10
+C116212,2025-07-13,Mobile Line Free 1yr,False,14
+C104039,2025-03-08,Free Speed Upgrade,False,6
+C103825,2025-04-25,Control,False,0
+C106850,2024-12-30,Mobile Line Free 1yr,False,14
+C113430,2025-03-29,Discount $10x12mo,True,10
+C110734,2025-02-03,Control,False,0
+C112317,2025-03-21,Control,False,0
+C117690,2025-01-03,Discount $10x12mo,False,10
+C101444,2025-04-25,Free Speed Upgrade,False,6
+C117210,2025-07-05,Control,True,0
+C118964,2025-07-18,Mobile Line Free 1yr,False,14
+C111593,2025-09-22,Control,False,0
+C100953,2025-03-25,Mobile Line Free 1yr,False,14
+C112818,2025-07-01,Discount $10x12mo,True,10
+C115893,2025-01-25,Free Speed Upgrade,True,6
+C105783,2025-05-25,Mobile Line Free 1yr,False,14
+C103018,2025-07-23,Free Speed Upgrade,False,6
+C106667,2024-12-03,Free Speed Upgrade,False,6
+C114679,2025-08-21,Free Speed Upgrade,False,6
+C113658,2025-08-14,Mobile Line Free 1yr,True,14
+C110032,2025-06-18,Mobile Line Free 1yr,False,14
+C104331,2025-04-28,Discount $10x12mo,False,10
+C100505,2025-08-12,Mobile Line Free 1yr,False,14
+C117873,2025-11-25,Mobile Line Free 1yr,False,14
+C119623,2025-09-12,Discount $10x12mo,False,10
+C117623,2025-07-03,Discount $10x12mo,False,10
+C105759,2025-04-07,Mobile Line Free 1yr,True,14
+C113264,2025-02-02,Mobile Line Free 1yr,False,14
+C119687,2025-02-02,Free Speed Upgrade,False,6
+C118715,2025-10-29,Control,False,0
+C108778,2025-11-26,Discount $10x12mo,False,10
+C108124,2025-01-07,Free Speed Upgrade,True,6
+C108086,2025-10-06,Control,False,0
+C112945,2025-08-04,Discount $10x12mo,False,10
+C109342,2025-06-16,Control,False,0
+C107860,2025-11-12,Free Speed Upgrade,False,6
+C100748,2025-03-17,Control,True,0
+C114726,2025-02-02,Discount $10x12mo,True,10
+C104169,2025-11-06,Mobile Line Free 1yr,False,14
+C109202,2024-12-11,Control,False,0
+C115886,2025-08-09,Discount $10x12mo,True,10
+C105490,2025-01-10,Control,False,0
+C115498,2025-02-27,Free Speed Upgrade,False,6
+C115618,2025-02-14,Control,False,0
+C114228,2025-06-21,Discount $10x12mo,False,10
+C118945,2025-04-12,Control,True,0
+C111161,2025-09-20,Mobile Line Free 1yr,False,14
+C118160,2025-08-12,Discount $10x12mo,False,10
+C109110,2025-07-19,Discount $10x12mo,True,10
+C103501,2025-11-04,Free Speed Upgrade,False,6
+C115430,2025-05-07,Mobile Line Free 1yr,False,14
+C118566,2025-03-09,Free Speed Upgrade,False,6
+C101073,2025-07-10,Discount $10x12mo,False,10
+C104809,2025-08-15,Control,False,0
+C102577,2025-11-25,Control,False,0
+C113515,2025-07-12,Mobile Line Free 1yr,True,14
+C109647,2024-12-13,Control,True,0
+C103492,2025-03-10,Mobile Line Free 1yr,False,14
+C108852,2025-06-14,Control,False,0
+C108522,2025-02-23,Discount $10x12mo,False,10
+C110617,2025-03-30,Control,False,0
+C100145,2025-01-31,Free Speed Upgrade,False,6
+C112073,2024-12-18,Mobile Line Free 1yr,False,14
+C110389,2025-09-26,Control,False,0
+C106747,2025-08-16,Discount $10x12mo,False,10
+C104584,2025-04-25,Free Speed Upgrade,False,6
+C107629,2025-10-23,Free Speed Upgrade,True,6
+C115925,2025-09-27,Free Speed Upgrade,False,6
+C117964,2024-12-27,Control,False,0
+C108002,2025-05-28,Mobile Line Free 1yr,False,14
+C116289,2025-08-18,Mobile Line Free 1yr,False,14
+C100399,2025-08-27,Control,False,0
+C113426,2025-09-30,Free Speed Upgrade,True,6
+C112985,2025-02-18,Discount $10x12mo,False,10
+C108814,2025-11-19,Free Speed Upgrade,False,6
+C109030,2025-04-01,Mobile Line Free 1yr,False,14
+C105036,2025-08-12,Discount $10x12mo,False,10
+C110984,2025-11-26,Free Speed Upgrade,False,6
+C114762,2025-07-17,Control,False,0
+C113140,2025-07-19,Discount $10x12mo,False,10
+C110313,2025-03-30,Free Speed Upgrade,False,6
+C105049,2025-05-28,Mobile Line Free 1yr,False,14
+C115714,2025-10-19,Free Speed Upgrade,False,6
+C119670,2025-08-30,Discount $10x12mo,False,10
+C111124,2025-10-20,Mobile Line Free 1yr,False,14
+C100250,2025-04-27,Control,False,0
+C106474,2025-05-05,Mobile Line Free 1yr,False,14
+C118612,2025-04-10,Discount $10x12mo,False,10
+C103900,2025-11-13,Free Speed Upgrade,False,6
+C116811,2025-08-20,Mobile Line Free 1yr,False,14
+C100911,2025-02-03,Free Speed Upgrade,False,6
+C113682,2025-04-20,Discount $10x12mo,False,10
+C100770,2025-02-16,Free Speed Upgrade,False,6
+C106475,2024-12-11,Control,False,0
+C111616,2025-05-02,Mobile Line Free 1yr,True,14
+C108417,2024-12-05,Mobile Line Free 1yr,False,14
+C108594,2025-05-24,Free Speed Upgrade,False,6
+C114380,2025-09-03,Discount $10x12mo,False,10
+C108854,2024-12-11,Free Speed Upgrade,False,6
+C106751,2025-09-08,Control,False,0
+C106313,2025-09-30,Mobile Line Free 1yr,False,14
+C115692,2025-10-18,Free Speed Upgrade,False,6
+C101249,2025-05-02,Mobile Line Free 1yr,False,14
+C102186,2025-07-03,Control,False,0
+C101331,2025-02-19,Control,False,0
+C111048,2025-02-26,Control,False,0
+C114184,2025-06-06,Control,False,0
+C100459,2024-12-22,Mobile Line Free 1yr,False,14
+C106161,2024-12-20,Discount $10x12mo,False,10
+C112941,2025-02-18,Discount $10x12mo,False,10
+C101306,2025-11-05,Mobile Line Free 1yr,False,14
+C117595,2025-11-07,Discount $10x12mo,False,10
+C109946,2025-10-03,Free Speed Upgrade,False,6
+C110789,2025-08-23,Control,True,0
+C112619,2025-11-16,Control,False,0
+C102814,2025-04-05,Discount $10x12mo,False,10
+C117027,2025-07-30,Discount $10x12mo,False,10
+C114950,2025-08-26,Free Speed Upgrade,False,6
+C111408,2025-01-31,Free Speed Upgrade,False,6
+C118004,2025-04-07,Discount $10x12mo,False,10
+C109572,2025-02-11,Control,False,0
+C114863,2025-08-18,Mobile Line Free 1yr,True,14
+C105790,2025-09-10,Mobile Line Free 1yr,False,14
+C111169,2025-09-17,Mobile Line Free 1yr,False,14
+C109255,2025-04-20,Control,True,0
+C106171,2025-02-01,Mobile Line Free 1yr,True,14
+C112052,2025-10-29,Free Speed Upgrade,False,6
+C112269,2025-02-17,Discount $10x12mo,False,10
+C108413,2025-01-31,Discount $10x12mo,True,10
+C110221,2025-06-11,Free Speed Upgrade,False,6
+C111047,2025-03-01,Mobile Line Free 1yr,False,14
+C113340,2025-08-17,Control,False,0
+C118843,2025-11-02,Free Speed Upgrade,False,6
+C104261,2025-06-10,Control,False,0
+C109897,2025-05-08,Free Speed Upgrade,False,6
+C118910,2025-10-15,Discount $10x12mo,True,10
+C112991,2025-11-22,Mobile Line Free 1yr,False,14
+C110905,2025-03-02,Control,False,0
+C113955,2025-01-18,Mobile Line Free 1yr,False,14
+C109474,2025-06-03,Free Speed Upgrade,False,6
+C113275,2025-01-20,Free Speed Upgrade,False,6
+C106242,2025-06-25,Free Speed Upgrade,False,6
+C115671,2025-11-14,Mobile Line Free 1yr,False,14
+C104964,2025-01-27,Free Speed Upgrade,False,6
+C100765,2025-08-11,Discount $10x12mo,True,10
+C113126,2025-04-17,Control,False,0
+C118970,2025-03-03,Discount $10x12mo,False,10
+C103363,2025-01-07,Mobile Line Free 1yr,False,14
+C103406,2025-03-08,Free Speed Upgrade,True,6
+C100974,2025-01-02,Free Speed Upgrade,False,6
+C107051,2025-09-27,Free Speed Upgrade,False,6
+C101454,2025-03-16,Mobile Line Free 1yr,False,14
+C119775,2025-02-07,Control,False,0
+C115067,2025-03-14,Control,True,0
+C111514,2025-11-29,Discount $10x12mo,True,10
+C108351,2025-09-19,Mobile Line Free 1yr,False,14
+C116795,2025-04-02,Discount $10x12mo,False,10
+C113854,2025-10-21,Free Speed Upgrade,False,6
+C117376,2025-04-12,Free Speed Upgrade,False,6
+C114634,2025-07-03,Control,False,0
+C118498,2025-11-10,Discount $10x12mo,False,10
+C109915,2024-12-02,Control,True,0
+C105456,2025-09-18,Free Speed Upgrade,True,6
+C101996,2025-08-11,Free Speed Upgrade,False,6
+C108038,2025-07-06,Discount $10x12mo,False,10
+C107445,2025-06-21,Free Speed Upgrade,True,6
+C118186,2024-12-22,Discount $10x12mo,False,10
+C112171,2025-01-08,Mobile Line Free 1yr,True,14
+C113137,2025-02-05,Mobile Line Free 1yr,False,14
+C104848,2025-02-21,Mobile Line Free 1yr,False,14
+C104506,2025-05-09,Free Speed Upgrade,False,6
+C117756,2025-02-16,Control,False,0
+C107041,2025-07-21,Control,False,0
+C118341,2025-06-29,Control,False,0
+C109639,2025-05-16,Mobile Line Free 1yr,True,14
+C107187,2025-06-05,Mobile Line Free 1yr,False,14
+C104386,2025-01-04,Mobile Line Free 1yr,False,14
+C113973,2025-02-16,Control,False,0
+C118023,2025-07-16,Mobile Line Free 1yr,False,14
+C104103,2025-03-09,Discount $10x12mo,True,10
+C102206,2025-11-27,Mobile Line Free 1yr,True,14
+C112932,2025-04-05,Mobile Line Free 1yr,False,14
+C112658,2025-03-30,Discount $10x12mo,True,10
+C109768,2025-10-07,Control,False,0
+C101896,2025-02-03,Control,False,0
+C111987,2025-07-13,Control,True,0
+C108613,2025-05-23,Free Speed Upgrade,True,6
+C116330,2025-05-14,Control,False,0
+C102139,2025-09-12,Mobile Line Free 1yr,False,14
+C111439,2025-05-10,Free Speed Upgrade,False,6
+C104744,2025-09-14,Control,False,0
+C101174,2025-03-22,Mobile Line Free 1yr,False,14
+C118832,2024-12-10,Mobile Line Free 1yr,False,14
+C118408,2025-07-19,Control,False,0
+C109645,2025-06-23,Control,False,0
+C114071,2025-08-17,Control,False,0
+C105410,2025-01-11,Mobile Line Free 1yr,False,14
+C112714,2025-01-24,Free Speed Upgrade,False,6
+C101708,2024-12-14,Mobile Line Free 1yr,False,14
+C111967,2025-02-08,Control,False,0
+C116297,2025-06-28,Discount $10x12mo,False,10
+C108327,2025-11-02,Mobile Line Free 1yr,False,14
+C108338,2025-11-25,Free Speed Upgrade,False,6
+C101132,2025-09-19,Discount $10x12mo,False,10
+C113302,2025-01-09,Free Speed Upgrade,False,6
+C100299,2025-08-28,Discount $10x12mo,False,10
+C111653,2025-02-16,Control,False,0
+C111373,2025-04-15,Mobile Line Free 1yr,False,14
+C113400,2025-05-21,Free Speed Upgrade,False,6
+C116019,2025-02-06,Free Speed Upgrade,False,6
+C115734,2025-09-28,Control,False,0
+C113309,2025-05-22,Free Speed Upgrade,False,6
+C103883,2025-02-23,Control,False,0
+C103597,2024-12-24,Control,False,0
+C112233,2025-11-20,Control,False,0
+C107637,2025-10-26,Control,True,0
+C112988,2025-05-14,Mobile Line Free 1yr,False,14
+C112731,2025-01-05,Free Speed Upgrade,False,6
+C102197,2025-06-07,Control,False,0
+C104068,2025-01-08,Control,False,0
+C104042,2025-11-03,Control,False,0
+C109486,2025-10-11,Free Speed Upgrade,True,6
+C119346,2025-02-22,Mobile Line Free 1yr,False,14
+C100699,2025-01-27,Free Speed Upgrade,True,6
+C105725,2025-11-15,Discount $10x12mo,False,10
+C112428,2025-10-29,Mobile Line Free 1yr,False,14
+C119779,2025-09-15,Mobile Line Free 1yr,False,14
+C118879,2025-07-18,Control,False,0
+C119729,2025-11-08,Control,False,0
+C108099,2025-03-15,Discount $10x12mo,False,10
+C113765,2024-12-20,Control,False,0
+C100425,2025-06-24,Mobile Line Free 1yr,True,14
+C104272,2025-03-16,Control,False,0
+C103070,2025-01-17,Mobile Line Free 1yr,False,14
+C105022,2025-01-08,Free Speed Upgrade,False,6
+C110152,2025-10-26,Mobile Line Free 1yr,False,14
+C109948,2025-01-11,Free Speed Upgrade,False,6
+C104144,2025-06-19,Control,False,0
+C112024,2025-04-28,Discount $10x12mo,True,10
+C106092,2025-04-01,Free Speed Upgrade,False,6
+C112878,2025-01-17,Control,False,0
+C110798,2025-10-21,Free Speed Upgrade,False,6
+C110765,2025-08-03,Free Speed Upgrade,False,6
+C110082,2025-01-08,Free Speed Upgrade,False,6
+C104031,2025-06-27,Discount $10x12mo,False,10
+C101895,2025-04-21,Free Speed Upgrade,False,6
+C109286,2025-02-10,Mobile Line Free 1yr,False,14
+C101529,2025-01-28,Mobile Line Free 1yr,False,14
+C100216,2025-09-05,Mobile Line Free 1yr,False,14
+C109914,2025-10-01,Discount $10x12mo,False,10
+C110363,2025-10-07,Discount $10x12mo,False,10
+C102945,2025-04-02,Free Speed Upgrade,True,6
+C117692,2024-12-23,Control,False,0
+C105721,2025-06-17,Free Speed Upgrade,True,6
+C104899,2025-06-07,Free Speed Upgrade,True,6
+C110044,2025-02-24,Control,False,0
+C116513,2025-10-24,Free Speed Upgrade,True,6
+C107359,2025-07-13,Discount $10x12mo,False,10
+C114022,2025-07-13,Discount $10x12mo,False,10
+C102714,2025-05-15,Mobile Line Free 1yr,False,14
+C100608,2025-03-02,Discount $10x12mo,True,10
+C112223,2025-06-29,Free Speed Upgrade,False,6
+C101430,2025-10-28,Free Speed Upgrade,True,6
+C111184,2025-06-23,Discount $10x12mo,True,10
+C106973,2025-03-29,Discount $10x12mo,False,10
+C106252,2025-04-04,Free Speed Upgrade,False,6
+C107992,2025-03-06,Free Speed Upgrade,False,6
+C100186,2024-12-25,Discount $10x12mo,False,10
+C119413,2025-03-10,Mobile Line Free 1yr,False,14
+C104621,2025-09-07,Control,False,0
+C118101,2025-04-24,Mobile Line Free 1yr,True,14
+C105310,2025-06-14,Free Speed Upgrade,False,6
+C109818,2025-07-29,Discount $10x12mo,False,10
+C113068,2025-02-05,Free Speed Upgrade,False,6
+C109242,2025-04-07,Discount $10x12mo,False,10
+C114801,2025-03-02,Discount $10x12mo,True,10
+C118569,2025-07-30,Control,False,0
+C116943,2025-08-20,Discount $10x12mo,True,10
+C109367,2025-08-23,Control,False,0
+C119063,2025-02-24,Mobile Line Free 1yr,False,14
+C116785,2025-04-08,Control,False,0
+C111402,2024-12-12,Mobile Line Free 1yr,False,14
+C115838,2025-01-05,Free Speed Upgrade,False,6
+C103835,2025-10-27,Mobile Line Free 1yr,False,14
+C117514,2025-11-25,Free Speed Upgrade,False,6
+C107493,2025-11-12,Discount $10x12mo,True,10
+C107575,2025-06-10,Mobile Line Free 1yr,False,14
+C115707,2025-05-23,Mobile Line Free 1yr,False,14
+C106382,2025-08-05,Discount $10x12mo,False,10
+C115197,2025-02-18,Control,True,0
+C115664,2025-06-01,Control,False,0
+C119122,2025-02-27,Control,True,0
+C102382,2025-01-28,Free Speed Upgrade,False,6
+C111460,2025-08-21,Control,False,0
+C102955,2024-12-14,Free Speed Upgrade,False,6
+C117992,2025-09-03,Free Speed Upgrade,False,6
+C118012,2024-12-23,Discount $10x12mo,False,10
+C109226,2025-01-03,Mobile Line Free 1yr,False,14
+C116570,2025-10-04,Free Speed Upgrade,True,6
+C117994,2025-11-08,Discount $10x12mo,False,10
+C119414,2025-03-10,Control,True,0
+C110638,2025-05-05,Free Speed Upgrade,False,6
+C104460,2025-04-29,Mobile Line Free 1yr,False,14
+C108805,2025-03-11,Control,False,0
+C107381,2025-11-07,Mobile Line Free 1yr,False,14
+C102843,2025-06-01,Discount $10x12mo,False,10
+C111686,2025-11-29,Free Speed Upgrade,False,6
+C115621,2025-03-08,Free Speed Upgrade,False,6
+C111390,2025-04-08,Free Speed Upgrade,True,6
+C114227,2025-09-14,Control,True,0
+C104161,2025-05-19,Mobile Line Free 1yr,True,14
+C118403,2025-04-03,Free Speed Upgrade,False,6
+C103713,2025-06-09,Mobile Line Free 1yr,False,14
+C106206,2025-01-15,Discount $10x12mo,True,10
+C100493,2025-07-30,Free Speed Upgrade,False,6
+C105076,2025-08-14,Control,False,0
+C104367,2025-04-17,Control,False,0
+C116494,2025-06-02,Discount $10x12mo,False,10
+C115305,2025-09-16,Discount $10x12mo,False,10
+C108117,2025-11-11,Mobile Line Free 1yr,False,14
+C100667,2025-01-18,Discount $10x12mo,False,10
+C105899,2025-05-05,Discount $10x12mo,False,10
+C117712,2025-10-31,Mobile Line Free 1yr,True,14
+C104076,2025-05-17,Mobile Line Free 1yr,False,14
+C111500,2025-10-23,Control,False,0
+C115588,2025-05-24,Control,False,0
+C112613,2025-07-02,Control,False,0
+C109582,2025-06-08,Discount $10x12mo,True,10
+C103929,2025-11-06,Mobile Line Free 1yr,False,14
+C105129,2025-01-26,Mobile Line Free 1yr,True,14
+C118587,2025-02-26,Control,False,0
+C113391,2025-04-01,Control,False,0
+C113938,2024-12-22,Control,False,0
+C112979,2025-03-29,Mobile Line Free 1yr,False,14
+C108733,2025-11-07,Mobile Line Free 1yr,False,14
+C116529,2025-11-04,Control,True,0
+C106317,2025-06-18,Mobile Line Free 1yr,False,14
+C101147,2025-11-04,Discount $10x12mo,False,10
+C117427,2025-04-06,Free Speed Upgrade,False,6
+C117011,2025-03-04,Free Speed Upgrade,False,6
+C110563,2025-11-22,Discount $10x12mo,False,10
+C106147,2025-06-03,Control,False,0
+C118734,2025-11-24,Free Speed Upgrade,False,6
+C100827,2025-01-06,Mobile Line Free 1yr,False,14
+C109874,2024-12-08,Control,False,0
+C107833,2025-07-09,Free Speed Upgrade,False,6
+C110787,2024-12-25,Mobile Line Free 1yr,False,14
+C107606,2025-11-19,Discount $10x12mo,False,10
+C104298,2025-11-19,Control,False,0
+C110829,2024-12-17,Mobile Line Free 1yr,False,14
+C114874,2024-12-14,Free Speed Upgrade,False,6
+C104819,2025-04-30,Discount $10x12mo,False,10
+C119503,2025-03-03,Control,True,0
+C100592,2025-05-13,Free Speed Upgrade,False,6
+C102227,2025-04-28,Free Speed Upgrade,False,6
+C101192,2024-12-29,Mobile Line Free 1yr,False,14
+C107650,2025-05-12,Discount $10x12mo,False,10
+C117877,2024-12-15,Control,False,0
+C104661,2025-11-17,Free Speed Upgrade,False,6
+C102723,2025-03-05,Free Speed Upgrade,False,6
+C107574,2025-07-15,Free Speed Upgrade,False,6
+C109837,2025-02-19,Free Speed Upgrade,False,6
+C103875,2025-07-27,Discount $10x12mo,False,10
+C102195,2025-05-02,Control,False,0
+C119955,2024-12-16,Control,False,0
+C111853,2025-04-29,Discount $10x12mo,False,10
+C115102,2025-09-13,Mobile Line Free 1yr,False,14
+C107703,2025-05-04,Mobile Line Free 1yr,False,14
+C116635,2025-03-15,Mobile Line Free 1yr,True,14
+C119615,2025-01-24,Discount $10x12mo,False,10
+C119993,2025-06-25,Mobile Line Free 1yr,True,14
+C111093,2025-05-23,Discount $10x12mo,True,10
+C104015,2025-01-05,Control,False,0
+C110981,2025-02-23,Mobile Line Free 1yr,False,14
+C112629,2025-05-13,Control,True,0
+C108359,2025-09-06,Free Speed Upgrade,False,6
+C108346,2025-02-24,Control,False,0
+C107511,2025-09-17,Control,False,0
+C100546,2025-01-16,Free Speed Upgrade,False,6
+C106459,2025-04-08,Control,True,0
+C109095,2025-08-15,Discount $10x12mo,False,10
+C116586,2025-09-12,Free Speed Upgrade,False,6
+C101821,2025-08-17,Discount $10x12mo,True,10
+C108065,2025-04-15,Discount $10x12mo,False,10
+C101660,2025-08-12,Discount $10x12mo,True,10
+C111352,2025-08-15,Discount $10x12mo,False,10
+C104428,2025-04-12,Mobile Line Free 1yr,False,14
+C114236,2025-03-20,Control,False,0
+C103013,2025-02-10,Control,False,0
+C107827,2025-11-26,Free Speed Upgrade,False,6
+C101995,2025-05-25,Mobile Line Free 1yr,False,14
+C114648,2025-08-29,Mobile Line Free 1yr,False,14
+C111952,2025-04-02,Free Speed Upgrade,False,6
+C102685,2025-08-30,Discount $10x12mo,True,10
+C106082,2025-08-29,Discount $10x12mo,False,10
+C102182,2025-07-16,Control,False,0
+C117822,2025-08-27,Mobile Line Free 1yr,False,14
+C114045,2024-12-04,Discount $10x12mo,False,10
+C103547,2025-06-18,Discount $10x12mo,False,10
+C107254,2025-02-12,Free Speed Upgrade,False,6
+C111038,2025-08-31,Free Speed Upgrade,False,6
+C102994,2025-02-11,Discount $10x12mo,False,10

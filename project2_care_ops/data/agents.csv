@@ -1,0 +1,401 @@
+agent_id,center,tenure_months,team_lead,hire_cohort
+A1000,Charlotte NC,58,TL11,Experienced
+A1001,El Paso TX,57,TL08,Experienced
+A1002,St. Louis MO,7,TL21,Developing
+A1003,El Paso TX,18,TL06,Developing
+A1004,El Paso TX,20,TL16,Developing
+A1005,Remote,31,TL03,Experienced
+A1006,El Paso TX,21,TL20,Developing
+A1007,Charlotte NC,54,TL01,Experienced
+A1008,Charlotte NC,71,TL14,Experienced
+A1009,St. Louis MO,7,TL02,Developing
+A1010,St. Louis MO,33,TL22,Experienced
+A1011,St. Louis MO,48,TL12,Experienced
+A1012,Stamford CT,76,TL16,Experienced
+A1013,St. Louis MO,1,TL01,New (<6mo)
+A1014,Charlotte NC,80,TL08,Experienced
+A1015,Remote,95,TL05,Experienced
+A1016,Stamford CT,67,TL12,Experienced
+A1017,El Paso TX,86,TL08,Experienced
+A1018,Stamford CT,69,TL05,Experienced
+A1019,Charlotte NC,83,TL14,Experienced
+A1020,St. Louis MO,60,TL21,Experienced
+A1021,St. Louis MO,39,TL12,Experienced
+A1022,St. Louis MO,76,TL02,Experienced
+A1023,Stamford CT,35,TL20,Experienced
+A1024,Charlotte NC,21,TL25,Developing
+A1025,El Paso TX,85,TL20,Experienced
+A1026,St. Louis MO,35,TL25,Experienced
+A1027,Stamford CT,4,TL06,New (<6mo)
+A1028,Remote,69,TL14,Experienced
+A1029,El Paso TX,40,TL04,Experienced
+A1030,El Paso TX,31,TL02,Experienced
+A1031,St. Louis MO,92,TL10,Experienced
+A1032,Stamford CT,48,TL18,Experienced
+A1033,Remote,71,TL18,Experienced
+A1034,El Paso TX,46,TL05,Experienced
+A1035,El Paso TX,41,TL14,Experienced
+A1036,St. Louis MO,50,TL18,Experienced
+A1037,Charlotte NC,68,TL03,Experienced
+A1038,Stamford CT,63,TL13,Experienced
+A1039,Remote,2,TL01,New (<6mo)
+A1040,El Paso TX,7,TL15,Developing
+A1041,Stamford CT,47,TL10,Experienced
+A1042,Remote,61,TL05,Experienced
+A1043,Stamford CT,29,TL07,Experienced
+A1044,Remote,86,TL09,Experienced
+A1045,El Paso TX,14,TL20,Developing
+A1046,El Paso TX,73,TL13,Experienced
+A1047,Remote,93,TL20,Experienced
+A1048,Stamford CT,93,TL20,Experienced
+A1049,Remote,41,TL11,Experienced
+A1050,St. Louis MO,93,TL22,Experienced
+A1051,Charlotte NC,77,TL17,Experienced
+A1052,Charlotte NC,69,TL13,Experienced
+A1053,Remote,17,TL24,Developing
+A1054,Stamford CT,85,TL19,Experienced
+A1055,Stamford CT,2,TL17,New (<6mo)
+A1056,St. Louis MO,1,TL06,New (<6mo)
+A1057,Stamford CT,94,TL19,Experienced
+A1058,St. Louis MO,68,TL22,Experienced
+A1059,Charlotte NC,23,TL17,Developing
+A1060,Charlotte NC,38,TL12,Experienced
+A1061,Stamford CT,33,TL24,Experienced
+A1062,Charlotte NC,32,TL23,Experienced
+A1063,El Paso TX,92,TL20,Experienced
+A1064,Remote,75,TL23,Experienced
+A1065,Stamford CT,37,TL15,Experienced
+A1066,St. Louis MO,59,TL03,Experienced
+A1067,St. Louis MO,52,TL21,Experienced
+A1068,El Paso TX,60,TL24,Experienced
+A1069,Charlotte NC,37,TL19,Experienced
+A1070,Stamford CT,16,TL08,Developing
+A1071,El Paso TX,49,TL01,Experienced
+A1072,El Paso TX,73,TL11,Experienced
+A1073,Charlotte NC,62,TL13,Experienced
+A1074,El Paso TX,40,TL12,Experienced
+A1075,Remote,86,TL19,Experienced
+A1076,Stamford CT,20,TL13,Developing
+A1077,Charlotte NC,77,TL25,Experienced
+A1078,Stamford CT,42,TL11,Experienced
+A1079,St. Louis MO,61,TL10,Experienced
+A1080,Stamford CT,42,TL17,Experienced
+A1081,Stamford CT,92,TL04,Experienced
+A1082,Charlotte NC,27,TL15,Experienced
+A1083,Remote,23,TL11,Developing
+A1084,El Paso TX,67,TL01,Experienced
+A1085,St. Louis MO,90,TL17,Experienced
+A1086,El Paso TX,47,TL10,Experienced
+A1087,St. Louis MO,18,TL17,Developing
+A1088,Charlotte NC,21,TL06,Developing
+A1089,Charlotte NC,59,TL13,Experienced
+A1090,St. Louis MO,59,TL05,Experienced
+A1091,Stamford CT,2,TL18,New (<6mo)
+A1092,Remote,70,TL23,Experienced
+A1093,Stamford CT,27,TL23,Experienced
+A1094,El Paso TX,14,TL05,Developing
+A1095,Charlotte NC,90,TL02,Experienced
+A1096,Charlotte NC,28,TL10,Experienced
+A1097,El Paso TX,17,TL04,Developing
+A1098,Charlotte NC,19,TL17,Developing
+A1099,Remote,19,TL17,Developing
+A1100,Remote,41,TL11,Experienced
+A1101,El Paso TX,11,TL19,Developing
+A1102,El Paso TX,75,TL12,Experienced
+A1103,El Paso TX,58,TL20,Experienced
+A1104,El Paso TX,14,TL09,Developing
+A1105,Charlotte NC,70,TL11,Experienced
+A1106,El Paso TX,49,TL13,Experienced
+A1107,St. Louis MO,86,TL11,Experienced
+A1108,Charlotte NC,11,TL04,Developing
+A1109,Charlotte NC,38,TL09,Experienced
+A1110,Charlotte NC,12,TL03,Developing
+A1111,Charlotte NC,45,TL20,Experienced
+A1112,St. Louis MO,80,TL07,Experienced
+A1113,St. Louis MO,15,TL18,Developing
+A1114,El Paso TX,72,TL02,Experienced
+A1115,Remote,49,TL10,Experienced
+A1116,Charlotte NC,29,TL11,Experienced
+A1117,Stamford CT,12,TL12,Developing
+A1118,St. Louis MO,76,TL11,Experienced
+A1119,St. Louis MO,70,TL13,Experienced
+A1120,Remote,53,TL12,Experienced
+A1121,Charlotte NC,52,TL14,Experienced
+A1122,St. Louis MO,27,TL02,Experienced
+A1123,Charlotte NC,93,TL22,Experienced
+A1124,El Paso TX,30,TL25,Experienced
+A1125,El Paso TX,23,TL25,Developing
+A1126,Charlotte NC,82,TL09,Experienced
+A1127,Remote,47,TL13,Experienced
+A1128,Remote,55,TL19,Experienced
+A1129,Charlotte NC,87,TL06,Experienced
+A1130,El Paso TX,7,TL04,Developing
+A1131,El Paso TX,43,TL15,Experienced
+A1132,Remote,33,TL20,Experienced
+A1133,Charlotte NC,40,TL24,Experienced
+A1134,Charlotte NC,26,TL15,Experienced
+A1135,El Paso TX,60,TL25,Experienced
+A1136,El Paso TX,94,TL07,Experienced
+A1137,St. Louis MO,80,TL21,Experienced
+A1138,St. Louis MO,18,TL14,Developing
+A1139,El Paso TX,70,TL14,Experienced
+A1140,Stamford CT,6,TL15,Developing
+A1141,El Paso TX,29,TL10,Experienced
+A1142,Stamford CT,1,TL21,New (<6mo)
+A1143,St. Louis MO,14,TL19,Developing
+A1144,Stamford CT,76,TL10,Experienced
+A1145,Charlotte NC,46,TL25,Experienced
+A1146,Stamford CT,10,TL16,Developing
+A1147,St. Louis MO,36,TL08,Experienced
+A1148,Remote,20,TL06,Developing
+A1149,El Paso TX,16,TL22,Developing
+A1150,Remote,38,TL03,Experienced
+A1151,Charlotte NC,85,TL20,Experienced
+A1152,El Paso TX,59,TL16,Experienced
+A1153,St. Louis MO,54,TL14,Experienced
+A1154,Remote,53,TL06,Experienced
+A1155,El Paso TX,64,TL04,Experienced
+A1156,Stamford CT,48,TL20,Experienced
+A1157,St. Louis MO,90,TL15,Experienced
+A1158,Charlotte NC,54,TL02,Experienced
+A1159,Stamford CT,11,TL05,Developing
+A1160,St. Louis MO,95,TL07,Experienced
+A1161,Charlotte NC,84,TL06,Experienced
+A1162,Charlotte NC,85,TL24,Experienced
+A1163,Charlotte NC,67,TL16,Experienced
+A1164,El Paso TX,19,TL10,Developing
+A1165,Remote,23,TL25,Developing
+A1166,El Paso TX,72,TL07,Experienced
+A1167,St. Louis MO,20,TL01,Developing
+A1168,St. Louis MO,95,TL22,Experienced
+A1169,Remote,11,TL11,Developing
+A1170,El Paso TX,74,TL03,Experienced
+A1171,Remote,15,TL05,Developing
+A1172,Remote,79,TL15,Experienced
+A1173,Remote,1,TL02,New (<6mo)
+A1174,El Paso TX,10,TL19,Developing
+A1175,El Paso TX,68,TL03,Experienced
+A1176,Remote,74,TL23,Experienced
+A1177,Charlotte NC,18,TL22,Developing
+A1178,Remote,63,TL24,Experienced
+A1179,Charlotte NC,14,TL10,Developing
+A1180,Remote,93,TL04,Experienced
+A1181,Charlotte NC,2,TL19,New (<6mo)
+A1182,Stamford CT,52,TL20,Experienced
+A1183,Remote,92,TL25,Experienced
+A1184,Stamford CT,57,TL13,Experienced
+A1185,Charlotte NC,28,TL20,Experienced
+A1186,St. Louis MO,37,TL07,Experienced
+A1187,Charlotte NC,64,TL05,Experienced
+A1188,El Paso TX,18,TL06,Developing
+A1189,St. Louis MO,55,TL20,Experienced
+A1190,Charlotte NC,82,TL13,Experienced
+A1191,Remote,12,TL10,Developing
+A1192,Stamford CT,4,TL19,New (<6mo)
+A1193,Charlotte NC,5,TL04,New (<6mo)
+A1194,El Paso TX,26,TL20,Experienced
+A1195,Charlotte NC,39,TL19,Experienced
+A1196,El Paso TX,62,TL22,Experienced
+A1197,Remote,1,TL09,New (<6mo)
+A1198,El Paso TX,31,TL16,Experienced
+A1199,Stamford CT,20,TL01,Developing
+A1200,Remote,87,TL06,Experienced
+A1201,Charlotte NC,26,TL06,Experienced
+A1202,El Paso TX,23,TL11,Developing
+A1203,Remote,26,TL20,Experienced
+A1204,Stamford CT,50,TL17,Experienced
+A1205,Remote,31,TL10,Experienced
+A1206,El Paso TX,31,TL18,Experienced
+A1207,El Paso TX,40,TL21,Experienced
+A1208,Stamford CT,83,TL14,Experienced
+A1209,Stamford CT,70,TL06,Experienced
+A1210,El Paso TX,67,TL11,Experienced
+A1211,Charlotte NC,76,TL21,Experienced
+A1212,Remote,63,TL24,Experienced
+A1213,Stamford CT,56,TL23,Experienced
+A1214,El Paso TX,51,TL19,Experienced
+A1215,Charlotte NC,92,TL08,Experienced
+A1216,St. Louis MO,56,TL19,Experienced
+A1217,St. Louis MO,64,TL06,Experienced
+A1218,St. Louis MO,15,TL07,Developing
+A1219,El Paso TX,51,TL21,Experienced
+A1220,Remote,78,TL10,Experienced
+A1221,Stamford CT,34,TL14,Experienced
+A1222,Charlotte NC,90,TL24,Experienced
+A1223,St. Louis MO,47,TL23,Experienced
+A1224,St. Louis MO,9,TL12,Developing
+A1225,Charlotte NC,4,TL22,New (<6mo)
+A1226,El Paso TX,30,TL12,Experienced
+A1227,Stamford CT,16,TL15,Developing
+A1228,St. Louis MO,52,TL24,Experienced
+A1229,Charlotte NC,18,TL16,Developing
+A1230,Remote,20,TL17,Developing
+A1231,El Paso TX,75,TL17,Experienced
+A1232,El Paso TX,61,TL22,Experienced
+A1233,Charlotte NC,85,TL14,Experienced
+A1234,Charlotte NC,13,TL16,Developing
+A1235,Stamford CT,89,TL21,Experienced
+A1236,St. Louis MO,66,TL14,Experienced
+A1237,Stamford CT,58,TL03,Experienced
+A1238,El Paso TX,14,TL07,Developing
+A1239,Charlotte NC,81,TL07,Experienced
+A1240,Stamford CT,53,TL25,Experienced
+A1241,Stamford CT,79,TL07,Experienced
+A1242,Charlotte NC,86,TL08,Experienced
+A1243,St. Louis MO,80,TL22,Experienced
+A1244,El Paso TX,81,TL19,Experienced
+A1245,El Paso TX,19,TL24,Developing
+A1246,Stamford CT,47,TL17,Experienced
+A1247,El Paso TX,72,TL20,Experienced
+A1248,St. Louis MO,9,TL03,Developing
+A1249,El Paso TX,83,TL16,Experienced
+A1250,Remote,6,TL12,Developing
+A1251,Remote,48,TL11,Experienced
+A1252,Charlotte NC,68,TL20,Experienced
+A1253,Stamford CT,47,TL18,Experienced
+A1254,Remote,67,TL13,Experienced
+A1255,Stamford CT,8,TL02,Developing
+A1256,El Paso TX,22,TL23,Developing
+A1257,Charlotte NC,54,TL04,Experienced
+A1258,El Paso TX,47,TL17,Experienced
+A1259,Stamford CT,10,TL14,Developing
+A1260,Remote,11,TL20,Developing
+A1261,El Paso TX,29,TL20,Experienced
+A1262,Stamford CT,8,TL21,Developing
+A1263,Stamford CT,53,TL11,Experienced
+A1264,Stamford CT,49,TL18,Experienced
+A1265,Stamford CT,8,TL05,Developing
+A1266,Charlotte NC,95,TL24,Experienced
+A1267,Remote,86,TL12,Experienced
+A1268,Stamford CT,24,TL17,Experienced
+A1269,Remote,3,TL14,New (<6mo)
+A1270,Charlotte NC,45,TL13,Experienced
+A1271,Charlotte NC,4,TL14,New (<6mo)
+A1272,Remote,10,TL15,Developing
+A1273,Charlotte NC,45,TL24,Experienced
+A1274,Stamford CT,3,TL14,New (<6mo)
+A1275,Stamford CT,59,TL14,Experienced
+A1276,Charlotte NC,6,TL15,Developing
+A1277,St. Louis MO,75,TL22,Experienced
+A1278,Charlotte NC,50,TL23,Experienced
+A1279,Remote,38,TL13,Experienced
+A1280,Remote,90,TL05,Experienced
+A1281,St. Louis MO,33,TL16,Experienced
+A1282,Charlotte NC,27,TL21,Experienced
+A1283,El Paso TX,63,TL03,Experienced
+A1284,Charlotte NC,73,TL05,Experienced
+A1285,St. Louis MO,77,TL09,Experienced
+A1286,Stamford CT,85,TL10,Experienced
+A1287,El Paso TX,24,TL18,Experienced
+A1288,St. Louis MO,6,TL24,Developing
+A1289,St. Louis MO,93,TL02,Experienced
+A1290,El Paso TX,47,TL15,Experienced
+A1291,Charlotte NC,86,TL23,Experienced
+A1292,Charlotte NC,50,TL08,Experienced
+A1293,Charlotte NC,16,TL17,Developing
+A1294,El Paso TX,27,TL11,Experienced
+A1295,Stamford CT,79,TL10,Experienced
+A1296,Charlotte NC,22,TL13,Developing
+A1297,St. Louis MO,13,TL01,Developing
+A1298,Remote,81,TL14,Experienced
+A1299,Charlotte NC,35,TL22,Experienced
+A1300,Charlotte NC,61,TL18,Experienced
+A1301,El Paso TX,51,TL03,Experienced
+A1302,Remote,10,TL14,Developing
+A1303,Remote,63,TL20,Experienced
+A1304,El Paso TX,2,TL03,New (<6mo)
+A1305,El Paso TX,21,TL08,Developing
+A1306,Remote,68,TL01,Experienced
+A1307,El Paso TX,32,TL11,Experienced
+A1308,Charlotte NC,80,TL01,Experienced
+A1309,Stamford CT,14,TL10,Developing
+A1310,Charlotte NC,88,TL13,Experienced
+A1311,St. Louis MO,48,TL10,Experienced
+A1312,St. Louis MO,46,TL05,Experienced
+A1313,El Paso TX,14,TL03,Developing
+A1314,Charlotte NC,52,TL22,Experienced
+A1315,El Paso TX,95,TL06,Experienced
+A1316,Stamford CT,24,TL14,Experienced
+A1317,Stamford CT,53,TL03,Experienced
+A1318,Stamford CT,1,TL25,New (<6mo)
+A1319,St. Louis MO,1,TL20,New (<6mo)
+A1320,Stamford CT,79,TL04,Experienced
+A1321,Stamford CT,95,TL21,Experienced
+A1322,El Paso TX,45,TL23,Experienced
+A1323,Remote,88,TL13,Experienced
+A1324,Charlotte NC,52,TL07,Experienced
+A1325,Charlotte NC,12,TL17,Developing
+A1326,Stamford CT,16,TL20,Developing
+A1327,Stamford CT,10,TL09,Developing
+A1328,Remote,13,TL09,Developing
+A1329,Charlotte NC,5,TL21,New (<6mo)
+A1330,Remote,21,TL11,Developing
+A1331,Remote,46,TL18,Experienced
+A1332,El Paso TX,56,TL15,Experienced
+A1333,St. Louis MO,30,TL01,Experienced
+A1334,Remote,16,TL20,Developing
+A1335,St. Louis MO,43,TL17,Experienced
+A1336,Charlotte NC,31,TL15,Experienced
+A1337,Charlotte NC,17,TL05,Developing
+A1338,St. Louis MO,86,TL21,Experienced
+A1339,St. Louis MO,16,TL12,Developing
+A1340,Charlotte NC,29,TL03,Experienced
+A1341,St. Louis MO,29,TL04,Experienced
+A1342,Stamford CT,60,TL01,Experienced
+A1343,Charlotte NC,47,TL14,Experienced
+A1344,Charlotte NC,42,TL22,Experienced
+A1345,Charlotte NC,4,TL14,New (<6mo)
+A1346,St. Louis MO,95,TL18,Experienced
+A1347,Stamford CT,2,TL22,New (<6mo)
+A1348,St. Louis MO,73,TL14,Experienced
+A1349,Stamford CT,77,TL10,Experienced
+A1350,St. Louis MO,74,TL22,Experienced
+A1351,Charlotte NC,1,TL16,New (<6mo)
+A1352,Charlotte NC,7,TL24,Developing
+A1353,St. Louis MO,39,TL06,Experienced
+A1354,Remote,35,TL19,Experienced
+A1355,Stamford CT,68,TL02,Experienced
+A1356,St. Louis MO,29,TL15,Experienced
+A1357,St. Louis MO,28,TL14,Experienced
+A1358,Charlotte NC,24,TL01,Experienced
+A1359,St. Louis MO,82,TL07,Experienced
+A1360,Charlotte NC,21,TL06,Developing
+A1361,Stamford CT,65,TL24,Experienced
+A1362,Remote,95,TL21,Experienced
+A1363,Charlotte NC,86,TL17,Experienced
+A1364,El Paso TX,2,TL10,New (<6mo)
+A1365,St. Louis MO,51,TL04,Experienced
+A1366,El Paso TX,48,TL20,Experienced
+A1367,St. Louis MO,13,TL06,Developing
+A1368,Stamford CT,38,TL14,Experienced
+A1369,St. Louis MO,34,TL09,Experienced
+A1370,St. Louis MO,37,TL21,Experienced
+A1371,El Paso TX,24,TL11,Experienced
+A1372,St. Louis MO,72,TL03,Experienced
+A1373,Charlotte NC,70,TL17,Experienced
+A1374,St. Louis MO,32,TL17,Experienced
+A1375,Stamford CT,35,TL12,Experienced
+A1376,Stamford CT,59,TL07,Experienced
+A1377,Stamford CT,36,TL08,Experienced
+A1378,Charlotte NC,64,TL17,Experienced
+A1379,Stamford CT,14,TL17,Developing
+A1380,Remote,44,TL04,Experienced
+A1381,Remote,32,TL10,Experienced
+A1382,Remote,62,TL23,Experienced
+A1383,El Paso TX,19,TL12,Developing
+A1384,Stamford CT,56,TL24,Experienced
+A1385,Stamford CT,9,TL14,Developing
+A1386,Charlotte NC,47,TL24,Experienced
+A1387,Charlotte NC,85,TL01,Experienced
+A1388,St. Louis MO,15,TL23,Developing
+A1389,El Paso TX,62,TL13,Experienced
+A1390,Charlotte NC,89,TL14,Experienced
+A1391,Charlotte NC,51,TL23,Experienced
+A1392,El Paso TX,38,TL11,Experienced
+A1393,St. Louis MO,19,TL23,Developing
+A1394,Remote,93,TL18,Experienced
+A1395,St. Louis MO,77,TL20,Experienced
+A1396,St. Louis MO,28,TL08,Experienced
+A1397,Stamford CT,50,TL20,Experienced
+A1398,Stamford CT,15,TL14,Developing
+A1399,Remote,58,TL22,Experienced
