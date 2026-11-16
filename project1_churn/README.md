@@ -54,9 +54,12 @@ The top stated reason for leaving was **"Price increase after promo" (~42%)**.
 A saved customer is worth about **$2,520** (≈$70/month × 3 years).
 
 ## Recommendations
+📄 **[Read the full business case, process maps and pilot plan →](business_case.md)**
+
+
 1. **Contact customers 30–45 days before their promo ends**, prioritized by churn risk score.
 2. **Medium-risk customers:** offer the free speed upgrade (cheapest per save).
-3. **High-risk customers in fiber markets:** offer the free Mobile line, since a bundle keeps customers longest.
+3. 3. **High-risk customers:** offer the free Mobile line, which has the best return in this tier (+$283K per 1,000 customers contacted).
 4. **Replace legacy routers proactively:** they dominate the high-risk list.
 5. **Skip offers for low-risk customers:** most would stay anyway.
 
